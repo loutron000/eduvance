@@ -755,3 +755,171 @@ strong {
     font-size: 0.92rem;
     line-height: 1.65;
 }
+
+
+
+
+.guidance-section {
+    padding: 0 0 80px;
+}
+
+.guidance-banner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 50px;
+
+    padding: 38px 44px;
+
+    border: 1px solid #dbeafe;
+    border-radius: var(--radius-lg);
+
+    background:
+        linear-gradient(
+            110deg,
+            var(--color-blue-tint),
+            var(--color-teal-tint)
+        );
+}
+
+.guidance-content {
+    max-width: 760px;
+}
+
+.guidance-content .eyebrow {
+    margin-bottom: 12px;
+}
+
+.guidance-content h2 {
+    margin-bottom: 12px;
+
+    font-size: 1.8rem;
+    letter-spacing: -0.025em;
+}
+
+.guidance-content p {
+    max-width: 700px;
+
+    color: var(--color-text-light);
+    font-size: 0.92rem;
+    line-height: 1.65;
+}
+
+.guidance-banner .text-link {
+    flex: 0 0 auto;
+
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+
+    white-space: nowrap;
+}
+
+
+
+.cta-section {
+    padding: 0 0 96px;
+}
+
+.cta-banner {
+    position: relative;
+
+    display: flex;
+    align-items: center;
+    gap: 24px;
+
+    padding: 32px;
+
+    border-radius: var(--radius-xl);
+
+    background:
+        linear-gradient(
+            110deg,
+            #1f50d0,
+            #2560e8 55%,
+            #178bb0
+        );
+
+    box-shadow: 0 14px 32px rgba(37, 99, 235, 0.16);
+
+    overflow: hidden;
+}
+
+.cta-banner::after {
+    content: "";
+
+    position: absolute;
+    width: 300px;
+    height: 300px;
+
+    right: -100px;
+    bottom: -190px;
+
+    border-radius: 50%;
+
+    background: rgba(255, 255, 255, 0.08);
+}
+
+.cta-logo {
+    position: relative;
+    z-index: 1;
+
+    width: 70px;
+    height: 70px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    flex: 0 0 auto;
+
+    border-radius: 14px;
+
+    background-color: #ffffff;
+}
+
+.cta-logo img {
+    width: 46px;
+    height: 46px;
+    object-fit: contain;
+}
+
+.cta-content {
+    position: relative;
+    z-index: 1;
+
+    flex: 1;
+}
+
+.cta-content h2 {
+    margin-bottom: 5px;
+
+    color: #ffffff;
+
+    font-size: 1.7rem;
+    letter-spacing: -0.025em;
+}
+
+.cta-content p {
+    color: rgba(255, 255, 255, 0.82);
+    font-size: 0.9rem;
+}
+
+.cta-button {
+    position: relative;
+    z-index: 1;
+
+    flex: 0 0 auto;
+
+    min-width: 160px;
+
+    background-color: #ffffff;
+    color: var(--color-primary);
+
+    box-shadow: none;
+}
+
+.cta-button:hover {
+    background-color: #f8fafc;
+    color: var(--color-primary-dark);
+}
