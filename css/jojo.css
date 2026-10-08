@@ -841,3 +841,135 @@
         padding: 24px;
     }
 }
+
+.dashboard-guidance {
+    padding: 40px 0 64px;
+}
+
+.dashboard-guidance_content {
+    max-width: 760px;
+    margin-inline: auto;
+    padding: 36px 32px;
+    background: var(--color-blue-tint);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    text-align: center;
+}
+
+.dashboard-guidance_eyebrow {
+    margin: 0 0 12px;
+    color: var(--color-accent-dark);
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+
+.dashboard-guidance h2 {
+    margin: 0 0 14px;
+    color: var(--color-heading);
+    font-family: var(--heading-font);
+    font-size: clamp(1.6rem, 3vw, 2.1rem);
+    line-height: 1.25;
+    letter-spacing: -0.02em;
+}
+
+.dashboard-guidance_content > p:last-child {
+    max-width: 600px;
+    margin: 0 auto;
+    color: var(--color-text);
+    font-size: 1rem;
+    line-height: 1.8;
+}
+
+@media (max-width: 640px) {
+    .dashboard-guidance {
+        padding: 24px 0 40px;
+    }
+
+    .dashboard-guidance_content {
+        padding: 28px 20px;
+    }
+}
+
+
+@media (max-width: 768px) {
+    .dashboard-welcome {
+        padding: 48px 0 32px;
+    }
+
+    .dashboard-assessment,
+    .dashboard-results,
+    .dashboard-roadmap {
+        padding: 20px 0 28px;
+    }
+
+    .dashboard-assessment_card,
+    .dashboard-results_card,
+    .dashboard-roadmap_card {
+        padding: 32px;
+    }
+
+    .dashboard-explore {
+        padding: 24px 0 36px;
+    }
+
+    .dashboard-explore_grid {
+        gap: 16px;
+    }
+
+    .dashboard-explore_card {
+        padding: 24px;
+    }
+
+    .dashboard-guidance {
+        padding: 24px 0 40px;
+    }
+}
+
+
+@media (max-width: 480px) {
+    .dashboard-welcome {
+        padding: 36px 0 24px;
+    }
+
+    .dashboard-welcome_subtitle {
+        font-size: 1rem;
+    }
+
+    .dashboard-assessment_card,
+    .dashboard-results_card,
+    .dashboard-roadmap_card {
+        padding: 24px 20px;
+    }
+
+    .dashboard-assessment,
+    .dashboard-results,
+    .dashboard-roadmap {
+        padding: 16px 0 24px;
+    }
+
+    .dashboard-assessment_actions {
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 8px;
+    }
+
+    .dashboard-assessment_button,
+    .dashboard-results_button,
+    .dashboard-roadmap_button {
+        max-width: 100%;
+    }
+
+    .dashboard-explore_grid {
+        grid-template-columns: 1fr;
+    }
+
+    .dashboard-explore_card {
+        padding: 22px 20px;
+    }
+
+    .dashboard-guidance_content {
+        padding: 28px 20px;
+    }
+}
