@@ -484,3 +484,41 @@
     background-color: #f8fafc;
     color: var(--color-primary-dark);
 }
+
+/* Dashboard Page */
+.container {
+    width: min(100% - 40px, var(--container-width));
+    margin-inline: auto;
+}
+.dashboard-welcome {
+    padding: 64px 0 40px;
+}
+
+.dashboard-welcome_content {
+    max-width: 760px;
+}
+
+.dashboard-welcome_eyebrow {
+    margin-bottom: 12px;
+    color: var(--color-primary);
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+
+.dashboard-welcome h1 {
+    margin: 0;
+    color: var(--color-heading);
+    font-family: var(--heading-font);
+    font-size: clamp(2rem, 4vw, 3rem);
+    line-height: 1.15;
+    letter-spacing: -0.03em;
+}
+
+.dashboard-welcome_subtitle {
+    margin: 14px 0 0;
+    color: var(--color-text-light);
+    font-size: 1.05rem;
+    line-height: 1.6;
+}
