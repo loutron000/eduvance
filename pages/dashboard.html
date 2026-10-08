@@ -1,0 +1,263 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Eduvance - Dashboard</title>
+
+    <link rel="stylesheet" href="../css/style.css" />
+    <link rel="stylesheet" href="../css/jojo.css" />
+  </head>
+
+  <body>
+    <header class="site-header">
+      <nav class="navbar">
+        <div class="container navbar-container">
+          <a
+            href="../index.html"
+            class="navbar-brand"
+            aria-label="Eduvance home"
+          >
+            <img src="../assets/logo/logo.jpg" alt="" class="brand-logo" />
+
+            <span class="brand-wordmark" aria-hidden="true">
+              <span class="brand-edu">EDU</span
+              ><span class="brand-vance">VANCE</span>
+            </span>
+          </a>
+
+          <div class="navbar-links logged-out-nav hidden">
+            <a href="how-it-works.html">How it works</a>
+            <a href="login.html">Sign in</a>
+
+            <a href="signup.html" class="btn btn-primary nav-cta">
+              Get started
+              <span aria-hidden="true">↗</span>
+            </a>
+          </div>
+
+          <div class="navbar-links logged-in-nav">
+            <a href="how-it-works.html">How it works</a>
+            <a href="results.html">My results</a>
+
+            <button type="button" class="btn nav-signout">Sign out</button>
+          </div>
+
+          <button
+            class="menu-toggle"
+            type="button"
+            aria-label="Open navigation"
+            aria-expanded="false"
+          >
+            ☰
+          </button>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <section class="dashboard-welcome">
+        <div class="container">
+          <div class="dashboard-welcome_content">
+            <p class="dashboard-welcome_eyebrow">Your Eduvance Space</p>
+
+            <h1>Welcome back, <span id="user-name">[Name]</span>!</h1>
+
+            <p class="dashboard-welcome_subtitle">
+              Ready to explore what could be next?
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section class="dashboard-assessment">
+        <div class="container">
+          <div class="dashboard-assessment_card">
+            <div class="dashboard-assessment_new">
+              <p class="dashboard-assessment_eyebrow">Career Assessment</p>
+
+              <h2>Discover your career directions</h2>
+
+              <p>
+                Answer a few questions about your strenghts, subjects, interests
+                and work style.
+              </p>
+
+              <a href="assessment.html" class="dashboard-assessment_button">
+                Take the assessment<span aria-hidden="true">↗</span>
+              </a>
+            </div>
+
+            <div class="dashboard-assessment_completed" hidden>
+              <p class="dashboard-assessment_eyebrow">Career Assessment</p>
+
+              <h2>Your assessment is complete</h2>
+
+              <p>
+                You've explored some career directions based on your answers.
+              </p>
+
+              <div class="dashboard-assessment_actions">
+                <a
+                  href="assessment.html"
+                  class="dashboard-assessment_secondary-button"
+                >
+                  Retake the assessment
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="dashboard-results">
+        <div class="container">
+          <div class="dashboard-results_card">
+            <div class="dashboard-results_new">
+              <p class="dashboard-results_eyebrow">Your results</p>
+
+              <h2>Your career directions start here</h2>
+
+              <p class="dashboard-results_description">
+                Your results will help you understand which career paths may
+                suit your strengths, interests and preferences.
+              </p>
+
+              <p class="dashboard-results_note">
+                Complete your career assessment above to discover your results.
+              </p>
+            </div>
+
+            <div class="dashboard-results_completed" hidden>
+              <p class="dashboard-results_eyebrow">Your results</p>
+
+              <h2>Want to understand your results?</h2>
+
+              <p class="dashboard-results_description">
+                Explore your strongest career recommendation, discover
+                alternative paths, and understand why each may suit you.
+              </p>
+
+              <a href="results.html" class="dashboard-results_button">
+                Explore your results
+                <span aria-hidden="true">↗</span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="dashboard-roadmap">
+        <div class="container">
+          <div class="dashboard-roadmap_card">
+            <div class="dashboard-roadmap_new">
+              <p class="dashboard-roadmap_eyebrow">Your roadmap</p>
+
+              <h2>Your next steps will take shape here</h2>
+
+              <p class="dashboard-roadmap_description">
+                Once you've completed your assessment, you can explore a
+                personalised roadmap for your strongest career recommendation.
+              </p>
+            </div>
+
+            <div class="dashboard-roadmap_completed" hidden>
+              <p class="dashboard-roadmap_eyebrow">Your roadmap</p>
+
+              <h2>Turn your career direction into a plan</h2>
+
+              <p class="dashboard-roadmap_description">
+                Explore the steps, skills and learning opportunities that can
+                help you work towards your recommended career.
+              </p>
+
+              <a href="roadmap.html" class="dashboard-roadmap_button">
+                View your roadmap
+                <span aria-hidden="true">↗</span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="dashboard-explore">
+        <div class="container">
+          <div class="dashboard-explore_header">
+            <p class="dashboard-explore_eyebrow">Keep exploring</p>
+
+            <h2>There's more to discover</h2>
+
+            <p class="dashboard-explore_description">
+              Learn how Eduvance works and explore your options at your own
+              pace.
+            </p>
+          </div>
+
+          <div class="dashboard-explore_grid">
+            <a href="careers.html" class="dashboard-explore_card">
+              <h3>Explore careers</h3>
+              <p>
+                Learn about different career paths, what they involve, and where
+                they could lead.
+              </p>
+            </a>
+
+            <a href="how-it-works.html" class="dashboard-explore_card">
+              <h3>How Eduvance works</h3>
+              <p>
+                Understand how your assessment can help you explore career
+                directions.
+              </p>
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <section class="dashboard-guidance">
+        <div class="container">
+          <div class="dashboard-guidance_content">
+            <p class="dashboard-guidance_eyebrow">A reminder from Eduvance</p>
+
+            <h2>Guidance, not a verdict.</h2>
+
+            <p>
+              Your assessment is a starting point, not a limit. Your interests
+              can grow, your strengths can develop, and your future can take
+              more than one direction.
+            </p>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-container">
+        <a href="../index.html" class="footer-brand" aria-label="Eduvance home">
+          <img src="../assets/logo/logo.jpg" alt="" class="footer-logo" />
+
+          <span class="footer-wordmark" aria-hidden="true">
+            <span class="brand-edu">EDU</span
+            ><span class="brand-vance">VANCE</span>
+          </span>
+
+          <span class="footer-tagline">
+            Explore. Understand. Move forward.
+          </span>
+        </a>
+
+        <div class="footer-right">
+          <nav class="footer-links" aria-label="Footer navigation">
+            <a href="about.html">About</a>
+            <a href="privacy.html">Privacy &amp; policy</a>
+          </nav>
+
+          <span class="footer-copyright"> © 2026 Eduvance. </span>
+        </div>
+      </div>
+    </footer>
+
+    <script src="../js/main.js"></script>
+    <script src="../js/dashboard.js"></script>
+  </body>
+</html>
