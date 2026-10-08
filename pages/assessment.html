@@ -8,7 +8,6 @@
 
     <link rel="stylesheet" href="../css/style.css" />
     <link rel="stylesheet" href="../css/valour.css" />
-    <link rel="stylesheet" href="../css/jojo.css" />
   </head>
 
   <body>
@@ -56,6 +55,127 @@
         </div>
       </nav>
     </header>
+
+    <main class="assessment-page">
+      <div class="assessment-context">
+        <a href="how-it-works.html" class="assessment-back"> ← How it works </a>
+
+        <span class="assessment-save-status">
+          ✓ Your progress saves as you go
+        </span>
+      </div>
+
+      <section class="assessment-layout">
+        <!-- Left: Assessment Introduction -->
+        <aside class="assessment-intro">
+          <div class="assessment-intro-content">
+            <span class="assessment-eyebrow">CAREER ASSESSMENT</span>
+
+            <h1>Let’s find your direction.</h1>
+
+            <p>
+              Answer honestly. There are no right or wrong answers. Your
+              responses help us understand your strengths, subjects, work style,
+              and interests.
+            </p>
+          </div>
+
+          <div class="assessment-remember">
+            <h2>Remember</h2>
+
+            <p>
+              Choose the answer that feels most like you. Don't choose what you
+              think you are supposed to choose.
+            </p>
+          </div>
+
+          <div class="assessment-categories">
+            <h2>What we're exploring</h2>
+
+            <ul class="category-list">
+              <li class="category-item category-strengths">
+                <span class="category-indicator"></span>
+                <span>Strengths</span>
+              </li>
+
+              <li class="category-item category-subjects">
+                <span class="category-indicator"></span>
+                <span>Subjects</span>
+              </li>
+
+              <li class="category-item category-work-style">
+                <span class="category-indicator"></span>
+                <span>Work Style</span>
+              </li>
+
+              <li class="category-item category-interests">
+                <span class="category-indicator"></span>
+                <span>Interests</span>
+              </li>
+            </ul>
+          </div>
+        </aside>
+
+        <!-- Right: Question -->
+        <section class="assessment-question-area">
+          <div class="assessment-card">
+            <div class="question-meta">
+              <span class="question-counter">
+                QUESTION <span id="question-number">01</span> / 25
+              </span>
+
+              <span class="question-percentage" id="question-percentage">
+                4%
+              </span>
+            </div>
+
+            <div class="question-progress" aria-label="Assessment progress">
+              <div class="progress-bar">
+                <div class="progress-fill" id="progress-fill"></div>
+              </div>
+            </div>
+
+            <div class="question-category" id="question-category"></div>
+
+            <div class="question-content">
+              <h2 class="question-text" id="question-text"></h2>
+
+              <p class="question-helper" id="question-helper"></p>
+            </div>
+
+            <div
+              class="answer-options"
+              id="answer-options"
+              role="radiogroup"
+              aria-label="Answer options"
+            ></div>
+
+            <div class="assessment-controls">
+              <button
+                type="button"
+                class="previous-button"
+                id="previous-button"
+                disabled
+              >
+                ← Previous
+              </button>
+
+              <span class="question-position" id="question-position">
+                1 of 25
+              </span>
+
+              <button type="button" class="next-button" id="next-button">
+                Next →
+              </button>
+            </div>
+          </div>
+
+          <p class="assessment-disclaimer">
+            <strong>This is guidance, not a verdict.</strong>
+          </p>
+        </section>
+      </section>
+    </main>
 
     <footer class="site-footer">
       <div class="container footer-container">
