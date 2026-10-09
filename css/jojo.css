@@ -485,6 +485,351 @@
     color: var(--color-primary-dark);
 }
 
+
+@media (max-width: 1000px) {
+    .hero {
+        padding: 56px 0;
+    }
+
+    .hero-container {
+        grid-template-columns: minmax(0, 1fr) minmax(0, 0.85fr);
+        gap: 36px;
+    }
+
+    .hero-visual {
+        min-height: 360px;
+    }
+
+    .hero-visual::before {
+        width: 320px;
+        height: 320px;
+    }
+
+    .hero-actions {
+        flex-wrap: wrap;
+        gap: 16px;
+    }
+
+    .steps-container {
+        gap: 16px;
+    }
+
+    .step {
+        gap: 9px;
+    }
+
+    .step h3 {
+        font-size: 0.84rem;
+    }
+
+    .clarity-section {
+        padding: 72px 0;
+    }
+
+    .section-heading-row {
+        grid-template-columns: minmax(0, 1fr) 280px;
+        gap: 32px;
+    }
+
+    .feature-grid {
+        gap: 16px;
+    }
+
+    .feature-card {
+        padding: 24px;
+    }
+
+    .feature-number {
+        margin-bottom: 36px;
+    }
+
+    .guidance-banner {
+        gap: 28px;
+        padding: 32px;
+    }
+
+    .cta-banner {
+        gap: 20px;
+        padding: 28px;
+    }
+}
+
+
+@media (max-width: 760px) {
+    .hero {
+        padding: 44px 0 48px;
+    }
+
+    .hero-container {
+        grid-template-columns: minmax(0, 1fr);
+        gap: 32px;
+    }
+
+    .hero-content {
+        max-width: 100%;
+    }
+
+    .hero-eyebrow {
+        margin-bottom: 18px;
+        font-size: 0.68rem;
+        letter-spacing: 0.07em;
+    }
+
+    .hero h1 {
+        max-width: 600px;
+        margin-bottom: 18px;
+    }
+
+    .hero-description {
+        margin-bottom: 24px;
+        font-size: 1rem;
+    }
+
+    .hero-actions {
+        align-items: flex-start;
+        gap: 16px;
+        margin-bottom: 22px;
+    }
+
+    .hero-visual {
+        min-height: 300px;
+        border-radius: var(--radius-lg);
+    }
+
+    .hero-visual::before {
+        width: 300px;
+        height: 300px;
+        transform: translate(40px, 30px);
+    }
+
+    .hero-image-placeholder {
+        border-radius: var(--radius-lg);
+    }
+
+
+    .steps {
+        padding: 28px 0;
+    }
+
+    .steps-container {
+        grid-template-columns: minmax(0, 1fr);
+        gap: 20px;
+    }
+
+    .step {
+        align-items: center;
+    }
+
+    .step-divider {
+        width: 100%;
+        height: 1px;
+    }
+
+    .step h3 {
+        font-size: 0.95rem;
+    }
+
+
+    .clarity-section {
+        padding: 56px 0;
+    }
+
+    .section-heading-row {
+        grid-template-columns: minmax(0, 1fr);
+        gap: 18px;
+        margin-bottom: 30px;
+    }
+
+    .section-heading-note {
+        max-width: 560px;
+    }
+
+    .feature-grid {
+        grid-template-columns: minmax(0, 1fr);
+        gap: 16px;
+    }
+
+    .feature-card {
+        min-height: auto;
+        padding: 26px;
+    }
+
+    .feature-number {
+        margin-bottom: 28px;
+    }
+
+
+    .guidance-section {
+        padding-bottom: 56px;
+    }
+
+    .guidance-banner {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 20px;
+        padding: 28px;
+    }
+
+    .guidance-content h2 {
+        font-size: 1.65rem;
+    }
+
+
+    .cta-section {
+        padding-bottom: 64px;
+    }
+
+    .cta-banner {
+        flex-wrap: wrap;
+        align-items: flex-start;
+        gap: 20px;
+        padding: 26px;
+    }
+
+    .cta-logo {
+        width: 56px;
+        height: 56px;
+    }
+
+    .cta-logo img {
+        width: 38px;
+        height: 38px;
+    }
+
+    .cta-content {
+        flex-basis: 100%;
+    }
+
+    .cta-content h2 {
+        font-size: 1.55rem;
+    }
+
+    .cta-button {
+        width: 100%;
+    }
+}
+
+
+
+@media (max-width: 480px) {
+    .hero {
+        padding: 36px 0 40px;
+    }
+
+    .hero-container {
+        gap: 26px;
+    }
+
+    .hero-eyebrow {
+        gap: 7px;
+        padding: 7px 10px;
+        font-size: 0.62rem;
+        letter-spacing: 0.05em;
+    }
+
+    .hero h1 {
+        font-size: clamp(2rem, 9vw, 2.5rem);
+        letter-spacing: -0.04em;
+    }
+
+    .hero-description {
+        font-size: 0.95rem;
+        line-height: 1.7;
+    }
+
+    .hero-actions {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 16px;
+    }
+
+    .hero-actions .btn {
+        width: 100%;
+        padding-inline: 14px;
+        text-align: center;
+    }
+
+    .hero-secondary-link {
+        align-self: flex-start;
+    }
+
+    .hero-reassurance {
+        align-items: flex-start;
+        font-size: 0.8rem;
+    }
+
+    .hero-visual {
+        min-height: 230px;
+    }
+
+    .hero-visual::before {
+        width: 240px;
+        height: 240px;
+    }
+
+    .steps-container {
+        gap: 17px;
+    }
+
+    .clarity-section {
+        padding: 44px 0;
+    }
+
+    .section-heading-row {
+        margin-bottom: 24px;
+    }
+
+    .feature-card {
+        padding: 22px;
+    }
+
+    .feature-number {
+        margin-bottom: 24px;
+    }
+
+    .guidance-section {
+        padding-bottom: 44px;
+    }
+
+    .guidance-banner {
+        gap: 18px;
+        padding: 22px;
+    }
+
+    .guidance-content h2 {
+        font-size: 1.5rem;
+    }
+
+    .cta-section {
+        padding-bottom: 48px;
+    }
+
+    .cta-banner {
+        gap: 16px;
+        padding: 22px;
+        border-radius: var(--radius-lg);
+    }
+
+    .cta-content h2 {
+        font-size: 1.4rem;
+    }
+
+    .cta-content p {
+        line-height: 1.6;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .feature-card {
+        transition: none;
+    }
+
+    .feature-card:hover {
+        transform: none;
+    }
+}
+
+
 /* Dashboard Page */
 .container {
     width: min(100% - 40px, var(--container-width));
