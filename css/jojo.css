@@ -122,54 +122,30 @@
 
 
 .hero-visual {
-    position: relative;
-
-    min-height: 460px;
-
+    width: 100%;
+    min-width: 0;
     display: flex;
     align-items: center;
     justify-content: center;
-
-    border-radius: var(--radius-xl);
-
-    background-color: var(--color-blue-tint);
     overflow: hidden;
+    border-radius: 24px;
+    background: transparent;
+}
+
+.hero-image {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    object-fit: contain;
+    object-position: center;
+    border-radius: 24px;
 }
 
 .hero-visual::before {
-    content: "";
-
-    position: absolute;
-
-    width: 420px;
-    height: 420px;
-
-    border-radius: 50%;
-
-    background-color: rgba(255, 255, 255, 0.6);
-
-    transform: translate(70px, 40px);
+    content: none;
 }
 
-.hero-image-placeholder {
-    position: relative;
-    z-index: 1;
-
-    width: 82%;
-    height: 82%;
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    border-radius: 24px;
-
-    background-color: #dbeafe;
-
-    color: var(--color-text-muted);
-
-    font-size: 0.85rem;
-}
 
 
 .steps {
@@ -596,17 +572,6 @@
         border-radius: var(--radius-lg);
     }
 
-    .hero-visual::before {
-        width: 300px;
-        height: 300px;
-        transform: translate(40px, 30px);
-    }
-
-    .hero-image-placeholder {
-        border-radius: var(--radius-lg);
-    }
-
-
     .steps {
         padding: 28px 0;
     }
@@ -828,6 +793,46 @@
         transform: none;
     }
 }
+
+
+.hero-visual {
+    min-width: 0;
+    min-height: 0;
+}
+
+.hero-image {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    object-fit: contain;
+    border-radius: 24px;
+}
+
+@media (max-width: 760px) {
+    .hero-visual {
+        width: 100%;
+        min-height: 0;
+    }
+
+    .hero-image {
+        width: 100%;
+        height: auto;
+        max-width: 560px;
+        margin-inline: auto;
+    }
+}
+
+@media (max-width: 480px) {
+    .hero-visual {
+        min-height: 0;
+    }
+
+    .hero-image {
+        max-width: 100%;
+        border-radius: 18px;
+    }
+}
+
 
 
 /* Dashboard Page */
