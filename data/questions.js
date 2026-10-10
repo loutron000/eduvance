@@ -64,4 +64,40 @@ const questions = [
       },
     ],
   },
+
+
+  {
+    id: 3,
+    title: "Two different answers",
+    prompt:
+      "Two people give convincing but different explanations for the same question. What would you most likely do?",
+    options: [
+      {
+        id: "A",
+        text: "Find information that can help determine which explanation is stronger.",
+        dimension: "SC",
+        points: 3,
+      },
+      {
+        id: "B",
+        text: "Work out how each person arrived at their conclusion.",
+        dimension: "AT",
+        points: 3,
+      },
+      {
+        id: "C",
+        text: "Think of another explanation that could also make sense.",
+        dimension: "CR",
+        points: 3,
+      },
+      {
+        id: "D",
+        text: "Ask someone experienced in the subject to explain how they would approach the question.",
+        dimension: "CO",
+        points: 3,
+      },
+    ],
+  }
+
+  
 ];
