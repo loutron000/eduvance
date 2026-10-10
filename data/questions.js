@@ -319,4 +319,166 @@ const questions = [
       },
     ],
   },
+
+  {
+    id: 11,
+    title: "Choosing a practical project",
+    prompt:
+      "You can choose one project to work on. Which appeals to you most?",
+    options: [
+      {
+        id: "A",
+        text: "Build something that solves a real problem.",
+        dimension: "PR",
+        points: 3,
+      },
+      {
+        id: "B",
+        text: "Carry out an investigation and see what you discover.",
+        dimension: "SC",
+        points: 3,
+      },
+      {
+        id: "C",
+        text: "Create a digital product, such as a website or simple app.",
+        dimension: "TD",
+        points: 3,
+      },
+      {
+        id: "D",
+        text: "Create something where design and appearance matter.",
+        dimension: "CR",
+        points: 3,
+      },
+    ],
+  },
+  {
+    id: 12,
+    title: "You have ₦50,000",
+    prompt:
+      "Imagine you have ₦50,000 available for a project or personal initiative. Which question would you naturally think about first?",
+    options: [
+      {
+        id: "A",
+        text: "What useful thing could I make or build with it?",
+        dimension: "PR",
+        points: 3,
+      },
+      {
+        id: "B",
+        text: "How could I use it to make more money?",
+        dimension: "BE",
+        points: 3,
+      },
+      {
+        id: "C",
+        text: "How should I organise the spending so every part of a project is covered?",
+        dimension: "LE",
+        points: 3,
+      },
+      {
+        id: "D",
+        text: "What problem could I solve for people with it?",
+        dimension: "PS",
+        points: 3,
+      },
+    ],
+  },
+  {
+    id: 13,
+    title: "A difficult topic",
+    prompt:
+      "You are struggling to understand a difficult topic in one of your subjects. What would you most likely do?",
+    options: [
+      {
+        id: "A",
+        text: "Break it into smaller parts and tackle one at a time.",
+        dimension: "PS",
+        points: 3,
+      },
+      {
+        id: "B",
+        text: "Find an online explanation or digital learning tool that explains it differently.",
+        dimension: "TD",
+        points: 3,
+      },
+      {
+        id: "C",
+        text: "Try solving examples until I understand the pattern.",
+        dimension: "AT",
+        points: 3,
+      },
+      {
+        id: "D",
+        text: "Ask someone who understands it to show me how they approach it.",
+        dimension: "PH",
+        points: 3,
+      },
+    ],
+  },
+  {
+    id: 14,
+    title: "New technology at school",
+    prompt:
+      "Your school introduces a technology you have never used before. What would you most likely do?",
+    options: [
+      {
+        id: "A",
+        text: "Find out how it works.",
+        dimension: "TD",
+        points: 3,
+      },
+      {
+        id: "B",
+        text: "Learn what I can actually use it for.",
+        dimension: "TD",
+        points: 3,
+      },
+      {
+        id: "C",
+        text: "Think about what could make it better.",
+        dimension: "CR",
+        points: 3,
+      },
+      {
+        id: "D",
+        text: "See how other people are using it.",
+        dimension: "CO",
+        points: 3,
+      },
+    ],
+  },
+  {
+    id: 15,
+    title: "Someone has a problem",
+    prompt:
+      "Someone you know tells you they are dealing with a difficult situation. What would you most likely do first?",
+    options: [
+      {
+        id: "A",
+        text: "Listen carefully so I understand what they are dealing with.",
+        dimension: "PH",
+        points: 3,
+      },
+      {
+        id: "B",
+        text: "Help them work out what they could do next.",
+        dimension: "PS",
+        points: 3,
+      },
+      {
+        id: "C",
+        text: "Explain something they may not understand.",
+        dimension: "CO",
+        points: 3,
+      },
+      {
+        id: "D",
+        text: "Help them find someone or something that could help.",
+        dimension: "PH",
+        points: 3,
+      },
+    ],
+  },
+  
 ];
