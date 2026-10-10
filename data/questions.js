@@ -65,7 +65,6 @@ const questions = [
     ],
   },
 
-
   {
     id: 3,
     title: "Two different answers",
@@ -99,7 +98,6 @@ const questions = [
     ],
   }
 
-  
   {
     id: 4,
     title: "A free afternoon",
@@ -128,6 +126,39 @@ const questions = [
         id: "D",
         text: "Watch or read something that explains how something works.",
         dimension: "SC",
+        points: 3,
+      },
+    ],
+  },
+
+  {
+    id: 5,
+    title: "An unexpected result",
+    prompt:
+      "During a school practical, your group gets a result nobody expected. What would interest you most?",
+    options: [
+      {
+        id: "A",
+        text: "Finding out what caused the unexpected result.",
+        dimension: "AT",
+        points: 3,
+      },
+      {
+        id: "B",
+        text: "Checking whether the same thing would happen if the practical were repeated.",
+        dimension: "SC",
+        points: 3,
+      },
+      {
+        id: "C",
+        text: "Thinking about whether the result could help solve a real problem.",
+        dimension: "PS",
+        points: 3,
+      },
+      {
+        id: "D",
+        text: "Working out how to explain clearly to someone else what happened.",
+        dimension: "CO",
         points: 3,
       },
     ],
