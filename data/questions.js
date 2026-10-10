@@ -100,4 +100,36 @@ const questions = [
   }
 
   
+  {
+    id: 4,
+    title: "A free afternoon",
+    prompt:
+      "You have a free afternoon with no schoolwork to complete. Which activity would you most likely choose?",
+    options: [
+      {
+        id: "A",
+        text: "Learn how to use something new on my phone or computer.",
+        dimension: "TD",
+        points: 3,
+      },
+      {
+        id: "B",
+        text: "Make, repair, assemble, or change something.",
+        dimension: "PR",
+        points: 3,
+      },
+      {
+        id: "C",
+        text: "Draw, design, write, edit, or create something.",
+        dimension: "CR",
+        points: 3,
+      },
+      {
+        id: "D",
+        text: "Watch or read something that explains how something works.",
+        dimension: "SC",
+        points: 3,
+      },
+    ],
+  }
 ];
