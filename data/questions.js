@@ -480,5 +480,165 @@ const questions = [
       },
     ],
   },
-  
+
+  {
+    id: 16,
+    title: "A difficult question",
+    prompt:
+      "You encounter a difficult question and do not immediately know the answer. What would you most likely do?",
+    options: [
+      {
+        id: "A",
+        text: "Use what I already know to try to work it out.",
+        dimension: "AT",
+        points: 3,
+      },
+      {
+        id: "B",
+        text: "Search for information and compare what I find.",
+        dimension: "SC",
+        points: 3,
+      },
+      {
+        id: "C",
+        text: "Try an approach that is not immediately obvious.",
+        dimension: "PS",
+        points: 3,
+      },
+      {
+        id: "D",
+        text: "Find someone who has dealt with something similar.",
+        dimension: "PH",
+        points: 3,
+      },
+    ],
+  },
+  {
+    id: 17,
+    title: "A week gaining experience",
+    prompt:
+      "You have an opportunity to spend a week gaining experience in one of these environments. Which would you prefer?",
+    options: [
+      {
+        id: "A",
+        text: "A place where people build or work with software and digital tools.",
+        dimension: "TD",
+        points: 3,
+      },
+      {
+        id: "B",
+        text: "A laboratory or similar environment where things are tested and investigated.",
+        dimension: "SC",
+        points: 3,
+      },
+      {
+        id: "C",
+        text: "A workshop, site, or other environment where things are built, repaired, or operated.",
+        dimension: "PR",
+        points: 3,
+      },
+      {
+        id: "D",
+        text: "A place where people work directly with or help other people.",
+        dimension: "PH",
+        points: 3,
+      },
+    ],
+  },
+  {
+    id: 18,
+    title: "A deadline is approaching",
+    prompt:
+      "Your group project is due in three days, but the group is becoming disorganised. What would you most likely do?",
+    options: [
+      {
+        id: "A",
+        text: "Help everyone figure out what still needs to be done.",
+        dimension: "LE",
+        points: 3,
+      },
+      {
+        id: "B",
+        text: "Focus on completing my own part properly.",
+        dimension: "PR",
+        points: 3,
+      },
+      {
+        id: "C",
+        text: "Suggest a different approach that could save time.",
+        dimension: "PS",
+        points: 3,
+      },
+      {
+        id: "D",
+        text: "Ask everyone what they have completed before deciding what to do next.",
+        dimension: "LE",
+        points: 3,
+      },
+    ],
+  },
+  {
+    id: 19,
+    title: "A problem around you",
+    prompt:
+      "You notice that students regularly struggle to get something they need. Which thought would most likely interest you?",
+    options: [
+      {
+        id: "A",
+        text: "“Why does this problem keep happening?”",
+        dimension: "AT",
+        points: 3,
+      },
+      {
+        id: "B",
+        text: "“Could someone create a useful solution for this?”",
+        dimension: "PS",
+        points: 3,
+      },
+      {
+        id: "C",
+        text: "“I wonder if this could become a small business.”",
+        dimension: "BE",
+        points: 3,
+      },
+      {
+        id: "D",
+        text: "“I wonder whether enough students would pay for a solution.”",
+        dimension: "BE",
+        points: 3,
+      },
+    ],
+  },
+  {
+    id: 20,
+    title: "Improving something",
+    prompt:
+      "A system or process works, but people find it frustrating to use. What would you most likely focus on?",
+    options: [
+      {
+        id: "A",
+        text: "Finding a way to make it faster.",
+        dimension: "PS",
+        points: 3,
+      },
+      {
+        id: "B",
+        text: "Making it easier for people to understand and use.",
+        dimension: "CO",
+        points: 3,
+      },
+      {
+        id: "C",
+        text: "Changing the way it is designed.",
+        dimension: "CR",
+        points: 3,
+      },
+      {
+        id: "D",
+        text: "Understanding why it was designed that way before changing it.",
+        dimension: "SC",
+        points: 3,
+      },
+    ],
+  }
 ];
