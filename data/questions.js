@@ -640,5 +640,165 @@ const questions = [
         points: 3,
       },
     ],
-  }
+  },
+  {
+    id: 21,
+    title: "Schoolwork you find satisfying",
+    prompt:
+      "Which type of schoolwork would you find most satisfying?",
+    options: [
+      {
+        id: "A",
+        text: "Working through a difficult numerical or logical problem.",
+        dimension: "AT",
+        points: 3,
+      },
+      {
+        id: "B",
+        text: "Understanding how living things, matter, energy, or natural processes work.",
+        dimension: "SC",
+        points: 3,
+      },
+      {
+        id: "C",
+        text: "Writing, explaining, presenting, or discussing ideas.",
+        dimension: "CO",
+        points: 3,
+      },
+      {
+        id: "D",
+        text: "Creating, designing, or producing something of my own.",
+        dimension: "CR",
+        points: 3,
+      },
+    ],
+  },
+  {
+    id: 22,
+    title: "A recurring problem at home",
+    prompt:
+      "Something at home keeps causing a practical problem. What would you most likely do?",
+    options: [
+      {
+        id: "A",
+        text: "Build, modify, or fix something to solve it.",
+        dimension: "PR",
+        points: 3,
+      },
+      {
+        id: "B",
+        text: "Investigate what causes the problem and test when it occurs.",
+        dimension: "SC",
+        points: 3,
+      },
+      {
+        id: "C",
+        text: "Look for a tool, product, or technology that could help.",
+        dimension: "TD",
+        points: 3,
+      },
+      {
+        id: "D",
+        text: "Organise how everyone handles the situation so it happens less often.",
+        dimension: "LE",
+        points: 3,
+      },
+    ],
+  },
+  {
+    id: 23,
+    title: "An idea to improve your school",
+    prompt:
+      "You have an idea that could improve something in your school. What would you most likely do?",
+    options: [
+      {
+        id: "A",
+        text: "Build or demonstrate a working version.",
+        dimension: "PR",
+        points: 3,
+      },
+      {
+        id: "B",
+        text: "Pitch the idea as a useful opportunity and explain how it could create value.",
+        dimension: "BE",
+        points: 3,
+      },
+      {
+        id: "C",
+        text: "Research whether similar ideas have worked elsewhere.",
+        dimension: "AT",
+        points: 3,
+      },
+      {
+        id: "D",
+        text: "Bring people together and organise the work needed to make it happen.",
+        dimension: "LE",
+        points: 3,
+      },
+    ],
+  },
+  {
+    id: 24,
+    title: "An achievement you would find rewarding",
+    prompt:
+      "Which achievement would make you feel most satisfied?",
+    options: [
+      {
+        id: "A",
+        text: "Solving a difficult problem that others could not figure out.",
+        dimension: "PS",
+        points: 3,
+      },
+      {
+        id: "B",
+        text: "Creating something original that people find useful and would support or buy.",
+        dimension: "BE",
+        points: 3,
+      },
+      {
+        id: "C",
+        text: "Helping someone significantly improve their situation.",
+        dimension: "PH",
+        points: 3,
+      },
+      {
+        id: "D",
+        text: "Turning an idea into something successful and useful.",
+        dimension: "BE",
+        points: 3,
+      },
+    ],
+  },
+  {
+    id: 25,
+    title: "Discovering an unfamiliar career",
+    prompt:
+      "You are learning about careers you have not considered before. Which type of work would interest you most?",
+    options: [
+      {
+        id: "A",
+        text: "A career where I investigate information and use evidence to make decisions.",
+        dimension: "AT",
+        points: 3,
+      },
+      {
+        id: "B",
+        text: "A career where I use technology to design or build solutions.",
+        dimension: "TD",
+        points: 3,
+      },
+      {
+        id: "C",
+        text: "A career where I work directly with people's health, learning, or wellbeing.",
+        dimension: "PH",
+        points: 3,
+      },
+      {
+        id: "D",
+        text: "A career where I develop, manage, or grow projects and opportunities.",
+        dimension: "BE",
+        points: 3,
+      },
+    ],
+  },
 ];
