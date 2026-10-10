@@ -31,7 +31,6 @@ const questions = [
       },
     ],
   },
-
   {
     id: 2,
     title: "A group assignment",
@@ -64,7 +63,6 @@ const questions = [
       },
     ],
   },
-
   {
     id: 3,
     title: "Two different answers",
@@ -96,8 +94,7 @@ const questions = [
         points: 3,
       },
     ],
-  }
-
+  },
   {
     id: 4,
     title: "A free afternoon",
@@ -130,7 +127,6 @@ const questions = [
       },
     ],
   },
-
   {
     id: 5,
     title: "An unexpected result",
@@ -162,5 +158,165 @@ const questions = [
         points: 3,
       },
     ],
-  }
+  },
+  {
+    id: 6,
+    title: "Helping a classmate",
+    prompt:
+      "A classmate is struggling to understand something you already understand. What would you most likely do?",
+    options: [
+      {
+        id: "A",
+        text: "Explain it using an example they can relate to.",
+        dimension: "CO",
+        points: 3,
+      },
+      {
+        id: "B",
+        text: "Let them try it while I guide them when they get stuck.",
+        dimension: "PH",
+        points: 3,
+      },
+      {
+        id: "C",
+        text: "Find another way of explaining it if the first explanation does not work.",
+        dimension: "CR",
+        points: 3,
+      },
+      {
+        id: "D",
+        text: "Show them a useful online resource or digital learning tool.",
+        dimension: "TD",
+        points: 3,
+      },
+    ],
+  },
+  {
+    id: 7,
+    title: "A frustrating school routine",
+    prompt:
+      "Your school has a routine that takes too much time or creates unnecessary stress. What thought is most likely to cross your mind?",
+    options: [
+      {
+        id: "A",
+        text: "“There must be a faster way to do this.”",
+        dimension: "PS",
+        points: 3,
+      },
+      {
+        id: "B",
+        text: "“I wonder why we have to do it this way in the first place.”",
+        dimension: "AT",
+        points: 3,
+      },
+      {
+        id: "C",
+        text: "“Maybe we could use a phone or computer to handle some of it.”",
+        dimension: "TD",
+        points: 3,
+      },
+      {
+        id: "D",
+        text: "“I wonder whether a better way of doing this could become a useful service.”",
+        dimension: "BE",
+        points: 3,
+      },
+    ],
+  },
+  {
+    id: 8,
+    title: "Different opinions in a group project",
+    prompt:
+      "Your group has several different ideas for completing a project. What would you most likely do?",
+    options: [
+      {
+        id: "A",
+        text: "Explain to the group what each idea does well so they can compare them.",
+        dimension: "CO",
+        points: 3,
+      },
+      {
+        id: "B",
+        text: "Suggest that the group choose one direction and start working.",
+        dimension: "LE",
+        points: 3,
+      },
+      {
+        id: "C",
+        text: "Try to combine the strongest parts of different ideas.",
+        dimension: "CR",
+        points: 3,
+      },
+      {
+        id: "D",
+        text: "Ask group members what they are comfortable taking responsibility for.",
+        dimension: "LE",
+        points: 3,
+      },
+    ],
+  },
+  {
+    id: 9,
+    title: "Choosing a challenge",
+    prompt:
+      "You can spend time working on one of the following challenges. Which would you most likely choose?",
+    options: [
+      {
+        id: "A",
+        text: "Inspect a machine, device, or system and try to locate the physical fault.",
+        dimension: "PR",
+        points: 3,
+      },
+      {
+        id: "B",
+        text: "Figure out why people respond differently to the same situation.",
+        dimension: "PH",
+        points: 3,
+      },
+      {
+        id: "C",
+        text: "Design something that looks good and is easy to use.",
+        dimension: "CR",
+        points: 3,
+      },
+      {
+        id: "D",
+        text: "Find patterns in information that could reveal a useful business opportunity.",
+        dimension: "BE",
+        points: 3,
+      },
+    ],
+  },
+  {
+    id: 10,
+    title: "Planning a school event",
+    prompt:
+      "Your class is organising a school event. Which task would you most likely enjoy taking responsibility for?",
+    options: [
+      {
+        id: "A",
+        text: "Making sure the schedule and tasks stay organised.",
+        dimension: "LE",
+        points: 3,
+      },
+      {
+        id: "B",
+        text: "Creating the posters, decorations, and overall look.",
+        dimension: "CR",
+        points: 3,
+      },
+      {
+        id: "C",
+        text: "Promoting the event and finding ways to attract support or sponsors.",
+        dimension: "BE",
+        points: 3,
+      },
+      {
+        id: "D",
+        text: "Helping everyone decide what to do when unexpected problems come up.",
+        dimension: "LE",
+        points: 3,
+      },
+    ],
+  },
 ];
