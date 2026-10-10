@@ -31,4 +31,37 @@ const questions = [
       },
     ],
   },
+
+  {
+    id: 2,
+    title: "A group assignment",
+    prompt:
+      "Your group receives a difficult assignment, but nobody is sure how to begin. What would you most likely do?",
+    options: [
+      {
+        id: "A",
+        text: "Suggest breaking the assignment into smaller parts.",
+        dimension: "LE",
+        points: 3,
+      },
+      {
+        id: "B",
+        text: "Start looking for information about the topic.",
+        dimension: "SC",
+        points: 3,
+      },
+      {
+        id: "C",
+        text: "Ask everyone what they think should be done first.",
+        dimension: "CO",
+        points: 3,
+      },
+      {
+        id: "D",
+        text: "Plan how the group can explain its final work clearly to others.",
+        dimension: "CO",
+        points: 3,
+      },
+    ],
+  },
 ];
