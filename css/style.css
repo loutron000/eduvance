@@ -503,7 +503,6 @@ strong {
 }
 
 /* RESPONSIVE */
-/* Tablet / Small Desktop */
 
 @media (max-width: 900px) {
   .container {
@@ -530,8 +529,6 @@ strong {
     gap: 16px;
   }
 }
-
-/* Mobile */
 
 @media (max-width: 700px) {
   .container {
@@ -653,8 +650,6 @@ strong {
     margin-top: 4px;
   }
 }
-
-/* Small Mobile */
 
 @media (max-width: 480px) {
   .container {

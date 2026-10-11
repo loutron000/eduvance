@@ -6,7 +6,7 @@
 
     <title>Eduvance - Explore Careers</title>
 
-    <link rel="icon" href="../favicon.ico" sizes="any">
+    <link rel="icon" href="../assets/icons/favicon.ico" sizes="any" />
 
     <link rel="stylesheet" href="../css/style.css" />
     <link rel="stylesheet" href="../css/jojo.css" />
@@ -31,6 +31,7 @@
 
           <div class="navbar-links logged-out-nav hidden">
             <a href="how-it-works.html">How it works</a>
+            <a href="careers.html">Careers</a>
             <a href="login.html">Sign in</a>
 
             <a href="signup.html" class="btn btn-primary nav-cta">
@@ -41,6 +42,7 @@
 
           <div class="navbar-links logged-in-nav">
             <a href="how-it-works.html">How it works</a>
+            <a href="careers.html">Careers</a>
             <a href="results.html">My results</a>
 
             <button type="button" class="btn nav-signout">Sign out</button>
@@ -57,6 +59,106 @@
         </div>
       </nav>
     </header>
+
+    <main class="career-page">
+      <section class="career-hero">
+        <div class="career-container career-hero-layout">
+          <div class="career-hero-content">
+            <a href="careers.html" class="career-back-link">
+              &larr; Explore all careers
+            </a>
+
+            <p class="career-eyebrow" id="career-family">Career family</p>
+
+            <h1 id="career-name">Career Name</h1>
+
+            <p class="career-intro" id="career-intro">
+              Discover what this career involves, the skills it uses, and the
+              opportunities you can explore.
+            </p>
+          </div>
+
+          <div class="career-image-wrapper">
+            <img
+              id="career-image"
+              src="../assets/images/careers/career-placeholder.jpg"
+              alt="Career illustration"
+            />
+          </div>
+        </div>
+      </section>
+
+      <section class="career-content">
+        <div class="career-container career-layout">
+          <article class="career-main-content">
+            <section class="career-section" id="overview-section">
+              <h2>What does this career involve?</h2>
+              <p id="career-overview"></p>
+            </section>
+
+            <section class="career-section" id="skills-section">
+              <h2>Skills that can help</h2>
+              <p>
+                These are skills that can be useful when exploring and preparing
+                for this career.
+              </p>
+              <ul id="career-skills"></ul>
+            </section>
+
+            <section class="career-section" id="subjects-section">
+              <h2>Relevant secondary-school subjects</h2>
+              <p id="career-subjects-intro"></p>
+              <ul id="career-subjects"></ul>
+            </section>
+
+            <section class="career-section" id="education-section">
+              <h2>Education and entry requirements in Nigeria</h2>
+              <div id="career-education"></div>
+            </section>
+
+            <section class="career-section" id="opportunities-section">
+              <h2>Career opportunities</h2>
+              <p id="career-opportunities-intro"></p>
+              <ul id="career-opportunities"></ul>
+            </section>
+          </article>
+
+          <aside class="career-sidebar">
+            <div class="career-note">
+              <h2>Keep exploring</h2>
+              <p>
+                Learning about a career is a starting point. Explore the skills,
+                education, and steps that can help you work towards it.
+              </p>
+            </div>
+          </aside>
+        </div>
+      </section>
+
+      <section class="career-roadmap-cta">
+        <div class="career-container">
+          <div class="career-roadmap-card">
+            <div class="career-roadmap-copy">
+              <p class="career-eyebrow">Your next step</p>
+              <h2>Ready to explore your path?</h2>
+              <p>
+                Discover practical steps you can take to learn, build relevant
+                skills, and work towards this career.
+              </p>
+            </div>
+
+            <a
+              href="roadmap.html"
+              id="career-roadmap-link"
+              class="career-roadmap-button"
+            >
+              Explore Career Roadmap
+              <span aria-hidden="true">&rarr;</span>
+            </a>
+          </div>
+        </div>
+      </section>
+    </main>
 
     <footer class="site-footer">
       <div class="container footer-container">
@@ -86,5 +188,7 @@
 
     <script src="../js/main.js"></script>
     <script src="../js/auth.js"></script>
+    <script src="../data/careers.js"></script>
+    <script src="../js/career.js"></script>
   </body>
 </html>
