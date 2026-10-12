@@ -17,6 +17,71 @@ window.CAREERS = [
       PR: 3,
       BE: 3,
     },
+
+    image: "../assets/images/careers/software-developer.jpeg",
+    intro:
+      "Software developers design, build, test, and maintain software that helps people and organisations solve problems.",
+
+    overview:
+      "Software developers turn ideas and requirements into applications, " +
+      "websites, and other computer programs. They plan how software should " +
+      "work, write and review code, test for errors, fix problems, and " +
+      "improve existing products. Depending on their role, they may work " +
+      "independently or collaborate with designers, testers, and other developers.",
+
+    skills: [
+      "Problem-solving — breaking challenges into smaller, manageable steps.",
+      "Programming — learning languages and tools used to build software.",
+      "Logical thinking — understanding how instructions and systems fit together.",
+      "Debugging — finding and fixing errors in code.",
+      "Communication — explaining ideas and working with other people.",
+      "Continuous learning — adapting as tools and technologies change.",
+    ],
+
+    subjectsIntro:
+      "These subjects can provide a useful foundation. Specific requirements " +
+      "depend on the course and institution you choose.",
+
+    subjects: [
+      "Mathematics",
+      "English Language",
+      "Physics",
+      "Further Mathematics or Computer Studies, where offered",
+    ],
+
+    education: {
+      summary:
+        "A common route is to study Computer Science, Software Engineering, " +
+        "Computer Engineering, or a related computing course at a recognised " +
+        "institution. Other routes include relevant diplomas, structured " +
+        "technical training, and independent learning supported by practical projects.",
+
+      routes: [
+        "University degree in a relevant computing field.",
+        "Relevant diploma or other recognised technical training.",
+        "Self-directed learning, coding practice, and a portfolio of projects.",
+      ],
+
+      admissionNote:
+        "For university admission in Nigeria, check the current JAMB and " +
+        "institution-specific requirements for your chosen course, including " +
+        "O'level credits and UTME subject combinations. Requirements can differ. " +
+        "Alternative learning routes can build practical skills, but they do " +
+        "not automatically replace formal qualifications where an employer requires them.",
+    },
+
+    opportunitiesIntro:
+      "Software development skills can lead to different roles, depending on " +
+      "your interests, experience, and additional training.",
+
+    opportunities: [
+      "Frontend developer — building the parts of websites and apps people use.",
+      "Backend developer — building server-side systems and application logic.",
+      "Full-stack developer — working across frontend and backend systems.",
+      "Mobile app developer — creating applications for mobile devices.",
+      "Software tester or QA engineer — checking software for problems and defects.",
+      "Freelance developer or software entrepreneur — building solutions for clients or users.",
+    ],
   },
   {
     id: "cybersecurity-analyst",
@@ -34,6 +99,59 @@ window.CAREERS = [
       PR: 3,
       BE: 3,
     },
+    image: "../assets/images/careers/cybersecurity-analyst.jpg",
+
+    intro:
+      "Cybersecurity analysts help protect computer systems, networks, and digital information from attacks and unauthorised access.",
+
+    overview:
+      "Cybersecurity analysts monitor systems for suspicious activity, investigate security alerts, identify weaknesses, and help organisations reduce digital risks. They may review security logs, assess vulnerabilities, respond to incidents, and recommend safer practices. The work requires curiosity, careful investigation, and an understanding that security threats and defensive techniques continually change.",
+
+    skills: [
+      "Analytical thinking — examining evidence to understand possible security threats.",
+      "Problem-solving — investigating incidents and finding practical ways to reduce risks.",
+      "Networking fundamentals — understanding how computers communicate and exchange data.",
+      "Security awareness — learning about access control, authentication, and common attack methods.",
+      "Attention to detail — spotting unusual activity and documenting findings accurately.",
+      "Ethical responsibility — respecting privacy and testing systems only with proper authorisation.",
+      "Continuous learning — keeping up with evolving threats, tools, and defensive techniques.",
+    ],
+
+    subjectsIntro:
+      "These subjects can provide a useful foundation for computing and cybersecurity studies. Specific requirements depend on your chosen course and institution.",
+
+    subjects: [
+      "Mathematics",
+      "English Language",
+      "Physics",
+      "Further Mathematics or Computer Studies, where offered",
+    ],
+
+    education: {
+      summary:
+        "A common route is to study Cybersecurity, Computer Science, Computer Engineering, Information Technology, or a related field. Practical networking and security training can help build additional skills. Professional certifications may be useful later, depending on the role and employer.",
+
+      routes: [
+        "University degree in cybersecurity or a related computing discipline.",
+        "Relevant diploma or recognised technical training in networking and information security.",
+        "Independent study, authorised practice labs, networking projects, and a portfolio demonstrating defensive security skills.",
+      ],
+
+      admissionNote:
+        "For university admission in Nigeria, check the current JAMB brochure and the requirements published by your chosen institution. O'level credits, UTME subject combinations, and accepted courses vary by programme. Practical training and certifications can strengthen your skills but do not automatically replace formal qualifications required for admission or employment.",
+    },
+
+    opportunitiesIntro:
+      "Cybersecurity knowledge can lead to several specialist roles as you gain experience and develop your technical skills.",
+
+    opportunities: [
+      "Security operations centre (SOC) analyst — monitoring alerts and investigating suspicious activity.",
+      "Information security analyst — helping organisations protect systems, information, and accounts.",
+      "Vulnerability analyst — identifying and assessing weaknesses in authorised systems.",
+      "Incident response analyst — helping investigate and contain security incidents.",
+      "Security auditor — reviewing security controls and checking whether procedures are followed.",
+      "Cybersecurity consultant — advising organisations on ways to improve their security.",
+    ],
   },
   {
     id: "data-analyst",
@@ -51,6 +169,59 @@ window.CAREERS = [
       PR: 1,
       BE: 3,
     },
+    image: "../assets/images/careers/data-analyst.jpg",
+
+    intro:
+      "Data analysts turn raw information into useful findings that help people and organisations make better decisions.",
+
+    overview:
+      "Data analysts collect, organise, clean, and examine data to discover patterns, answer questions, and explain what the evidence suggests. They may work with spreadsheets, databases, charts, and statistical tools to study business performance, customer behaviour, public services, or other real-world problems. Their work also involves checking data quality, communicating findings clearly, and avoiding conclusions that the evidence does not support.",
+
+    skills: [
+      "Analytical thinking — identifying patterns and relationships in information.",
+      "Numeracy — working confidently with figures, percentages, and basic statistics.",
+      "Data cleaning — finding missing, inconsistent, or duplicated information.",
+      "Spreadsheet skills — organising and analysing information with tools such as Excel.",
+      "SQL and data tools — learning how to retrieve and work with stored data.",
+      "Data visualisation — presenting findings through understandable charts and dashboards.",
+      "Communication — explaining results and limitations to people without technical backgrounds.",
+    ],
+
+    subjectsIntro:
+      "Mathematics and clear communication are particularly useful foundations for learning data analysis. Exact admission requirements depend on your chosen course and institution.",
+
+    subjects: [
+      "Mathematics",
+      "English Language",
+      "Economics or Further Mathematics, where relevant and offered",
+      "Computer Studies, where offered",
+    ],
+
+    education: {
+      summary:
+        "A common route is to study Statistics, Mathematics, Computer Science, Economics, Data Science, or another quantitative discipline. Practical experience with spreadsheets, databases, visualisation tools, and real datasets can help develop job-ready skills.",
+
+      routes: [
+        "University degree in a quantitative or computing-related discipline.",
+        "Relevant diploma or recognised training in data analysis, statistics, or business intelligence.",
+        "Independent learning through practical projects using spreadsheets, SQL, and visualisation tools.",
+      ],
+
+      admissionNote:
+        "In Nigeria, admission requirements depend on the specific degree programme and institution. Check the current JAMB brochure and institutional requirements for O'level credits and UTME subject combinations. Some programmes may require particular science or commercial subjects, so do not assume that every institution uses the same combination.",
+    },
+
+    opportunitiesIntro:
+      "Data analysis can be applied across technology, banking, healthcare, education, agriculture, government, and many other sectors.",
+
+    opportunities: [
+      "Junior data analyst — cleaning and analysing information to answer practical questions.",
+      "Business intelligence analyst — building reports and dashboards for decision-makers.",
+      "Reporting analyst — preparing regular reports and tracking performance indicators.",
+      "Operations analyst — examining processes to identify inefficiencies and improvements.",
+      "Market research analyst — studying customers, competitors, and market trends.",
+      "Data quality analyst — checking that information is accurate, consistent, and reliable.",
+    ],
   },
   {
     id: "network-engineer",
@@ -68,6 +239,59 @@ window.CAREERS = [
       PR: 5,
       BE: 2,
     },
+    image: "../assets/images/careers/network-engineer.jpg",
+
+    intro:
+      "Network engineers design, configure, and maintain the systems that allow computers and other devices to communicate.",
+
+    overview:
+      "Network engineers help build and maintain reliable computer networks in offices, schools, data centres, telecommunications environments, and other organisations. Their work can include configuring routers and switches, planning wireless connections, monitoring network performance, troubleshooting connectivity problems, and improving network security. They combine practical technical work with careful planning to keep systems connected and dependable.",
+
+    skills: [
+      "Networking fundamentals — understanding IP addresses, routing, switching, and network protocols.",
+      "Troubleshooting — diagnosing connectivity and performance problems systematically.",
+      "Technical configuration — setting up and maintaining network equipment and services.",
+      "Logical thinking — understanding how devices, connections, and network services interact.",
+      "Network security — learning how to protect networks and control access.",
+      "Documentation — recording configurations, changes, and troubleshooting steps.",
+      "Practical skills — working carefully with equipment, cables, and network testing tools.",
+    ],
+
+    subjectsIntro:
+      "These subjects can support further study in networking, computing, and telecommunications. Specific requirements depend on the programme and institution.",
+
+    subjects: [
+      "Mathematics",
+      "English Language",
+      "Physics",
+      "Further Mathematics or Computer Studies, where offered",
+    ],
+
+    education: {
+      summary:
+        "A common route is to study Computer Engineering, Electrical/Electronics Engineering, Computer Science, Information Technology, or Telecommunications Engineering. Practical laboratory work and networking certifications can provide additional preparation.",
+
+      routes: [
+        "University degree in a relevant computing, engineering, or telecommunications discipline.",
+        "Relevant diploma or recognised technical training in computer networking.",
+        "Practical learning through network simulators, supervised laboratory exercises, and appropriately configured home labs.",
+      ],
+
+      admissionNote:
+        "Check the current JAMB brochure and the admission requirements of your chosen Nigerian institution. O'level credits and UTME subject combinations vary by programme. Engineering and computing degrees may have different subject requirements, so verify the exact course rather than relying on a general list.",
+    },
+
+    opportunitiesIntro:
+      "Network engineering skills are useful wherever organisations depend on reliable computer connectivity and communications infrastructure.",
+
+    opportunities: [
+      "Network support technician — helping configure and troubleshoot network connections.",
+      "Network engineer — designing, configuring, and maintaining computer networks.",
+      "Wireless network specialist — planning and improving wireless connectivity.",
+      "Network operations centre (NOC) engineer — monitoring network availability and performance.",
+      "Telecommunications engineer — working with communications systems and infrastructure.",
+      "Network security specialist — helping protect network equipment, traffic, and access.",
+    ],
   },
   {
     id: "it-support-specialist",
@@ -85,6 +309,59 @@ window.CAREERS = [
       PR: 4,
       BE: 2,
     },
+    image: "../assets/images/careers/it-support-specialist.jpg",
+
+    intro:
+      "IT support specialists help people use technology effectively, while systems administrators maintain the computers, accounts, and services organisations rely on.",
+
+    overview:
+      "IT support specialists diagnose and resolve problems involving computers, applications, printers, user accounts, and connectivity. Systems administrators focus more on maintaining the underlying systems, such as operating systems, servers, user permissions, backups, and routine updates. In some organisations, one person handles both responsibilities. The work combines practical troubleshooting with communication, documentation, security awareness, and a willingness to help people with different levels of technical experience.",
+
+    skills: [
+      "Troubleshooting — identifying the cause of hardware, software, and connectivity problems.",
+      "Operating systems — installing, configuring, and maintaining systems such as Windows or Linux.",
+      "Communication — explaining technical solutions in language users can understand.",
+      "Customer support — listening patiently and helping users resolve their problems.",
+      "System administration — learning about user accounts, permissions, updates, and services.",
+      "Security awareness — applying safe access practices, updates, and backup procedures.",
+      "Documentation — recording problems, solutions, and routine maintenance activities.",
+    ],
+
+    subjectsIntro:
+      "These subjects can provide a useful foundation for further study in computing and information technology. Admission requirements vary by institution and programme.",
+
+    subjects: [
+      "Mathematics",
+      "English Language",
+      "Physics",
+      "Computer Studies, where offered",
+    ],
+
+    education: {
+      summary:
+        "Possible routes include studying Computer Science, Information Technology, Computer Engineering, or a related discipline. Recognised technical training, practical experience, and relevant certifications can also help learners build skills for entry-level support roles.",
+
+      routes: [
+        "University degree in a relevant computing or information technology discipline.",
+        "Relevant diploma or recognised technical training in computer support and systems administration.",
+        "Independent practice involving operating systems, computer maintenance, networking fundamentals, and documented troubleshooting projects.",
+      ],
+
+      admissionNote:
+        "For university admission in Nigeria, verify the current JAMB and institution-specific requirements for your intended course. O'level credits and UTME subject combinations differ between programmes. Technical training may prepare you for certain support roles, but it does not automatically replace qualifications required by a particular employer.",
+    },
+
+    opportunitiesIntro:
+      "These skills can lead to technical support roles and, with further experience, more specialised infrastructure and systems positions.",
+
+    opportunities: [
+      "IT support technician — resolving everyday computer and software problems.",
+      "Help desk analyst — handling support requests and guiding users through solutions.",
+      "Desktop support specialist — maintaining workstations, applications, and user devices.",
+      "Systems administrator — managing servers, accounts, permissions, and system maintenance.",
+      "IT operations technician — helping maintain the availability of an organisation's IT services.",
+      "Technical support specialist — helping customers or organisations troubleshoot specific technology products.",
+    ],
   },
 
   // 2. ENGINEERING & BUILT ENVIRONMENT
@@ -104,6 +381,60 @@ window.CAREERS = [
       PR: 5,
       BE: 3,
     },
+    image: "../assets/images/careers/civil-engineer.jpg",
+
+    intro:
+      "Civil engineers plan, design, and help construct the infrastructure that communities depend on, including roads, bridges, buildings, and water systems.",
+
+    overview:
+      "Civil engineers apply mathematics, scientific principles, and engineering methods to develop safe and reliable infrastructure. Their work may involve structural design, transportation systems, drainage, water supply, construction planning, and site supervision. They collaborate with architects, contractors, surveyors, and other professionals to ensure that projects meet technical requirements, budgets, safety standards, and environmental considerations.",
+
+    skills: [
+      "Mathematical reasoning — applying calculations to engineering problems.",
+      "Problem-solving — finding safe and practical solutions to construction challenges.",
+      "Technical drawing — interpreting and preparing engineering plans.",
+      "Attention to detail — checking measurements, specifications, and safety requirements.",
+      "Project coordination — working with teams, schedules, and construction resources.",
+      "Communication — explaining technical requirements to clients and colleagues.",
+      "Practical awareness — understanding construction materials, site conditions, and building methods.",
+    ],
+
+    subjectsIntro:
+      "Science and mathematics are important foundations for civil engineering. The exact requirements depend on the institution and programme.",
+
+    subjects: [
+      "Mathematics",
+      "English Language",
+      "Physics",
+      "Chemistry",
+      "Further Mathematics, where offered",
+    ],
+
+    education: {
+      summary:
+        "A common route is to study Civil Engineering at a recognised university or other institution offering an appropriately accredited programme. Practical training and supervised experience help students develop the skills required for professional engineering work.",
+
+      routes: [
+        "University degree in Civil Engineering.",
+        "Relevant recognised engineering or technical diploma for applicable technician and technologist pathways.",
+        "Further professional development, supervised practical experience, and applicable registration requirements for professional practice.",
+      ],
+
+      admissionNote:
+        "For Nigerian university admission, check the current JAMB brochure and the requirements published by your chosen institution. Mathematics, English Language, Physics, and Chemistry are commonly important for Civil Engineering, but confirm the exact O'level credits and UTME subject combination. Professional registration requirements should be verified with the relevant engineering regulatory bodies.",
+    },
+
+    opportunitiesIntro:
+      "Civil engineering offers opportunities in infrastructure development, construction, consulting, public works, and project management.",
+
+    opportunities: [
+      "Structural engineer — analysing and designing structures to meet safety requirements.",
+      "Highway engineer — planning and improving roads and transportation infrastructure.",
+      "Water resources engineer — working on drainage, water supply, and flood management.",
+      "Site engineer — coordinating technical activities and construction work on site.",
+      "Geotechnical engineer — studying soil and ground conditions for construction projects.",
+      "Construction project coordinator — helping manage project schedules, resources, and delivery.",
+    ],
   },
   {
     id: "mechanical-engineer",
@@ -121,6 +452,60 @@ window.CAREERS = [
       PR: 5,
       BE: 3,
     },
+    image: "../assets/images/careers/mechanical-engineer.jpg",
+
+    intro:
+      "Mechanical engineers design, analyse, build, and improve machines, mechanical systems, and equipment used in everyday life and industry.",
+
+    overview:
+      "Mechanical engineers use principles of physics, mathematics, materials science, and engineering to solve practical problems involving motion, forces, energy, and heat. They may work on engines, manufacturing equipment, heating and cooling systems, industrial machinery, or energy technologies. Their responsibilities can include designing components, testing prototypes, diagnosing mechanical faults, and improving the safety, efficiency, and reliability of equipment.",
+
+    skills: [
+      "Physics and mathematics — understanding forces, motion, energy, and mechanical behaviour.",
+      "Design thinking — developing practical mechanical solutions.",
+      "Technical drawing — reading and creating engineering drawings and models.",
+      "Problem-solving — investigating mechanical faults and improving performance.",
+      "Materials knowledge — understanding the properties and uses of engineering materials.",
+      "Practical skills — working with tools, equipment, and testing procedures safely.",
+      "Teamwork — coordinating with technicians, designers, and other engineers.",
+    ],
+
+    subjectsIntro:
+      "Mathematics and the physical sciences are central to mechanical engineering. Confirm the specific admission requirements for your chosen programme.",
+
+    subjects: [
+      "Mathematics",
+      "English Language",
+      "Physics",
+      "Chemistry",
+      "Further Mathematics, where offered",
+    ],
+
+    education: {
+      summary:
+        "A common route is to earn a degree in Mechanical Engineering from a recognised institution. Laboratory work, design projects, industrial training, and supervised experience help develop the practical skills needed in engineering roles.",
+
+      routes: [
+        "University degree in Mechanical Engineering.",
+        "Relevant recognised technical or engineering diploma for applicable technician and technologist pathways.",
+        "Further professional development and supervised experience in a chosen mechanical engineering specialisation.",
+      ],
+
+      admissionNote:
+        "Check the current JAMB brochure and your chosen Nigerian institution's requirements before selecting subjects. Mathematics, English Language, Physics, and Chemistry are commonly important for Mechanical Engineering. Verify the required O'level credits and UTME subject combination for the specific programme. Applicable professional registration requirements should also be confirmed with the relevant regulatory bodies.",
+    },
+
+    opportunitiesIntro:
+      "Mechanical engineers work in manufacturing, energy, transportation, maintenance, industrial operations, and equipment design.",
+
+    opportunities: [
+      "Design engineer — developing and improving mechanical components and systems.",
+      "Maintenance engineer — helping equipment operate safely and reliably.",
+      "Automotive engineer — working on vehicle systems and related technologies.",
+      "Manufacturing engineer — improving production processes and equipment.",
+      "HVAC engineer — working with heating, ventilation, air conditioning, and cooling systems.",
+      "Energy engineer — contributing to the design and improvement of energy systems.",
+    ],
   },
   {
     id: "electrical-electronics-engineer",
@@ -138,6 +523,60 @@ window.CAREERS = [
       PR: 4,
       BE: 3,
     },
+    image: "../assets/images/careers/electrical-electronics-engineer.jpg",
+
+    intro:
+      "Electrical and electronics engineers design, test, and maintain systems involving electricity, electronic circuits, control equipment, and electrical power.",
+
+    overview:
+      "Electrical and electronics engineers apply mathematical and scientific principles to systems that generate, distribute, control, or use electrical energy and electronic signals. Depending on their specialisation, they may work with power distribution, circuit design, automation, telecommunications equipment, renewable energy, or embedded electronics. Their work involves analysis, testing, troubleshooting, and careful attention to electrical safety and technical standards.",
+
+    skills: [
+      "Mathematical reasoning — analysing electrical quantities and circuit behaviour.",
+      "Physics — understanding electricity, magnetism, and electronic principles.",
+      "Circuit analysis — interpreting and testing electrical and electronic circuits.",
+      "Troubleshooting — identifying faults in equipment and electrical systems.",
+      "Technical design — reading circuit diagrams and engineering drawings.",
+      "Safety awareness — following appropriate procedures when working with electrical equipment.",
+      "Practical testing — using suitable instruments to measure and verify system performance.",
+    ],
+
+    subjectsIntro:
+      "Mathematics, Physics, and Chemistry provide an important foundation for electrical and electronics engineering.",
+
+    subjects: [
+      "Mathematics",
+      "English Language",
+      "Physics",
+      "Chemistry",
+      "Further Mathematics, where offered",
+    ],
+
+    education: {
+      summary:
+        "A common route is to study Electrical/Electronics Engineering or a closely related engineering discipline at a recognised institution. Practical laboratory work, design projects, and industrial experience help prepare students for specialised engineering roles.",
+
+      routes: [
+        "University degree in Electrical/Electronics Engineering.",
+        "Relevant recognised engineering diploma for applicable technician and technologist pathways.",
+        "Further training and supervised experience in areas such as power systems, electronics, instrumentation, or control engineering.",
+      ],
+
+      admissionNote:
+        "For admission in Nigeria, consult the current JAMB brochure and the requirements of your chosen institution. Mathematics, English Language, Physics, and Chemistry are commonly important, but exact O'level and UTME requirements can vary. Verify the requirements for the precise engineering programme and check applicable professional registration requirements before practising in regulated roles.",
+    },
+
+    opportunitiesIntro:
+      "These skills can lead to work in electricity generation and distribution, industrial automation, electronics, telecommunications, and energy technology.",
+
+    opportunities: [
+      "Power systems engineer — working on electrical generation, transmission, or distribution systems.",
+      "Electronics engineer — designing and testing electronic circuits and devices.",
+      "Control and automation engineer — developing systems that monitor and control machinery.",
+      "Instrumentation engineer — working with sensors, measurement equipment, and control instruments.",
+      "Renewable energy engineer — contributing to solar and other renewable energy systems.",
+      "Electrical maintenance engineer — maintaining and troubleshooting electrical equipment and installations.",
+    ],
   },
   {
     id: "computer-engineer",
@@ -155,6 +594,60 @@ window.CAREERS = [
       PR: 4,
       BE: 3,
     },
+    image: "../assets/images/careers/computer-engineer.jpg",
+
+    intro:
+      "Computer engineers design and work with the hardware and low-level software that enable computers and digital devices to function.",
+
+    overview:
+      "Computer engineers combine electrical engineering and computing concepts to develop and maintain computer-based systems. Their work can involve processors, circuit boards, embedded systems, digital logic, device interfaces, and the software that interacts closely with hardware. They may help develop smart devices, industrial controllers, computing equipment, or specialised systems. Unlike a software developer who may focus mainly on applications, a computer engineer often works closer to the physical hardware and how it operates.",
+
+    skills: [
+      "Mathematics and logic — understanding digital systems and engineering problems.",
+      "Programming — writing software that interacts with hardware or embedded devices.",
+      "Computer architecture — learning how processors, memory, and other components work together.",
+      "Electronics fundamentals — understanding circuits and digital hardware.",
+      "Debugging — investigating faults across hardware and software.",
+      "Technical design — interpreting circuit diagrams, system designs, and technical specifications.",
+      "Practical experimentation — testing components and systems methodically and safely.",
+    ],
+
+    subjectsIntro:
+      "Computer engineering combines computing with engineering science, so mathematics and the physical sciences are important foundations.",
+
+    subjects: [
+      "Mathematics",
+      "English Language",
+      "Physics",
+      "Chemistry",
+      "Further Mathematics, where offered",
+    ],
+
+    education: {
+      summary:
+        "A common route is to study Computer Engineering, Computer Systems Engineering, or an appropriately related engineering discipline. Laboratory projects involving electronics, programming, digital logic, and embedded systems can help students develop practical experience.",
+
+      routes: [
+        "University degree in Computer Engineering or a closely related engineering discipline.",
+        "Relevant recognised technical training in electronics, computer hardware, or embedded systems for applicable technical roles.",
+        "Independent projects involving microcontrollers, digital electronics, computer architecture, and embedded programming.",
+      ],
+
+      admissionNote:
+        "Check the current JAMB brochure and the admission requirements published by your chosen Nigerian institution. Mathematics, English Language, Physics, and Chemistry are commonly important for engineering programmes, but exact O'level credits and UTME subject combinations depend on the course and institution. Confirm whether the programme is classified as engineering or computing, because their admission requirements may differ.",
+    },
+
+    opportunitiesIntro:
+      "Computer engineering skills are useful in hardware development, embedded systems, electronics, computing infrastructure, and connected devices.",
+
+    opportunities: [
+      "Embedded systems engineer — developing software and hardware for specialised devices.",
+      "Hardware design engineer — designing and testing computer hardware components.",
+      "Firmware engineer — writing low-level software that controls electronic devices.",
+      "Computer systems engineer — integrating and troubleshooting hardware and software systems.",
+      "Robotics engineer — contributing to computer-controlled machines and robotic systems.",
+      "IoT engineer — developing connected devices that collect data and communicate over networks.",
+    ],
   },
   {
     id: "architect",
@@ -172,6 +665,60 @@ window.CAREERS = [
       PR: 3,
       BE: 4,
     },
+    image: "../assets/images/careers/architect.jpg",
+
+    intro:
+      "Architects plan and design buildings and spaces that balance function, safety, appearance, and the needs of the people who use them.",
+
+    overview:
+      "Architects develop design concepts, prepare drawings and models, study site conditions, and coordinate building requirements with clients and other construction professionals. They consider how spaces will be used, how people will move through them, and how a design responds to its environment, budget, and relevant regulations. Their work blends creativity with technical knowledge, communication, and project coordination. They may use digital design tools to produce drawings, visualisations, and building models.",
+
+    skills: [
+      "Creativity — developing useful and visually thoughtful design ideas.",
+      "Spatial reasoning — understanding dimensions, layouts, scale, and three-dimensional spaces.",
+      "Technical drawing — communicating designs through accurate plans and details.",
+      "Digital design — learning computer-aided design and building modelling tools.",
+      "Problem-solving — balancing a client's needs with practical constraints.",
+      "Communication — presenting concepts and collaborating with clients and professionals.",
+      "Project coordination — managing design revisions, requirements, and deadlines.",
+    ],
+
+    subjectsIntro:
+      "Architecture combines creative design with technical and spatial reasoning. Confirm the subject requirements of your chosen Nigerian institution.",
+
+    subjects: [
+      "Mathematics",
+      "English Language",
+      "Physics",
+      "Chemistry or another accepted science subject, as specified by the institution",
+      "Fine Arts or Technical Drawing, where offered and relevant to the programme",
+    ],
+
+    education: {
+      summary:
+        "A common route is to study Architecture through a recognised and appropriately accredited programme. Architectural education includes design studios, drawing, building technology, environmental considerations, and supervised practical experience. Professional practice may require additional training, examinations, and registration.",
+
+      routes: [
+        "Recognised university degree in Architecture, followed by any further training and registration required for professional practice.",
+        "Relevant recognised architectural technology or building design qualification for applicable technical roles.",
+        "Development of drawing, digital modelling, design presentation, and portfolio skills alongside formal study.",
+      ],
+
+      admissionNote:
+        "In Nigeria, check the current JAMB brochure, your institution's subject requirements, and the applicable professional accreditation and registration guidance. Required O'level credits and UTME combinations may differ between institutions. Fine Arts or Technical Drawing may be useful but should not be assumed compulsory or accepted everywhere. Confirm the current route to professional registration with the Architects Registration Council of Nigeria (ARCON) and relevant accredited institutions.",
+    },
+
+    opportunitiesIntro:
+      "Architecture can lead to building design, digital modelling, construction coordination, and other roles involving the built environment.",
+
+    opportunities: [
+      "Architectural designer — developing layouts, concepts, and building design proposals.",
+      "Architectural technologist — helping develop technical building information and construction details.",
+      "BIM modeller — creating digital building models and coordinated design information.",
+      "Interior design specialist — planning functional and visually coherent interior spaces.",
+      "Urban design assistant — contributing to the planning and design of public spaces and neighbourhoods.",
+      "Architectural visualisation artist — producing digital images and models to communicate design ideas.",
+    ],
   },
 
   // 3. HEALTH & HEALTHCARE
@@ -191,6 +738,60 @@ window.CAREERS = [
       PR: 4,
       BE: 2,
     },
+    image: "../assets/images/careers/medical-doctor.jpg",
+
+    intro:
+      "Medical doctors assess patients, diagnose illnesses, recommend treatments, and help people maintain or regain their health.",
+
+    overview:
+      "Medical doctors use scientific knowledge, clinical examinations, medical tests, and patient histories to understand health problems and make treatment decisions. Depending on their training and specialisation, they may work in hospitals, clinics, community health services, research, or public health. The profession requires careful judgement, empathy, ethical responsibility, and the ability to communicate clearly with patients and other healthcare professionals.",
+
+    skills: [
+      "Scientific reasoning — understanding human biology, disease, and medical evidence.",
+      "Analytical thinking — interpreting symptoms, patient histories, and investigation results.",
+      "Problem-solving — considering possible diagnoses and appropriate treatment options.",
+      "Communication — explaining health conditions and treatment plans clearly.",
+      "Empathy — treating patients with dignity, patience, and respect.",
+      "Decision-making — weighing evidence, risks, and patient needs responsibly.",
+      "Continuous learning — keeping medical knowledge and clinical skills up to date.",
+    ],
+
+    subjectsIntro:
+      "Medicine requires a strong foundation in science. Admission requirements are competitive and must be checked for the specific institution and admission year.",
+
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Biology",
+      "Chemistry",
+      "Physics",
+    ],
+
+    education: {
+      summary:
+        "The usual Nigerian route involves gaining admission to a recognised medical programme, completing the required medical education and clinical training, and meeting the applicable supervised practice and registration requirements. The pathway is lengthy and demanding, so students should understand the commitment before choosing it.",
+
+      routes: [
+        "Recognised medical degree programme, followed by the required internship and applicable registration procedures.",
+        "Approved postgraduate medical training for doctors who later pursue a specialist career.",
+        "Research, public health, and other related pathways available after obtaining the qualifications required for the specific role.",
+      ],
+
+      admissionNote:
+        "For admission in Nigeria, check the current JAMB brochure, the institution's requirements, and relevant Medical and Dental Council of Nigeria (MDCN) guidance. Medicine commonly requires O'level credits in English Language, Mathematics, Biology, Chemistry, and Physics, with specified UTME subjects. Confirm the exact requirements, admission process, and current rules for medical training, internship, and registration. Studying a related science degree does not automatically qualify someone as a medical doctor.",
+    },
+
+    opportunitiesIntro:
+      "After the required training and registration, doctors can work in clinical care, research, public health, and other areas of medicine.",
+
+    opportunities: [
+      "General medical practitioner — assessing and treating a wide range of health conditions within their competence.",
+      "Surgeon — training to perform surgical procedures within a chosen speciality.",
+      "Paediatrician — specialising in the healthcare of infants, children, and adolescents.",
+      "Obstetrician and gynaecologist — specialising in reproductive health, pregnancy, and childbirth.",
+      "Medical researcher — investigating diseases, treatments, and healthcare questions.",
+      "Public health physician — contributing to disease prevention and population health.",
+    ],
   },
   {
     id: "nurse",
@@ -208,6 +809,60 @@ window.CAREERS = [
       PR: 5,
       BE: 2,
     },
+    image: "../assets/images/careers/nurse.jpg",
+
+    intro:
+      "Nurses provide essential patient care, monitor health conditions, support recovery, and educate people about staying healthy.",
+
+    overview:
+      "Nurses work with patients, families, doctors, and other healthcare professionals to deliver safe and compassionate care. Their responsibilities may include monitoring vital signs, administering prescribed treatments, assisting with procedures, maintaining patient records, and explaining care instructions. Depending on their qualifications and area of practice, nurses may work in hospitals, clinics, schools, communities, or specialist healthcare services.",
+
+    skills: [
+      "Patient care — supporting patients' comfort, safety, and recovery.",
+      "Observation — noticing changes in symptoms and reporting concerns promptly.",
+      "Communication — explaining care instructions and listening to patients.",
+      "Practical competence — carrying out clinical procedures within one's training and authorisation.",
+      "Empathy — respecting patients' dignity, privacy, and individual needs.",
+      "Teamwork — coordinating care with other healthcare professionals.",
+      "Organisation — recording information accurately and managing competing care priorities.",
+    ],
+
+    subjectsIntro:
+      "Nursing education requires a foundation in science, communication, and patient care. Exact admission requirements depend on the approved programme.",
+
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Biology",
+      "Chemistry",
+      "Physics",
+    ],
+
+    education: {
+      summary:
+        "In Nigeria, aspiring nurses should pursue a nursing programme approved by the relevant authorities. The available route depends on the institution and programme, and graduates must satisfy the applicable professional examination, registration, and licensing requirements before practising as registered nurses.",
+
+      routes: [
+        "Approved university nursing degree programme, followed by the applicable professional registration requirements.",
+        "Other approved nursing education programmes where currently available and recognised by the Nursing and Midwifery Council of Nigeria.",
+        "Further approved training for nurses who later specialise in areas such as critical care, paediatrics, community health, or midwifery.",
+      ],
+
+      admissionNote:
+        "Check the current JAMB brochure, the institution's admission requirements, and the Nursing and Midwifery Council of Nigeria (NMCN) guidance. Nursing programmes commonly require O'level credits in English Language, Mathematics, Biology, Chemistry, and Physics, but the exact requirements and admission routes must be confirmed for the specific programme. Do not assume that an unapproved course qualifies you for professional registration.",
+    },
+
+    opportunitiesIntro:
+      "Nursing can lead to patient-care roles across hospitals, community services, specialist units, and healthcare education.",
+
+    opportunities: [
+      "Hospital nurse — providing care and monitoring patients during treatment and recovery.",
+      "Paediatric nurse — caring for infants, children, and adolescents within the relevant scope of practice.",
+      "Critical care nurse — supporting patients who need intensive monitoring and specialised care.",
+      "Community health nurse — contributing to preventive care and health education in communities.",
+      "Occupational health nurse — supporting workplace health and employee wellbeing.",
+      "Nurse educator — helping train nursing students after obtaining the necessary qualifications and experience.",
+    ],
   },
   {
     id: "pharmacist",
@@ -225,6 +880,60 @@ window.CAREERS = [
       PR: 3,
       BE: 3,
     },
+    image: "../assets/images/careers/pharmacist.jpg",
+
+    intro:
+      "Pharmacists are medicine experts who help ensure that medicines are selected, prepared, supplied, and used safely and effectively.",
+
+    overview:
+      "Pharmacists apply knowledge of medicines, chemistry, biology, and human health to support safe treatment. They may review prescriptions, explain how medicines should be used, identify potential medicine-related problems, monitor safety, or contribute to medicine production and quality assurance. Depending on their role, they can work in community pharmacies, hospitals, pharmaceutical manufacturing, research, regulatory services, or public health.",
+
+    skills: [
+      "Scientific knowledge — understanding medicines, their effects, and how they work.",
+      "Accuracy — checking prescriptions, doses, labels, and medicine records carefully.",
+      "Analytical thinking — identifying possible interactions, risks, and medicine-related problems.",
+      "Communication — explaining medicine use and precautions in understandable language.",
+      "Ethical judgement — handling medicines and patient information responsibly.",
+      "Attention to detail — following procedures and maintaining accurate documentation.",
+      "Continuous learning — keeping up with medicines, evidence, and relevant regulations.",
+    ],
+
+    subjectsIntro:
+      "Pharmacy requires a strong science background. Confirm the current requirements of the particular university and approved pharmacy programme.",
+
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Biology",
+      "Chemistry",
+      "Physics",
+    ],
+
+    education: {
+      summary:
+        "A common route is to complete an approved pharmacy degree programme and satisfy the applicable professional training, examination, and registration requirements. The exact route and requirements should be confirmed with the university and the Pharmacy Council of Nigeria.",
+
+      routes: [
+        "Approved university pharmacy degree programme, followed by the applicable professional registration process.",
+        "Further recognised training in areas such as clinical pharmacy, pharmaceutical manufacturing, regulatory affairs, or medicine safety.",
+        "Additional study and research for those interested in pharmaceutical sciences, drug development, or academic careers.",
+      ],
+
+      admissionNote:
+        "Check the current JAMB brochure, your chosen institution's admission requirements, and Pharmacy Council of Nigeria guidance. Pharmacy commonly requires O'level credits in English Language, Mathematics, Biology, Chemistry, and Physics, with specified UTME subjects. Confirm the exact requirements and current rules for professional training and registration. A related science degree does not automatically qualify someone to practise as a pharmacist.",
+    },
+
+    opportunitiesIntro:
+      "Pharmacists can work in medicine supply, clinical care, manufacturing, research, regulation, and other parts of the pharmaceutical sector.",
+
+    opportunities: [
+      "Community pharmacist — supporting patients with the safe use of medicines.",
+      "Hospital pharmacist — helping healthcare teams manage medication treatment.",
+      "Clinical pharmacist — applying specialised medication knowledge to patient care.",
+      "Industrial pharmacist — contributing to medicine production and quality processes.",
+      "Regulatory affairs specialist — helping ensure that pharmaceutical products meet applicable requirements.",
+      "Pharmaceutical researcher — contributing to research into medicines and related products.",
+    ],
   },
   {
     id: "medical-laboratory-scientist",
@@ -242,6 +951,60 @@ window.CAREERS = [
       PR: 5,
       BE: 2,
     },
+    image: "../assets/images/careers/medical-laboratory-scientist.jpg",
+
+    intro:
+      "Medical laboratory scientists analyse patient specimens to help healthcare professionals detect diseases, assess health conditions, and monitor treatment.",
+
+    overview:
+      "Medical laboratory scientists perform and interpret laboratory investigations using samples such as blood, urine, and other clinical materials. Their work may involve clinical chemistry, haematology, microbiology, immunology, or other laboratory disciplines. They follow validated procedures, operate specialised equipment, maintain quality standards, and report reliable findings that contribute to patient diagnosis and care. Accuracy and safe specimen handling are central to the profession.",
+
+    skills: [
+      "Scientific reasoning — understanding biological processes and laboratory findings.",
+      "Laboratory technique — handling specimens and carrying out tests correctly.",
+      "Accuracy — following procedures and recording results carefully.",
+      "Analytical thinking — recognising unusual findings and investigating possible errors.",
+      "Equipment handling — operating and maintaining laboratory instruments appropriately.",
+      "Quality assurance — checking that methods and results meet established standards.",
+      "Biosafety — following infection prevention and specimen-handling procedures.",
+    ],
+
+    subjectsIntro:
+      "This career requires a solid foundation in biology, chemistry, and other sciences relevant to laboratory medicine.",
+
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Biology",
+      "Chemistry",
+      "Physics",
+    ],
+
+    education: {
+      summary:
+        "A common route is to complete an approved Medical Laboratory Science programme and satisfy the applicable clinical training, professional examination, and registration requirements. The specific programme and pathway should be verified with the institution and the Medical Laboratory Science Council of Nigeria.",
+
+      routes: [
+        "Approved university programme in Medical Laboratory Science, followed by the applicable professional registration process.",
+        "Further recognised training in areas such as haematology, medical microbiology, clinical chemistry, or laboratory quality management.",
+        "Research or postgraduate study in biomedical laboratory sciences and related disciplines.",
+      ],
+
+      admissionNote:
+        "Check the current JAMB brochure, the chosen institution's requirements, and Medical Laboratory Science Council of Nigeria (MLSCN) guidance. Programmes commonly require O'level credits in English Language, Mathematics, Biology, Chemistry, and Physics, with specified UTME subjects. Confirm the exact entry requirements, approved programme status, clinical training, and registration rules. Other laboratory science degrees do not automatically qualify a graduate to practise as a medical laboratory scientist.",
+    },
+
+    opportunitiesIntro:
+      "Qualified medical laboratory scientists can work in diagnostic laboratories, hospitals, research institutions, public health, and laboratory quality services.",
+
+    opportunities: [
+      "Clinical chemistry scientist — analysing substances in patient specimens.",
+      "Medical microbiology scientist — investigating microorganisms associated with disease.",
+      "Haematology scientist — analysing blood and related disorders.",
+      "Blood transfusion laboratory scientist — supporting laboratory testing for safe transfusion.",
+      "Public health laboratory scientist — contributing to disease surveillance and laboratory investigations.",
+      "Laboratory quality officer — supporting quality assurance, documentation, and reliable testing procedures.",
+    ],
   },
   {
     id: "physiotherapist",
@@ -259,6 +1022,60 @@ window.CAREERS = [
       PR: 5,
       BE: 2,
     },
+    image: "../assets/images/careers/physiotherapist.jpg",
+
+    intro:
+      "Physiotherapists help people improve movement, manage physical limitations, recover function, and participate more fully in daily life.",
+
+    overview:
+      "Physiotherapists assess movement, strength, balance, pain, and physical function to develop suitable rehabilitation plans. They may guide patients through therapeutic exercises, movement training, and other evidence-based interventions following injury, illness, surgery, or disability. They also help people understand their conditions and work towards realistic functional goals. The profession combines scientific knowledge, hands-on assessment, communication, and encouragement throughout recovery.",
+
+    skills: [
+      "Human biology — understanding muscles, bones, joints, and movement.",
+      "Assessment — observing movement and identifying functional limitations.",
+      "Problem-solving — adapting rehabilitation plans to individual needs.",
+      "Communication — explaining exercises and helping patients understand their progress.",
+      "Empathy — supporting people who may experience pain, frustration, or limited mobility.",
+      "Practical competence — applying appropriate therapeutic techniques within professional training.",
+      "Motivation and patience — helping patients work consistently towards recovery goals.",
+    ],
+
+    subjectsIntro:
+      "Biology, Physics, and other sciences provide useful foundations for understanding the human body and movement.",
+
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Biology",
+      "Chemistry",
+      "Physics",
+    ],
+
+    education: {
+      summary:
+        "A common route is to complete a recognised Physiotherapy programme with the required clinical placements and practical training. Graduates must meet the applicable professional registration requirements before practising independently within the profession.",
+
+      routes: [
+        "Recognised university degree in Physiotherapy, followed by the applicable professional registration requirements.",
+        "Further recognised clinical training in areas such as neurological, musculoskeletal, paediatric, or sports rehabilitation.",
+        "Postgraduate study or research in rehabilitation science, human movement, or related areas.",
+      ],
+
+      admissionNote:
+        "Consult the current JAMB brochure, your institution's admission requirements, and the Medical Rehabilitation Therapists (Registration) Board of Nigeria (MRTB) guidance. Physiotherapy programmes commonly require relevant O'level science credits, including English Language, Mathematics, Biology, Chemistry, and Physics, with specified UTME subjects. Confirm the precise requirements, approved programme status, clinical training, and professional registration rules.",
+    },
+
+    opportunitiesIntro:
+      "Physiotherapists can work in hospitals, rehabilitation centres, sports settings, community services, and other environments where movement and physical function matter.",
+
+    opportunities: [
+      "Musculoskeletal physiotherapist — helping people manage joint, muscle, and movement problems.",
+      "Neurological physiotherapist — supporting rehabilitation for people with neurological conditions.",
+      "Sports physiotherapist — helping athletes recover from injuries and improve physical function.",
+      "Paediatric physiotherapist — supporting movement and development in children.",
+      "Rehabilitation physiotherapist — helping patients rebuild function after injury, illness, or surgery.",
+      "Community physiotherapist — supporting mobility and rehabilitation in community settings.",
+    ],
   },
   {
     id: "radiographer",
@@ -276,6 +1093,60 @@ window.CAREERS = [
       PR: 5,
       BE: 2,
     },
+    image: "../assets/images/careers/radiographer.jpg",
+
+    intro:
+      "Radiographers use medical imaging equipment to produce images that help healthcare teams investigate injuries and diseases.",
+
+    overview:
+      "Radiographers work with imaging technologies and patients to produce diagnostic images safely and accurately. Depending on their training and specialisation, they may work with X-rays, computed tomography (CT), magnetic resonance imaging (MRI), or other imaging methods. Their responsibilities include preparing patients, positioning them appropriately, operating equipment, following radiation safety procedures where applicable, and ensuring image quality. Radiographers are distinct from radiologists, who are medical doctors specialising in interpreting medical images and related clinical work.",
+
+    skills: [
+      "Scientific knowledge — understanding anatomy, physiology, and imaging principles.",
+      "Technical competence — operating imaging equipment according to training and procedures.",
+      "Attention to detail — positioning patients and checking image quality carefully.",
+      "Patient communication — explaining procedures and helping patients feel informed.",
+      "Safety awareness — following radiation protection and other applicable safety measures.",
+      "Problem-solving — adjusting imaging approaches appropriately when difficulties arise.",
+      "Teamwork — coordinating with patients and other healthcare professionals.",
+    ],
+
+    subjectsIntro:
+      "Radiography combines scientific knowledge with practical medical technology, so a strong science background is useful.",
+
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Biology",
+      "Chemistry",
+      "Physics",
+    ],
+
+    education: {
+      summary:
+        "A common route is to complete a recognised Radiography programme with appropriate clinical training. Graduates must satisfy the relevant professional registration and practice requirements. Further education may lead to specialised imaging roles.",
+
+      routes: [
+        "Recognised university degree in Radiography, followed by the applicable professional registration process.",
+        "Further recognised training in areas such as CT, MRI, mammography, or other imaging specialisations.",
+        "Postgraduate study, research, or academic work in medical imaging and related fields.",
+      ],
+
+      admissionNote:
+        "Check the current JAMB brochure, your chosen institution's requirements, and Radiographers Registration Board of Nigeria (RRBN) guidance. Radiography programmes commonly require O'level credits in English Language, Mathematics, Biology, Chemistry, and Physics, alongside specified UTME subjects. Verify the precise requirements, approved programme status, clinical training, and professional registration rules. Radiography and radiology are related but distinct career paths.",
+    },
+
+    opportunitiesIntro:
+      "Radiographers can work in hospitals, diagnostic imaging centres, specialist clinics, and other settings that provide medical imaging services.",
+
+    opportunities: [
+      "Diagnostic radiographer — producing medical images for clinical investigations.",
+      "CT radiographer — working with computed tomography imaging systems.",
+      "MRI radiographer — performing magnetic resonance imaging examinations.",
+      "Mammography specialist — undertaking specialised breast imaging after the required training.",
+      "Medical imaging applications specialist — supporting the use of imaging equipment and related technology.",
+      "Radiography educator or researcher — contributing to professional education or imaging research with appropriate further qualifications.",
+    ],
   },
 
   // 4. SCIENCE, AGRICULTURE & ENVIRONMENT
@@ -295,6 +1166,48 @@ window.CAREERS = [
       PR: 4,
       BE: 2,
     },
+    image: "../assets/images/careers/microbiologist.jpg",
+    intro:
+      "Explore the microscopic organisms that affect human health, food, agriculture and the environment.",
+    overview:
+      "Microbiologists study microorganisms such as bacteria, fungi, viruses and other microscopic life. They investigate how these organisms grow, spread and interact with their surroundings. Their work can support disease research, food safety, industrial production and environmental protection.",
+    skills: [
+      "Laboratory techniques and careful sample handling",
+      "Observation and scientific reasoning",
+      "Data recording and interpretation",
+      "Attention to detail and laboratory safety",
+      "Patience and structured problem-solving",
+    ],
+    subjectsIntro:
+      "Microbiology suits students who enjoy biology, chemistry and investigating how living things work at a small scale.",
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Biology",
+      "Chemistry",
+      "Physics",
+    ],
+    education: {
+      summary:
+        "A common route is a university degree in Microbiology or a closely related biological science.",
+      routes: [
+        "Study relevant science subjects at SS3 level and meet the entry requirements for your chosen institution.",
+        "Pursue a B.Sc. in Microbiology or a related programme.",
+        "Build practical laboratory experience through supervised projects, internships or research placements.",
+        "Consider postgraduate study for specialised research, teaching or advanced laboratory roles.",
+      ],
+      admissionNote:
+        "Subject combinations, UTME requirements and accepted qualifications vary by institution. Check the current JAMB brochure and the specific university's admission requirements before choosing your subjects.",
+    },
+    opportunitiesIntro:
+      "Microbiology graduates may work in laboratories, research, quality assurance and industries that monitor microorganisms.",
+    opportunities: [
+      "Medical and diagnostic laboratories, where permitted by relevant qualifications and regulations",
+      "Food and beverage quality-control laboratories",
+      "Pharmaceutical and biotechnology companies",
+      "Public health and environmental laboratories",
+      "Research institutions and science education",
+    ],
   },
   {
     id: "biochemist",
@@ -312,6 +1225,48 @@ window.CAREERS = [
       PR: 3,
       BE: 2,
     },
+    image: "../assets/images/careers/biochemist.jpg",
+    intro:
+      "Discover the chemical processes that keep living organisms functioning.",
+    overview:
+      "Biochemists study the molecules and chemical reactions involved in life, including proteins, enzymes, DNA and metabolism. They use scientific experiments and data to investigate biological processes and contribute to research in health, agriculture, food production and biotechnology.",
+    skills: [
+      "Analytical and scientific thinking",
+      "Understanding chemical and biological processes",
+      "Laboratory experimentation",
+      "Interpreting research data",
+      "Accuracy and documentation",
+    ],
+    subjectsIntro:
+      "Biochemistry is a strong option for students interested in both biology and chemistry, especially the science behind how cells and organisms function.",
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Biology",
+      "Chemistry",
+      "Physics",
+    ],
+    education: {
+      summary:
+        "The usual route is a university degree in Biochemistry or a related life-science programme.",
+      routes: [
+        "Build a strong foundation in biology, chemistry and mathematics at secondary-school level.",
+        "Apply for a B.Sc. in Biochemistry or an institution-approved related course.",
+        "Develop laboratory, research and data-analysis skills during your degree.",
+        "Explore postgraduate specialisation in areas such as molecular biology, biotechnology or biomedical research.",
+      ],
+      admissionNote:
+        "Confirm the required O'Level subjects, UTME subject combination and programme-specific conditions in the current JAMB brochure and with your chosen institution.",
+    },
+    opportunitiesIntro:
+      "Biochemistry can lead to work involving biological research, laboratory analysis and industrial quality control.",
+    opportunities: [
+      "Biotechnology and life-science research",
+      "Food and beverage production and quality assurance",
+      "Pharmaceutical and related industries",
+      "Academic and scientific research",
+      "Laboratory and analytical roles appropriate to your qualifications",
+    ],
   },
   {
     id: "chemist",
@@ -329,6 +1284,48 @@ window.CAREERS = [
       PR: 4,
       BE: 3,
     },
+    image: "../assets/images/careers/chemist.jpg",
+    intro:
+      "Understand the substances around us and learn how to analyse, improve and create materials.",
+    overview:
+      "Chemists study the composition, properties and reactions of substances. They may analyse samples, develop products, test materials or investigate chemical processes. Their work supports sectors such as manufacturing, energy, food production, pharmaceuticals and environmental monitoring.",
+    skills: [
+      "Logical and quantitative reasoning",
+      "Laboratory measurement and experimentation",
+      "Understanding chemical reactions",
+      "Safe handling of laboratory materials",
+      "Clear recording and interpretation of results",
+    ],
+    subjectsIntro:
+      "Chemistry is well suited to students who enjoy experiments, calculations, understanding materials and solving problems through evidence.",
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Chemistry",
+      "Physics",
+      "Biology",
+    ],
+    education: {
+      summary:
+        "A common pathway is a university degree in Chemistry or an appropriate applied-chemistry programme.",
+      routes: [
+        "Build strong foundations in chemistry, mathematics and physics.",
+        "Apply for a B.Sc. in Chemistry or a relevant programme that meets your interests.",
+        "Gain practical experience with laboratory instruments, analysis and safety procedures.",
+        "Specialise later in areas such as analytical, industrial, environmental or materials chemistry.",
+      ],
+      admissionNote:
+        "Required subjects and accepted combinations depend on the institution and course. Check the current JAMB brochure and your chosen institution's admission guidance.",
+    },
+    opportunitiesIntro:
+      "Chemists can work in laboratories, manufacturing, research and industries that test or develop chemical products.",
+    opportunities: [
+      "Industrial and analytical laboratories",
+      "Manufacturing and product development",
+      "Food, paint, plastics and materials industries",
+      "Environmental testing and monitoring",
+      "Research, quality assurance and science education",
+    ],
   },
   {
     id: "agricultural-scientist",
@@ -346,6 +1343,48 @@ window.CAREERS = [
       PR: 5,
       BE: 4,
     },
+    image: "../assets/images/careers/agricultural-scientist.jpg",
+    intro:
+      "Use science and practical knowledge to improve farming, food production and agricultural livelihoods.",
+    overview:
+      "Agricultural scientists investigate how crops, livestock, soil, water and farming systems can be improved. Depending on their specialisation, they may research crop varieties, soil fertility, animal production, pests, farm management or sustainable agricultural methods. Their work can help farmers improve productivity while managing resources responsibly.",
+    skills: [
+      "Scientific observation and experimentation",
+      "Practical problem-solving in agricultural settings",
+      "Understanding crops, soil and farming systems",
+      "Communication with farmers and communities",
+      "Planning, record-keeping and data interpretation",
+    ],
+    subjectsIntro:
+      "Agricultural science suits students interested in biology, the natural environment, practical work and improving how food is produced.",
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Biology or Agricultural Science",
+      "Chemistry",
+      "Physics",
+    ],
+    education: {
+      summary:
+        "Possible routes include degrees in Agricultural Science, Crop Science, Soil Science, Animal Science or other agricultural specialisations.",
+      routes: [
+        "Study relevant science subjects and Agricultural Science where available.",
+        "Choose a university programme that matches your interest, such as crop production, soil management or animal production.",
+        "Gain practical experience through farms, fieldwork, laboratories or agricultural projects.",
+        "Explore further training or postgraduate study for research, extension work or specialised roles.",
+      ],
+      admissionNote:
+        "Agricultural programmes can have different subject requirements. Confirm the exact O'Level and UTME combinations for your chosen course in the current JAMB brochure and with the institution.",
+    },
+    opportunitiesIntro:
+      "Agricultural scientists contribute to food production, research, agribusiness and support services for farmers.",
+    opportunities: [
+      "Agricultural research institutes and universities",
+      "Government and private agricultural extension services",
+      "Farms, plantations and food-production companies",
+      "Seed, fertiliser and agricultural-input businesses",
+      "Agribusiness, farm consulting and agricultural entrepreneurship",
+    ],
   },
   {
     id: "environmental-scientist",
@@ -363,6 +1402,48 @@ window.CAREERS = [
       PR: 4,
       BE: 3,
     },
+    image: "../assets/images/careers/environmental-scientist.jpg",
+    intro:
+      "Investigate environmental problems and help protect the air, water, land and communities around us.",
+    overview:
+      "Environmental scientists study the natural environment and how human activities affect it. They may collect and analyse water or soil samples, monitor pollution, assess environmental risks and support conservation or waste-management projects. Their work combines scientific investigation with practical recommendations for communities, businesses and public agencies.",
+    skills: [
+      "Environmental observation and field sampling",
+      "Scientific analysis and data interpretation",
+      "Problem-solving and risk assessment",
+      "Report writing and communication",
+      "Understanding ecosystems and human environmental impacts",
+    ],
+    subjectsIntro:
+      "Environmental science is a good fit for students interested in biology, chemistry, geography, fieldwork and finding practical solutions to environmental challenges.",
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Biology",
+      "Chemistry",
+      "Geography or Physics",
+    ],
+    education: {
+      summary:
+        "Relevant routes may include Environmental Science, Environmental Management or another closely related environmental programme.",
+      routes: [
+        "Build a foundation in science and subjects that help you understand the physical environment.",
+        "Apply for an institution-approved environmental science or related degree.",
+        "Develop skills in field sampling, laboratory analysis, mapping and environmental reporting.",
+        "Consider specialisation in pollution monitoring, conservation, waste management or environmental assessment.",
+      ],
+      admissionNote:
+        "Accepted subjects and admission requirements differ between courses and institutions. Check the current JAMB brochure and the specific programme's requirements before applying.",
+    },
+    opportunitiesIntro:
+      "Environmental scientists may support organisations that monitor pollution, manage natural resources and assess environmental impacts.",
+    opportunities: [
+      "Environmental consulting and assessment organisations",
+      "Environmental monitoring and testing laboratories",
+      "Government environmental agencies and local authorities",
+      "Conservation and sustainability organisations",
+      "Waste management, industry and environmental research",
+    ],
   },
 
   // 5. BUSINESS, FINANCE & ENTERPRISE
@@ -382,6 +1463,48 @@ window.CAREERS = [
       PR: 2,
       BE: 4,
     },
+    image: "../assets/images/careers/accountant.jpg",
+    intro:
+      "Help individuals and organisations understand their money, track performance and make informed financial decisions.",
+    overview:
+      "Accountants record, organise and interpret financial information. They help businesses understand income, expenses, assets and liabilities, prepare financial reports, manage budgets and meet relevant reporting requirements. Depending on their role, accountants may focus on auditing, taxation, management accounting or financial reporting.",
+    skills: [
+      "Numerical accuracy and attention to detail",
+      "Analytical thinking and problem-solving",
+      "Organisation and record-keeping",
+      "Ethical judgement and confidentiality",
+      "Communication and spreadsheet skills",
+    ],
+    subjectsIntro:
+      "Accounting can suit students who enjoy working with numbers, organising information, understanding businesses and checking details carefully.",
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Economics",
+      "Financial Accounting",
+      "Commerce or a relevant business subject",
+    ],
+    education: {
+      summary:
+        "A common route is a degree in Accounting or a related programme, followed where appropriate by professional accounting qualifications.",
+      routes: [
+        "Build a foundation in mathematics, financial accounting and business subjects at secondary-school level.",
+        "Apply for an Accounting degree or another recognised route that meets your goals and entry requirements.",
+        "Practise using spreadsheets, bookkeeping tools and financial reporting methods.",
+        "Explore professional qualifications and supervised experience through recognised accounting bodies.",
+      ],
+      admissionNote:
+        "O'Level and UTME subject requirements vary by institution. Professional qualification and membership requirements also differ, so verify the current JAMB brochure, your institution's rules and the relevant professional body's guidance.",
+    },
+    opportunitiesIntro:
+      "Accountants work across many sectors because organisations need reliable financial records and reporting.",
+    opportunities: [
+      "Accounting and audit firms",
+      "Banks, insurance companies and other financial institutions",
+      "Private companies and public-sector organisations",
+      "Tax, budgeting and financial reporting roles",
+      "Self-employment and accounting services, subject to applicable requirements",
+    ],
   },
   {
     id: "economist",
@@ -399,6 +1522,48 @@ window.CAREERS = [
       PR: 1,
       BE: 4,
     },
+    image: "../assets/images/careers/economist.jpg",
+    intro:
+      "Study how people, businesses and governments make choices when resources are limited.",
+    overview:
+      "Economists examine how markets work, why prices change, how people respond to incentives and how public policies affect society. They use economic theories, statistics and data to understand issues such as inflation, employment, trade, poverty and economic growth. Their work can support research, planning and decision-making.",
+    skills: [
+      "Logical and analytical reasoning",
+      "Mathematics, statistics and data interpretation",
+      "Research and critical thinking",
+      "Clear writing and presentation",
+      "Understanding markets, incentives and public policy",
+    ],
+    subjectsIntro:
+      "Economics may appeal to students who like understanding why prices rise, how businesses compete, how government decisions affect people and how societies use limited resources.",
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Economics",
+      "Government or Geography",
+      "A relevant social-science or business subject",
+    ],
+    education: {
+      summary:
+        "A typical route is a degree in Economics or a related field, with quantitative and research skills becoming increasingly important in many roles.",
+      routes: [
+        "Develop a strong foundation in mathematics, economics and written communication.",
+        "Apply for an Economics degree or an appropriate related programme.",
+        "Learn statistics, spreadsheet analysis and, where useful, tools such as Python or R.",
+        "Consider postgraduate study for specialised economic research, policy analysis or academic careers.",
+      ],
+      admissionNote:
+        "Required secondary-school subjects and UTME combinations vary by institution. Check the current JAMB brochure and the entry requirements of your chosen programme.",
+    },
+    opportunitiesIntro:
+      "Economics graduates can apply their analytical skills to research, policy, finance, business and development work. Specific economist positions may require additional training or experience.",
+    opportunities: [
+      "Economic and policy research",
+      "Government planning and public-sector analysis",
+      "Banking, finance and market research",
+      "Consulting and business analysis",
+      "Development organisations and academic research",
+    ],
   },
   {
     id: "banking-finance-professional",
@@ -416,6 +1581,48 @@ window.CAREERS = [
       PR: 2,
       BE: 5,
     },
+    image: "../assets/images/careers/banking-finance-professional.jpg",
+    intro:
+      "Help people and organisations manage money, assess financial choices and access financial services.",
+    overview:
+      "Banking and finance professionals work with financial products, customer accounts, lending, investments, payments and risk. Their responsibilities depend on the role: some advise customers, some analyse financial information, and others help organisations manage funds or evaluate financial opportunities. Accuracy, trust and responsible decision-making are central to the field.",
+    skills: [
+      "Numerical and analytical thinking",
+      "Customer service and clear communication",
+      "Digital literacy and spreadsheet skills",
+      "Ethical judgement and attention to detail",
+      "Commercial awareness and problem-solving",
+    ],
+    subjectsIntro:
+      "This field may suit students interested in money, business, customer relationships, financial technology and how organisations make financial decisions.",
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Economics",
+      "Financial Accounting or Commerce",
+      "A relevant business or social-science subject",
+    ],
+    education: {
+      summary:
+        "Relevant degrees may include Banking and Finance, Finance, Economics, Accounting or other accepted business-related programmes.",
+      routes: [
+        "Build a foundation in mathematics, economics and business studies.",
+        "Choose a recognised degree or other suitable qualification for your intended role.",
+        "Develop spreadsheet, financial analysis, communication and customer-service skills.",
+        "Explore relevant professional certifications or specialist training as your career develops.",
+      ],
+      admissionNote:
+        "Admission requirements depend on the course and institution. Some finance roles may also have employer-specific or professional requirements; check these before choosing a route.",
+    },
+    opportunitiesIntro:
+      "Career options span traditional financial institutions and newer digital financial services.",
+    opportunities: [
+      "Commercial and microfinance banks",
+      "Fintech and digital payment companies",
+      "Insurance and investment-related organisations",
+      "Credit analysis, risk support and financial operations",
+      "Customer relationship management and business banking",
+    ],
   },
   {
     id: "marketing-specialist",
@@ -433,6 +1640,48 @@ window.CAREERS = [
       PR: 2,
       BE: 5,
     },
+    image: "../assets/images/careers/marketing-specialist.jpg",
+    intro:
+      "Understand what customers need and communicate why a product, service or idea matters.",
+    overview:
+      "Marketing specialists help organisations reach the right audiences and build demand for their products or services. Their work can include researching customers, planning campaigns, developing brand messages, managing social media, analysing campaign results and coordinating promotional activities. Modern marketing often combines creativity with data and digital tools.",
+    skills: [
+      "Creative thinking and storytelling",
+      "Writing, presentation and persuasion",
+      "Understanding customers and markets",
+      "Digital tools and campaign analytics",
+      "Planning, teamwork and problem-solving",
+    ],
+    subjectsIntro:
+      "Marketing may suit students who enjoy communication, creative projects, business ideas, understanding people and using digital platforms to reach an audience.",
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Economics",
+      "Commerce or Financial Accounting",
+      "A relevant arts, social-science or business subject",
+    ],
+    education: {
+      summary:
+        "Possible routes include Marketing, Business Administration, Mass Communication or another relevant programme, depending on the type of marketing you want to pursue.",
+      routes: [
+        "Build strong communication and business foundations at secondary-school level.",
+        "Choose an appropriate degree, diploma or other recognised training route.",
+        "Practise writing campaign messages, researching audiences and creating sample projects.",
+        "Build a portfolio through supervised projects, internships, volunteering or personal practice.",
+      ],
+      admissionNote:
+        "Subject combinations differ by programme and institution. Check the current JAMB brochure and the entry requirements for your preferred course.",
+    },
+    opportunitiesIntro:
+      "Marketing specialists work in organisations of many sizes, including businesses that depend on digital customer acquisition and brand awareness.",
+    opportunities: [
+      "Digital marketing and social media management",
+      "Brand management and advertising",
+      "Market research and customer insights",
+      "Sales support and business development",
+      "Agency work, freelance services and marketing entrepreneurship",
+    ],
   },
   {
     id: "entrepreneur",
@@ -450,9 +1699,52 @@ window.CAREERS = [
       PR: 4,
       BE: 5,
     },
+    image: "../assets/images/careers/entrepreneur.jpg",
+    intro:
+      "Turn a useful idea into a product or service that solves a real problem and creates value.",
+    overview:
+      "Entrepreneurs identify opportunities, understand customer needs and organise the resources needed to run a business. They may develop products, offer services, manage money, market their work, hire people and adapt when circumstances change. Entrepreneurship involves uncertainty, so research, testing and responsible financial planning matter as much as ambition.",
+    skills: [
+      "Identifying problems and useful opportunities",
+      "Creative thinking and practical problem-solving",
+      "Communication, negotiation and networking",
+      "Financial planning and resource management",
+      "Leadership, adaptability and decision-making",
+    ],
+    subjectsIntro:
+      "Entrepreneurship may appeal to students who enjoy creating things, solving everyday problems, organising people and exploring how a business can become sustainable.",
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Economics",
+      "Commerce or Financial Accounting",
+      "A subject related to the business area you want to explore",
+    ],
+    education: {
+      summary:
+        "There is no single degree required to become an entrepreneur. Business education can help, but industry knowledge, practical experience and customer understanding are also valuable.",
+      routes: [
+        "Build foundational skills in communication, mathematics and business concepts.",
+        "Study Entrepreneurship, Business Administration or a subject related to your intended industry if it fits your goals.",
+        "Identify a real problem, research potential customers and test a small, affordable solution.",
+        "Learn bookkeeping, pricing, marketing and basic legal responsibilities before expanding.",
+        "Seek mentorship, practical experience and reputable business-development programmes.",
+      ],
+      admissionNote:
+        "If you choose a university course, confirm its specific admission requirements in the current JAMB brochure. Business registration, tax and sector-specific obligations depend on the type and scale of business you operate.",
+    },
+    opportunitiesIntro:
+      "Entrepreneurship can be pursued in almost any sector. Outcomes depend on customer demand, execution, resources and the ability to adapt; owning a business does not guarantee income or success.",
+    opportunities: [
+      "Starting a small business or service",
+      "Building a technology or digital-services venture",
+      "Agriculture, food production and agribusiness",
+      "Creative, retail and professional services",
+      "Growing an existing family business or developing a social enterprise",
+    ],
   },
 
-  // 6. LAW, SOCIETY, EDUCATION & PEOPLE
+  // 6. LAW, SOCIETY, EDUCATION & PEOPLEF
   {
     id: "lawyer",
     name: "Lawyer",
@@ -469,6 +1761,48 @@ window.CAREERS = [
       PR: 2,
       BE: 4,
     },
+    image: "../assets/images/careers/lawyer.jpg",
+    intro:
+      "Understand the law, protect people's rights and help individuals or organisations resolve legal issues.",
+    overview:
+      "Lawyers interpret laws, research legal questions, advise clients and help resolve disputes. Depending on their specialisation, they may work on criminal cases, contracts, family matters, business transactions, human rights or public policy. The profession requires careful reasoning, strong communication and a commitment to ethical practice.",
+    skills: [
+      "Critical thinking and logical reasoning",
+      "Reading, research and interpretation",
+      "Clear writing, speaking and argument",
+      "Negotiation and conflict resolution",
+      "Ethical judgement and attention to detail",
+    ],
+    subjectsIntro:
+      "Law may suit students who enjoy reading, discussing complex issues, building arguments from evidence and understanding how rules affect society.",
+    subjects: [
+      "English Language",
+      "Literature in English",
+      "Government",
+      "Christian Religious Studies or Islamic Religious Studies",
+      "Economics or another accepted arts or social-science subject",
+    ],
+    education: {
+      summary:
+        "In Nigeria, becoming a legal practitioner generally involves obtaining an accepted law degree and completing the required professional training and qualification process.",
+      routes: [
+        "Meet the O'Level and UTME requirements for an approved university law programme.",
+        "Complete the required law degree.",
+        "Complete the applicable professional training and qualification process through the Nigerian Law School.",
+        "Meet the current requirements for enrolment and practice before working as a qualified legal practitioner.",
+      ],
+      admissionNote:
+        "Law admission requirements can be specific and may change. Check the current JAMB brochure, your chosen university's rules and the Council of Legal Education or Nigerian Law School guidance for the applicable qualification pathway.",
+    },
+    opportunitiesIntro:
+      "Legal training can lead to practice, advisory work, public service, research and roles that require strong analytical and communication skills.",
+    opportunities: [
+      "Law firms and private legal practice, after meeting qualification requirements",
+      "Corporate legal departments and compliance teams",
+      "Government agencies and public service",
+      "Human rights and public-interest organisations",
+      "Legal research, policy and academic work",
+    ],
   },
   {
     id: "teacher",
@@ -486,6 +1820,48 @@ window.CAREERS = [
       PR: 2,
       BE: 2,
     },
+    image: "../assets/images/careers/teacher.jpg",
+    intro:
+      "Help learners understand new ideas, develop useful skills and grow in confidence.",
+    overview:
+      "Teachers and educators plan lessons, explain concepts, assess learning and support students with different abilities and needs. They may specialise in a subject, age group or learning setting. Effective teaching combines subject knowledge with communication, patience, organisation and the ability to adapt when students need a different explanation.",
+    skills: [
+      "Clear explanation and communication",
+      "Patience, empathy and active listening",
+      "Lesson planning and organisation",
+      "Creativity and adapting to learners",
+      "Assessment, feedback and classroom management",
+    ],
+    subjectsIntro:
+      "Teaching may suit students who enjoy explaining ideas, helping others learn, organising activities and making difficult topics easier to understand.",
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "A subject related to the area you want to teach",
+      "Biology, Physics, Chemistry or other relevant subjects, depending on your specialisation",
+      "Relevant arts, social-science or vocational subjects, depending on your intended teaching area",
+    ],
+    education: {
+      summary:
+        "Common routes include a Bachelor of Education or a relevant subject degree combined with the required teacher-training qualification.",
+      routes: [
+        "Identify the age group or subject you would like to teach.",
+        "Choose an appropriate education degree or subject degree with a recognised teacher-training route.",
+        "Develop practical skills through supervised teaching practice.",
+        "Check applicable teacher registration and certification requirements before seeking eligible teaching roles.",
+      ],
+      admissionNote:
+        "Entry subjects depend on the teaching specialisation and institution. Check the current JAMB brochure, your institution's requirements and the Teachers Registration Council of Nigeria (TRCN) guidance for relevant professional requirements.",
+    },
+    opportunitiesIntro:
+      "Educators work in formal schools and other settings where people need structured learning and skills development.",
+    opportunities: [
+      "Primary and secondary schools",
+      "Private schools and approved learning centres",
+      "Vocational and skills-training programmes",
+      "Educational content and curriculum development",
+      "Tutoring, educational technology and learning support",
+    ],
   },
   {
     id: "psychologist-counsellor",
@@ -503,6 +1879,48 @@ window.CAREERS = [
       PR: 2,
       BE: 2,
     },
+    image: "../assets/images/careers/psychologist-counsellor.jpg",
+    intro:
+      "Help people understand challenges, build coping skills and make informed decisions about their lives.",
+    overview:
+      "Psychology examines human behaviour, emotions, thinking and development. Counselling focuses on helping people work through concerns, decisions and personal challenges. The two fields overlap but are not identical: professional responsibilities, training and permitted practice depend on the role and applicable requirements. Both require listening carefully, respecting confidentiality and recognising when specialist support is needed.",
+    skills: [
+      "Active listening and empathetic communication",
+      "Observation and critical thinking",
+      "Respect for privacy and professional boundaries",
+      "Understanding human behaviour and development",
+      "Accurate documentation and ethical judgement",
+    ],
+    subjectsIntro:
+      "This path may appeal to students who are curious about human behaviour, enjoy listening without rushing to judge and want to understand how people learn, cope and relate to others.",
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Biology",
+      "Government or Economics",
+      "A relevant arts or social-science subject",
+    ],
+    education: {
+      summary:
+        "Relevant academic routes include Psychology, Guidance and Counselling, or related programmes. The appropriate route depends on the specific professional role you want to pursue.",
+      routes: [
+        "Research the differences between psychology, guidance and counselling, and other helping professions.",
+        "Choose a recognised degree programme that aligns with your intended role.",
+        "Develop research, communication and ethical decision-making skills.",
+        "Complete any required postgraduate study, supervised practice, registration or professional training for the role you intend to enter.",
+      ],
+      admissionNote:
+        "Entry requirements vary by programme. Professional practice requirements can also differ substantially between roles, so check the current JAMB brochure, your institution's rules and the relevant Nigerian professional regulator or professional body before planning your route.",
+    },
+    opportunitiesIntro:
+      "Possible settings include education, community services, research and appropriately qualified support roles.",
+    opportunities: [
+      "Schools and student-support services",
+      "Community and social-support organisations",
+      "Research and human-behaviour studies",
+      "Organisational wellbeing and people-support roles",
+      "Specialist psychological or counselling services after meeting the applicable requirements",
+    ],
   },
   {
     id: "human-resources-professional",
@@ -520,6 +1938,48 @@ window.CAREERS = [
       PR: 2,
       BE: 4,
     },
+    image: "../assets/images/careers/human-resources-professional.jpg",
+    intro:
+      "Help organisations recruit, support and develop the people who make their work possible.",
+    overview:
+      "Human resources professionals help manage the employee side of an organisation. Their work may include recruitment, onboarding, training, employee relations, performance processes, workplace policies and staff records. Good HR practice balances organisational needs with fairness, confidentiality and respect for employees.",
+    skills: [
+      "Communication and interpersonal skills",
+      "Organisation and record management",
+      "Conflict resolution and sound judgement",
+      "Planning, coordination and leadership",
+      "Digital literacy and handling confidential information",
+    ],
+    subjectsIntro:
+      "Human resources may suit students who enjoy working with people, organising activities, resolving disagreements and helping teams perform well.",
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Economics",
+      "Government or Commerce",
+      "A relevant business or social-science subject",
+    ],
+    education: {
+      summary:
+        "Relevant degrees may include Human Resource Management, Business Administration, Industrial Relations, Psychology or other related programmes accepted by employers.",
+      routes: [
+        "Build strong communication and business foundations.",
+        "Choose a relevant degree or recognised qualification that fits your interests.",
+        "Learn about recruitment, employee development, workplace policies and employment practices.",
+        "Gain experience through internships, administrative roles, people operations or relevant professional development.",
+      ],
+      admissionNote:
+        "Entry requirements vary by institution and course. Professional certifications may be useful for some roles but do not automatically replace an employer's or institution's requirements.",
+    },
+    opportunitiesIntro:
+      "HR professionals work wherever organisations recruit staff, develop teams and manage employee relationships.",
+    opportunities: [
+      "Recruitment and talent acquisition",
+      "Training and employee development",
+      "Human resources administration and operations",
+      "Employee relations and workplace support",
+      "People operations in companies, NGOs and public-sector organisations",
+    ],
   },
   {
     id: "social-worker",
@@ -537,6 +1997,48 @@ window.CAREERS = [
       PR: 4,
       BE: 2,
     },
+    image: "../assets/images/careers/social-worker.jpg",
+    intro:
+      "Support individuals, families and communities facing social, economic or personal challenges.",
+    overview:
+      "Social workers help people access support, navigate difficult circumstances and improve their wellbeing. Depending on their setting, they may work with children, families, older people, people with disabilities or communities facing hardship. The role can involve assessment, advocacy, referrals, case coordination and collaboration with other support services.",
+    skills: [
+      "Empathy and respectful communication",
+      "Practical problem-solving and advocacy",
+      "Assessment and accurate record-keeping",
+      "Teamwork and coordination with support services",
+      "Professional boundaries and ethical judgement",
+    ],
+    subjectsIntro:
+      "Social work may appeal to students who care about community wellbeing, enjoy solving practical problems and want to help people access resources and support.",
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Government",
+      "Biology or Economics",
+      "A relevant arts or social-science subject",
+    ],
+    education: {
+      summary:
+        "A common route is a degree in Social Work or another recognised programme that meets the requirements for the role and setting you want to enter.",
+      routes: [
+        "Learn about the different areas of social work, including family support, community development and child welfare.",
+        "Apply for an appropriate recognised degree programme.",
+        "Build practical skills through supervised fieldwork, placements or community projects.",
+        "Check any applicable registration, professional standards and employer requirements before entering a regulated or specialist role.",
+      ],
+      admissionNote:
+        "Admission requirements vary by institution. Verify the current JAMB brochure and the requirements of your chosen programme, and confirm any applicable professional requirements for the specific role you intend to pursue.",
+    },
+    opportunitiesIntro:
+      "Social workers may contribute to community support, social services and programmes that help people access essential resources.",
+    opportunities: [
+      "Community development and social-support organisations",
+      "Child, family and youth support services",
+      "NGOs and humanitarian organisations",
+      "Public-sector social welfare services",
+      "Community outreach, advocacy and support programmes",
+    ],
   },
 
   // 7. CREATIVE, DESIGN & MEDIA
@@ -556,6 +2058,49 @@ window.CAREERS = [
       PR: 4,
       BE: 3,
     },
+    image: "../assets/images/careers/graphic-designer.jpg",
+    intro:
+      "Turn ideas and messages into visual designs that help people understand, recognise and remember them.",
+    overview:
+      "Graphic designers communicate through visual elements such as typography, colour, images, layout and illustration. They create designs for brands, posters, advertisements, publications, social media and other communication materials. The work combines creativity with clear communication, attention to detail and an understanding of the audience.",
+    skills: [
+      "Visual creativity and composition",
+      "Typography, colour and layout",
+      "Image editing and design software",
+      "Understanding briefs and target audiences",
+      "Attention to detail and accepting feedback",
+    ],
+    subjectsIntro:
+      "Graphic design may suit students who enjoy drawing, visual storytelling, arranging images and text, or finding creative ways to communicate an idea.",
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Fine Art or Visual Arts, where available",
+      "A relevant creative or technical subject",
+      "Other subjects required by your chosen institution",
+    ],
+    education: {
+      summary:
+        "You can pursue graphic design through a relevant university or polytechnic programme, vocational training, or a combination of independent learning and practical portfolio development.",
+      routes: [
+        "Explore design fundamentals, including typography, layout, colour and visual communication.",
+        "Choose a relevant programme in graphic design, visual communication, fine arts or a related field if formal study fits your goals.",
+        "Practise with design tools and create projects such as posters, logos, social media graphics and brand concepts.",
+        "Build a portfolio that shows your process, design decisions and finished work.",
+        "Seek feedback, internships, freelance projects or entry-level opportunities to develop your experience.",
+      ],
+      admissionNote:
+        "Admission subjects and portfolio requirements vary by institution and programme. Check the current JAMB brochure and your chosen institution's entry requirements.",
+    },
+    opportunitiesIntro:
+      "Graphic designers work with businesses, organisations and individuals that need clear, engaging visual communication.",
+    opportunities: [
+      "Brand identity and logo design",
+      "Advertising and marketing design",
+      "Social media and digital content design",
+      "Publishing, print and packaging",
+      "Freelance design and creative agencies",
+    ],
   },
   {
     id: "ui-ux-designer",
@@ -573,6 +2118,49 @@ window.CAREERS = [
       PR: 3,
       BE: 3,
     },
+    image: "../assets/images/careers/ui-ux-designer.jpg",
+    intro:
+      "Design websites and apps that are useful, understandable and enjoyable to use.",
+    overview:
+      "UI/UX designers help shape how people interact with digital products. User experience (UX) focuses on understanding users, identifying problems and making journeys easier. User interface (UI) focuses on the screens, controls, layouts and visual details people interact with. Designers often research users, create wireframes and prototypes, test ideas and work with developers and product teams.",
+    skills: [
+      "User-centred thinking and empathy",
+      "Problem-solving and logical reasoning",
+      "Interface design and prototyping",
+      "Research, observation and usability testing",
+      "Communication and collaboration with developers",
+    ],
+    subjectsIntro:
+      "UI/UX design may suit students who enjoy technology, creativity, solving practical problems and thinking about why some apps and websites feel easier to use than others.",
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Fine Art or Visual Arts, where available",
+      "Computer Studies or Information Technology, where available",
+      "Other subjects required by your chosen institution",
+    ],
+    education: {
+      summary:
+        "There is no single compulsory degree for every UI/UX role. Relevant routes include design, computer science, human-computer interaction or practical training supported by a strong portfolio.",
+      routes: [
+        "Learn the fundamentals of visual design, accessibility and user-centred design.",
+        "Practise user research, wireframing, interface design and prototyping with suitable tools.",
+        "Build projects that demonstrate the problem, your design decisions, testing and improvements.",
+        "Learn how to collaborate with developers and understand basic web and mobile design constraints.",
+        "Apply for internships, junior roles or supervised projects while continuing to improve your portfolio.",
+      ],
+      admissionNote:
+        "If you choose a formal degree or diploma, check the current JAMB brochure and the specific institution's requirements. Portfolio expectations vary by employer and programme.",
+    },
+    opportunitiesIntro:
+      "UI/UX designers contribute to digital products across technology, finance, education, healthcare, commerce and other sectors.",
+    opportunities: [
+      "UI design for websites and mobile applications",
+      "UX research and usability testing",
+      "Product design and prototyping",
+      "Design systems and accessibility work",
+      "Digital agencies, technology companies and freelance projects",
+    ],
   },
   {
     id: "mass-communication-media-professional",
@@ -590,6 +2178,50 @@ window.CAREERS = [
       PR: 3,
       BE: 4,
     },
+    image:
+      "../assets/images/careers/mass-communication-media-professional.jpg",
+    intro:
+      "Inform, engage and influence audiences through journalism, broadcasting, public relations and digital media.",
+    overview:
+      "Media professionals research, create and distribute information for different audiences. Depending on their specialisation, they may report news, present programmes, produce interviews, manage public relations, develop media campaigns or create digital content. Responsible media work depends on accuracy, fair representation, clear communication and checking information before publishing.",
+    skills: [
+      "Writing, speaking and interviewing",
+      "Research and fact-checking",
+      "Storytelling and audience awareness",
+      "Media production and digital communication",
+      "Time management and ethical judgement",
+    ],
+    subjectsIntro:
+      "Mass communication may suit students who enjoy writing, public speaking, current affairs, storytelling, interviewing people or explaining events to an audience.",
+    subjects: [
+      "English Language",
+      "Literature in English",
+      "Government",
+      "Economics or Civic Education, where relevant",
+      "Other subjects accepted by your chosen institution",
+    ],
+    education: {
+      summary:
+        "Common routes include Mass Communication, Communication and Media Studies, Journalism, Broadcasting or Public Relations, depending on the intended career.",
+      routes: [
+        "Develop strong writing, reading, speaking and research skills.",
+        "Choose a relevant university or polytechnic programme that matches your area of interest.",
+        "Practise reporting, interviewing, audio or video production and digital publishing.",
+        "Build a portfolio of accurate, well-researched stories or media projects.",
+        "Seek internships, campus media experience or supervised placements to learn professional standards.",
+      ],
+      admissionNote:
+        "Admission requirements differ by institution and specialisation. Check the current JAMB brochure and the requirements of your chosen programme.",
+    },
+    opportunitiesIntro:
+      "Media training can lead to careers in news, broadcasting, communications, public relations and digital publishing.",
+    opportunities: [
+      "Journalism and news reporting",
+      "Radio, television and broadcasting",
+      "Public relations and corporate communications",
+      "Digital media and social media production",
+      "Media research, production and communications agencies",
+    ],
   },
   {
     id: "filmmaker-video-editor",
@@ -607,6 +2239,49 @@ window.CAREERS = [
       PR: 4,
       BE: 4,
     },
+    image: "../assets/images/careers/filmmaker-video-editor.jpg",
+    intro:
+      "Use moving images, sound and storytelling to bring ideas, events and stories to life.",
+    overview:
+      "Filmmakers develop and produce video projects, from planning and filming to editing and delivery. Video editors organise footage, shape the narrative, refine pacing and work with sound, colour and visual effects. Depending on the project, the work may involve directing, camera operation, scripting, lighting, sound recording or post-production.",
+    skills: [
+      "Visual storytelling and creative planning",
+      "Video editing and post-production",
+      "Camera, lighting and sound fundamentals",
+      "Organisation and file management",
+      "Teamwork, time management and problem-solving",
+    ],
+    subjectsIntro:
+      "Filmmaking and video editing may appeal to students who enjoy movies, storytelling, visual creativity, technology and turning raw footage into a finished piece.",
+    subjects: [
+      "English Language",
+      "Literature in English",
+      "Fine Art or Visual Arts, where available",
+      "Computer Studies or Information Technology, where available",
+      "Other subjects required by your chosen institution",
+    ],
+    education: {
+      summary:
+        "Possible routes include film production, cinematography, media studies or related formal programmes, alongside practical learning and portfolio development.",
+      routes: [
+        "Learn basic storytelling, shot composition, lighting, sound and editing.",
+        "Practise with accessible editing software and create short projects of increasing complexity.",
+        "Study film, media production or a related programme if formal training fits your goals.",
+        "Build a showreel that demonstrates your strongest work and the role you performed on each project.",
+        "Gain experience through supervised productions, internships, collaborations or freelance work.",
+      ],
+      admissionNote:
+        "Course requirements vary by institution. Check the current JAMB brochure and programme guidance. Practical portfolios and showreels may be important to employers even where they are not formal admission requirements.",
+    },
+    opportunitiesIntro:
+      "Video professionals work across entertainment, advertising, education, events and online media.",
+    opportunities: [
+      "Film and television production",
+      "Video editing and post-production",
+      "Music videos, documentaries and short films",
+      "Commercials, event coverage and branded content",
+      "Online video, educational content and freelance production",
+    ],
   },
   {
     id: "writer-content-creator",
@@ -624,5 +2299,48 @@ window.CAREERS = [
       PR: 2,
       BE: 4,
     },
+    image: "../assets/images/careers/writer-content-creator.jpg",
+    intro:
+      "Turn research, knowledge and ideas into stories and content that inform, entertain or help an audience.",
+    overview:
+      "Writers and content creators develop material for websites, blogs, social platforms, publications, businesses and other audiences. Their work may include articles, scripts, newsletters, educational content, video concepts or brand messaging. Strong creators understand their audience, research responsibly, revise their work and choose the right format for the message.",
+    skills: [
+      "Writing, editing and storytelling",
+      "Research and fact-checking",
+      "Understanding audiences and tone",
+      "Digital publishing and content tools",
+      "Creativity, consistency and meeting deadlines",
+    ],
+    subjectsIntro:
+      "This career may suit students who enjoy writing, explaining ideas, telling stories, researching topics or making digital content for other people.",
+    subjects: [
+      "English Language",
+      "Literature in English",
+      "Government or History, where available",
+      "Computer Studies or Information Technology, where available",
+      "Other subjects relevant to your chosen writing specialisation",
+    ],
+    education: {
+      summary:
+        "There is no single required degree for every writing or content-creation role. Relevant routes include English, Literature, Mass Communication, Creative Writing or a subject related to your intended niche.",
+      routes: [
+        "Build a strong foundation in reading, grammar, research and written communication.",
+        "Choose a relevant course or develop your skills through structured independent learning.",
+        "Practise different formats, such as articles, scripts, newsletters, educational posts or brand content.",
+        "Build a portfolio of original work and learn to revise it using feedback and evidence.",
+        "Gain experience through student publications, internships, personal projects or freelance assignments.",
+      ],
+      admissionNote:
+        "Formal programme requirements vary by institution. Check the current JAMB brochure and the requirements for your chosen course. Employers and clients may place more emphasis on writing samples, subject knowledge and reliability.",
+    },
+    opportunitiesIntro:
+      "Writers and content creators can work independently or contribute to organisations that need clear, engaging communication.",
+    opportunities: [
+      "Blogging, articles and online publications",
+      "Copywriting and brand content",
+      "Scriptwriting and storytelling",
+      "Educational content and technical writing, with suitable subject knowledge",
+      "Social media content, newsletters and freelance writing",
+    ],
   },
 ];

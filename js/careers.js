@@ -4,31 +4,32 @@ const careersList = document.getElementById("careers-list");
 const careersCount = document.getElementById("careers-count");
 
 if (careersCount) {
-    careersCount.textContent = careers.length;
+  careersCount.textContent = careers.length;
 }
 
 if (!careers.length) {
-    careersList.innerHTML = `
+  careersList.innerHTML = `
         <p class="careers-empty">
             Career information is not available right now.
             Please try again later.
         </p>
     `;
 } else {
-    const careerFamilies = {};
+  const careerFamilies = {};
 
-    careers.forEach((career) => {
-        if (!careerFamilies[career.family]) {
-            careerFamilies[career.family] = [];
-        }
+  careers.forEach((career) => {
+    if (!careerFamilies[career.family]) {
+      careerFamilies[career.family] = [];
+    }
 
-        careerFamilies[career.family].push(career);
-    });
+    careerFamilies[career.family].push(career);
+  });
 
-    careersList.innerHTML = Object.entries(careerFamilies)
-        .map(([family, familyCareers]) => {
-            const careerCards = familyCareers
-                .map((career) => `
+  careersList.innerHTML = Object.entries(careerFamilies)
+    .map(([family, familyCareers]) => {
+      const careerCards = familyCareers
+        .map(
+          (career) => `
                     <a
                         href="career.html?id=${encodeURIComponent(career.id)}"
                         class="career-directory-card"
@@ -42,10 +43,11 @@ if (!careers.length) {
                             <span>Explore career →</span>
                         </div>
                     </a>
-                `)
-                .join("");
+                `,
+        )
+        .join("");
 
-            return `
+      return `
                 <section class="career-family-section">
                     <div class="career-family-heading">
                         <h2>${family}</h2>
@@ -57,6 +59,6 @@ if (!careers.length) {
                     </div>
                 </section>
             `;
-        })
-        .join("");
+    })
+    .join("");
 }
