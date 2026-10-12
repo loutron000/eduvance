@@ -17,6 +17,71 @@ window.CAREERS = [
       PR: 3,
       BE: 3,
     },
+
+    image: "../assets/images/careers/software-developer.jpeg",
+    intro:
+      "Software developers design, build, test, and maintain software that helps people and organisations solve problems.",
+
+    overview:
+      "Software developers turn ideas and requirements into applications, " +
+      "websites, and other computer programs. They plan how software should " +
+      "work, write and review code, test for errors, fix problems, and " +
+      "improve existing products. Depending on their role, they may work " +
+      "independently or collaborate with designers, testers, and other developers.",
+
+    skills: [
+      "Problem-solving — breaking challenges into smaller, manageable steps.",
+      "Programming — learning languages and tools used to build software.",
+      "Logical thinking — understanding how instructions and systems fit together.",
+      "Debugging — finding and fixing errors in code.",
+      "Communication — explaining ideas and working with other people.",
+      "Continuous learning — adapting as tools and technologies change.",
+    ],
+
+    subjectsIntro:
+      "These subjects can provide a useful foundation. Specific requirements " +
+      "depend on the course and institution you choose.",
+
+    subjects: [
+      "Mathematics",
+      "English Language",
+      "Physics",
+      "Further Mathematics or Computer Studies, where offered",
+    ],
+
+    education: {
+      summary:
+        "A common route is to study Computer Science, Software Engineering, " +
+        "Computer Engineering, or a related computing course at a recognised " +
+        "institution. Other routes include relevant diplomas, structured " +
+        "technical training, and independent learning supported by practical projects.",
+
+      routes: [
+        "University degree in a relevant computing field.",
+        "Relevant diploma or other recognised technical training.",
+        "Self-directed learning, coding practice, and a portfolio of projects.",
+      ],
+
+      admissionNote:
+        "For university admission in Nigeria, check the current JAMB and " +
+        "institution-specific requirements for your chosen course, including " +
+        "O'level credits and UTME subject combinations. Requirements can differ. " +
+        "Alternative learning routes can build practical skills, but they do " +
+        "not automatically replace formal qualifications where an employer requires them.",
+    },
+
+    opportunitiesIntro:
+      "Software development skills can lead to different roles, depending on " +
+      "your interests, experience, and additional training.",
+
+    opportunities: [
+      "Frontend developer — building the parts of websites and apps people use.",
+      "Backend developer — building server-side systems and application logic.",
+      "Full-stack developer — working across frontend and backend systems.",
+      "Mobile app developer — creating applications for mobile devices.",
+      "Software tester or QA engineer — checking software for problems and defects.",
+      "Freelance developer or software entrepreneur — building solutions for clients or users.",
+    ],
   },
   {
     id: "cybersecurity-analyst",
