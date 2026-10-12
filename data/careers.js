@@ -596,58 +596,58 @@ window.CAREERS = [
     },
     image: "../assets/images/careers/computer-engineer.jpg",
 
-  intro:
-    "Computer engineers design and work with the hardware and low-level software that enable computers and digital devices to function.",
+    intro:
+      "Computer engineers design and work with the hardware and low-level software that enable computers and digital devices to function.",
 
-  overview:
-    "Computer engineers combine electrical engineering and computing concepts to develop and maintain computer-based systems. Their work can involve processors, circuit boards, embedded systems, digital logic, device interfaces, and the software that interacts closely with hardware. They may help develop smart devices, industrial controllers, computing equipment, or specialised systems. Unlike a software developer who may focus mainly on applications, a computer engineer often works closer to the physical hardware and how it operates.",
+    overview:
+      "Computer engineers combine electrical engineering and computing concepts to develop and maintain computer-based systems. Their work can involve processors, circuit boards, embedded systems, digital logic, device interfaces, and the software that interacts closely with hardware. They may help develop smart devices, industrial controllers, computing equipment, or specialised systems. Unlike a software developer who may focus mainly on applications, a computer engineer often works closer to the physical hardware and how it operates.",
 
-  skills: [
-    "Mathematics and logic — understanding digital systems and engineering problems.",
-    "Programming — writing software that interacts with hardware or embedded devices.",
-    "Computer architecture — learning how processors, memory, and other components work together.",
-    "Electronics fundamentals — understanding circuits and digital hardware.",
-    "Debugging — investigating faults across hardware and software.",
-    "Technical design — interpreting circuit diagrams, system designs, and technical specifications.",
-    "Practical experimentation — testing components and systems methodically and safely.",
-  ],
-
-  subjectsIntro:
-    "Computer engineering combines computing with engineering science, so mathematics and the physical sciences are important foundations.",
-
-  subjects: [
-    "Mathematics",
-    "English Language",
-    "Physics",
-    "Chemistry",
-    "Further Mathematics, where offered",
-  ],
-
-  education: {
-    summary:
-      "A common route is to study Computer Engineering, Computer Systems Engineering, or an appropriately related engineering discipline. Laboratory projects involving electronics, programming, digital logic, and embedded systems can help students develop practical experience.",
-
-    routes: [
-      "University degree in Computer Engineering or a closely related engineering discipline.",
-      "Relevant recognised technical training in electronics, computer hardware, or embedded systems for applicable technical roles.",
-      "Independent projects involving microcontrollers, digital electronics, computer architecture, and embedded programming.",
+    skills: [
+      "Mathematics and logic — understanding digital systems and engineering problems.",
+      "Programming — writing software that interacts with hardware or embedded devices.",
+      "Computer architecture — learning how processors, memory, and other components work together.",
+      "Electronics fundamentals — understanding circuits and digital hardware.",
+      "Debugging — investigating faults across hardware and software.",
+      "Technical design — interpreting circuit diagrams, system designs, and technical specifications.",
+      "Practical experimentation — testing components and systems methodically and safely.",
     ],
 
-    admissionNote:
-      "Check the current JAMB brochure and the admission requirements published by your chosen Nigerian institution. Mathematics, English Language, Physics, and Chemistry are commonly important for engineering programmes, but exact O'level credits and UTME subject combinations depend on the course and institution. Confirm whether the programme is classified as engineering or computing, because their admission requirements may differ.",
-  },
+    subjectsIntro:
+      "Computer engineering combines computing with engineering science, so mathematics and the physical sciences are important foundations.",
 
-  opportunitiesIntro:
-    "Computer engineering skills are useful in hardware development, embedded systems, electronics, computing infrastructure, and connected devices.",
+    subjects: [
+      "Mathematics",
+      "English Language",
+      "Physics",
+      "Chemistry",
+      "Further Mathematics, where offered",
+    ],
 
-  opportunities: [
-    "Embedded systems engineer — developing software and hardware for specialised devices.",
-    "Hardware design engineer — designing and testing computer hardware components.",
-    "Firmware engineer — writing low-level software that controls electronic devices.",
-    "Computer systems engineer — integrating and troubleshooting hardware and software systems.",
-    "Robotics engineer — contributing to computer-controlled machines and robotic systems.",
-    "IoT engineer — developing connected devices that collect data and communicate over networks.",
-  ],
+    education: {
+      summary:
+        "A common route is to study Computer Engineering, Computer Systems Engineering, or an appropriately related engineering discipline. Laboratory projects involving electronics, programming, digital logic, and embedded systems can help students develop practical experience.",
+
+      routes: [
+        "University degree in Computer Engineering or a closely related engineering discipline.",
+        "Relevant recognised technical training in electronics, computer hardware, or embedded systems for applicable technical roles.",
+        "Independent projects involving microcontrollers, digital electronics, computer architecture, and embedded programming.",
+      ],
+
+      admissionNote:
+        "Check the current JAMB brochure and the admission requirements published by your chosen Nigerian institution. Mathematics, English Language, Physics, and Chemistry are commonly important for engineering programmes, but exact O'level credits and UTME subject combinations depend on the course and institution. Confirm whether the programme is classified as engineering or computing, because their admission requirements may differ.",
+    },
+
+    opportunitiesIntro:
+      "Computer engineering skills are useful in hardware development, embedded systems, electronics, computing infrastructure, and connected devices.",
+
+    opportunities: [
+      "Embedded systems engineer — developing software and hardware for specialised devices.",
+      "Hardware design engineer — designing and testing computer hardware components.",
+      "Firmware engineer — writing low-level software that controls electronic devices.",
+      "Computer systems engineer — integrating and troubleshooting hardware and software systems.",
+      "Robotics engineer — contributing to computer-controlled machines and robotic systems.",
+      "IoT engineer — developing connected devices that collect data and communicate over networks.",
+    ],
   },
   {
     id: "architect",
@@ -667,58 +667,58 @@ window.CAREERS = [
     },
     image: "../assets/images/careers/architect.jpg",
 
-  intro:
-    "Architects plan and design buildings and spaces that balance function, safety, appearance, and the needs of the people who use them.",
+    intro:
+      "Architects plan and design buildings and spaces that balance function, safety, appearance, and the needs of the people who use them.",
 
-  overview:
-    "Architects develop design concepts, prepare drawings and models, study site conditions, and coordinate building requirements with clients and other construction professionals. They consider how spaces will be used, how people will move through them, and how a design responds to its environment, budget, and relevant regulations. Their work blends creativity with technical knowledge, communication, and project coordination. They may use digital design tools to produce drawings, visualisations, and building models.",
+    overview:
+      "Architects develop design concepts, prepare drawings and models, study site conditions, and coordinate building requirements with clients and other construction professionals. They consider how spaces will be used, how people will move through them, and how a design responds to its environment, budget, and relevant regulations. Their work blends creativity with technical knowledge, communication, and project coordination. They may use digital design tools to produce drawings, visualisations, and building models.",
 
-  skills: [
-    "Creativity — developing useful and visually thoughtful design ideas.",
-    "Spatial reasoning — understanding dimensions, layouts, scale, and three-dimensional spaces.",
-    "Technical drawing — communicating designs through accurate plans and details.",
-    "Digital design — learning computer-aided design and building modelling tools.",
-    "Problem-solving — balancing a client's needs with practical constraints.",
-    "Communication — presenting concepts and collaborating with clients and professionals.",
-    "Project coordination — managing design revisions, requirements, and deadlines.",
-  ],
-
-  subjectsIntro:
-    "Architecture combines creative design with technical and spatial reasoning. Confirm the subject requirements of your chosen Nigerian institution.",
-
-  subjects: [
-    "Mathematics",
-    "English Language",
-    "Physics",
-    "Chemistry or another accepted science subject, as specified by the institution",
-    "Fine Arts or Technical Drawing, where offered and relevant to the programme",
-  ],
-
-  education: {
-    summary:
-      "A common route is to study Architecture through a recognised and appropriately accredited programme. Architectural education includes design studios, drawing, building technology, environmental considerations, and supervised practical experience. Professional practice may require additional training, examinations, and registration.",
-
-    routes: [
-      "Recognised university degree in Architecture, followed by any further training and registration required for professional practice.",
-      "Relevant recognised architectural technology or building design qualification for applicable technical roles.",
-      "Development of drawing, digital modelling, design presentation, and portfolio skills alongside formal study.",
+    skills: [
+      "Creativity — developing useful and visually thoughtful design ideas.",
+      "Spatial reasoning — understanding dimensions, layouts, scale, and three-dimensional spaces.",
+      "Technical drawing — communicating designs through accurate plans and details.",
+      "Digital design — learning computer-aided design and building modelling tools.",
+      "Problem-solving — balancing a client's needs with practical constraints.",
+      "Communication — presenting concepts and collaborating with clients and professionals.",
+      "Project coordination — managing design revisions, requirements, and deadlines.",
     ],
 
-    admissionNote:
-      "In Nigeria, check the current JAMB brochure, your institution's subject requirements, and the applicable professional accreditation and registration guidance. Required O'level credits and UTME combinations may differ between institutions. Fine Arts or Technical Drawing may be useful but should not be assumed compulsory or accepted everywhere. Confirm the current route to professional registration with the Architects Registration Council of Nigeria (ARCON) and relevant accredited institutions.",
-  },
+    subjectsIntro:
+      "Architecture combines creative design with technical and spatial reasoning. Confirm the subject requirements of your chosen Nigerian institution.",
 
-  opportunitiesIntro:
-    "Architecture can lead to building design, digital modelling, construction coordination, and other roles involving the built environment.",
+    subjects: [
+      "Mathematics",
+      "English Language",
+      "Physics",
+      "Chemistry or another accepted science subject, as specified by the institution",
+      "Fine Arts or Technical Drawing, where offered and relevant to the programme",
+    ],
 
-  opportunities: [
-    "Architectural designer — developing layouts, concepts, and building design proposals.",
-    "Architectural technologist — helping develop technical building information and construction details.",
-    "BIM modeller — creating digital building models and coordinated design information.",
-    "Interior design specialist — planning functional and visually coherent interior spaces.",
-    "Urban design assistant — contributing to the planning and design of public spaces and neighbourhoods.",
-    "Architectural visualisation artist — producing digital images and models to communicate design ideas.",
-  ],
+    education: {
+      summary:
+        "A common route is to study Architecture through a recognised and appropriately accredited programme. Architectural education includes design studios, drawing, building technology, environmental considerations, and supervised practical experience. Professional practice may require additional training, examinations, and registration.",
+
+      routes: [
+        "Recognised university degree in Architecture, followed by any further training and registration required for professional practice.",
+        "Relevant recognised architectural technology or building design qualification for applicable technical roles.",
+        "Development of drawing, digital modelling, design presentation, and portfolio skills alongside formal study.",
+      ],
+
+      admissionNote:
+        "In Nigeria, check the current JAMB brochure, your institution's subject requirements, and the applicable professional accreditation and registration guidance. Required O'level credits and UTME combinations may differ between institutions. Fine Arts or Technical Drawing may be useful but should not be assumed compulsory or accepted everywhere. Confirm the current route to professional registration with the Architects Registration Council of Nigeria (ARCON) and relevant accredited institutions.",
+    },
+
+    opportunitiesIntro:
+      "Architecture can lead to building design, digital modelling, construction coordination, and other roles involving the built environment.",
+
+    opportunities: [
+      "Architectural designer — developing layouts, concepts, and building design proposals.",
+      "Architectural technologist — helping develop technical building information and construction details.",
+      "BIM modeller — creating digital building models and coordinated design information.",
+      "Interior design specialist — planning functional and visually coherent interior spaces.",
+      "Urban design assistant — contributing to the planning and design of public spaces and neighbourhoods.",
+      "Architectural visualisation artist — producing digital images and models to communicate design ideas.",
+    ],
   },
 
   // 3. HEALTH & HEALTHCARE
@@ -738,6 +738,60 @@ window.CAREERS = [
       PR: 4,
       BE: 2,
     },
+    image: "../assets/images/careers/medical-doctor.jpg",
+
+    intro:
+      "Medical doctors assess patients, diagnose illnesses, recommend treatments, and help people maintain or regain their health.",
+
+    overview:
+      "Medical doctors use scientific knowledge, clinical examinations, medical tests, and patient histories to understand health problems and make treatment decisions. Depending on their training and specialisation, they may work in hospitals, clinics, community health services, research, or public health. The profession requires careful judgement, empathy, ethical responsibility, and the ability to communicate clearly with patients and other healthcare professionals.",
+
+    skills: [
+      "Scientific reasoning — understanding human biology, disease, and medical evidence.",
+      "Analytical thinking — interpreting symptoms, patient histories, and investigation results.",
+      "Problem-solving — considering possible diagnoses and appropriate treatment options.",
+      "Communication — explaining health conditions and treatment plans clearly.",
+      "Empathy — treating patients with dignity, patience, and respect.",
+      "Decision-making — weighing evidence, risks, and patient needs responsibly.",
+      "Continuous learning — keeping medical knowledge and clinical skills up to date.",
+    ],
+
+    subjectsIntro:
+      "Medicine requires a strong foundation in science. Admission requirements are competitive and must be checked for the specific institution and admission year.",
+
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Biology",
+      "Chemistry",
+      "Physics",
+    ],
+
+    education: {
+      summary:
+        "The usual Nigerian route involves gaining admission to a recognised medical programme, completing the required medical education and clinical training, and meeting the applicable supervised practice and registration requirements. The pathway is lengthy and demanding, so students should understand the commitment before choosing it.",
+
+      routes: [
+        "Recognised medical degree programme, followed by the required internship and applicable registration procedures.",
+        "Approved postgraduate medical training for doctors who later pursue a specialist career.",
+        "Research, public health, and other related pathways available after obtaining the qualifications required for the specific role.",
+      ],
+
+      admissionNote:
+        "For admission in Nigeria, check the current JAMB brochure, the institution's requirements, and relevant Medical and Dental Council of Nigeria (MDCN) guidance. Medicine commonly requires O'level credits in English Language, Mathematics, Biology, Chemistry, and Physics, with specified UTME subjects. Confirm the exact requirements, admission process, and current rules for medical training, internship, and registration. Studying a related science degree does not automatically qualify someone as a medical doctor.",
+    },
+
+    opportunitiesIntro:
+      "After the required training and registration, doctors can work in clinical care, research, public health, and other areas of medicine.",
+
+    opportunities: [
+      "General medical practitioner — assessing and treating a wide range of health conditions within their competence.",
+      "Surgeon — training to perform surgical procedures within a chosen speciality.",
+      "Paediatrician — specialising in the healthcare of infants, children, and adolescents.",
+      "Obstetrician and gynaecologist — specialising in reproductive health, pregnancy, and childbirth.",
+      "Medical researcher — investigating diseases, treatments, and healthcare questions.",
+      "Public health physician — contributing to disease prevention and population health.",
+    ],
   },
   {
     id: "nurse",
@@ -755,6 +809,60 @@ window.CAREERS = [
       PR: 5,
       BE: 2,
     },
+    image: "../assets/images/careers/nurse.jpg",
+
+    intro:
+      "Nurses provide essential patient care, monitor health conditions, support recovery, and educate people about staying healthy.",
+
+    overview:
+      "Nurses work with patients, families, doctors, and other healthcare professionals to deliver safe and compassionate care. Their responsibilities may include monitoring vital signs, administering prescribed treatments, assisting with procedures, maintaining patient records, and explaining care instructions. Depending on their qualifications and area of practice, nurses may work in hospitals, clinics, schools, communities, or specialist healthcare services.",
+
+    skills: [
+      "Patient care — supporting patients' comfort, safety, and recovery.",
+      "Observation — noticing changes in symptoms and reporting concerns promptly.",
+      "Communication — explaining care instructions and listening to patients.",
+      "Practical competence — carrying out clinical procedures within one's training and authorisation.",
+      "Empathy — respecting patients' dignity, privacy, and individual needs.",
+      "Teamwork — coordinating care with other healthcare professionals.",
+      "Organisation — recording information accurately and managing competing care priorities.",
+    ],
+
+    subjectsIntro:
+      "Nursing education requires a foundation in science, communication, and patient care. Exact admission requirements depend on the approved programme.",
+
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Biology",
+      "Chemistry",
+      "Physics",
+    ],
+
+    education: {
+      summary:
+        "In Nigeria, aspiring nurses should pursue a nursing programme approved by the relevant authorities. The available route depends on the institution and programme, and graduates must satisfy the applicable professional examination, registration, and licensing requirements before practising as registered nurses.",
+
+      routes: [
+        "Approved university nursing degree programme, followed by the applicable professional registration requirements.",
+        "Other approved nursing education programmes where currently available and recognised by the Nursing and Midwifery Council of Nigeria.",
+        "Further approved training for nurses who later specialise in areas such as critical care, paediatrics, community health, or midwifery.",
+      ],
+
+      admissionNote:
+        "Check the current JAMB brochure, the institution's admission requirements, and the Nursing and Midwifery Council of Nigeria (NMCN) guidance. Nursing programmes commonly require O'level credits in English Language, Mathematics, Biology, Chemistry, and Physics, but the exact requirements and admission routes must be confirmed for the specific programme. Do not assume that an unapproved course qualifies you for professional registration.",
+    },
+
+    opportunitiesIntro:
+      "Nursing can lead to patient-care roles across hospitals, community services, specialist units, and healthcare education.",
+
+    opportunities: [
+      "Hospital nurse — providing care and monitoring patients during treatment and recovery.",
+      "Paediatric nurse — caring for infants, children, and adolescents within the relevant scope of practice.",
+      "Critical care nurse — supporting patients who need intensive monitoring and specialised care.",
+      "Community health nurse — contributing to preventive care and health education in communities.",
+      "Occupational health nurse — supporting workplace health and employee wellbeing.",
+      "Nurse educator — helping train nursing students after obtaining the necessary qualifications and experience.",
+    ],
   },
   {
     id: "pharmacist",
@@ -772,6 +880,60 @@ window.CAREERS = [
       PR: 3,
       BE: 3,
     },
+    image: "../assets/images/careers/pharmacist.jpg",
+
+    intro:
+      "Pharmacists are medicine experts who help ensure that medicines are selected, prepared, supplied, and used safely and effectively.",
+
+    overview:
+      "Pharmacists apply knowledge of medicines, chemistry, biology, and human health to support safe treatment. They may review prescriptions, explain how medicines should be used, identify potential medicine-related problems, monitor safety, or contribute to medicine production and quality assurance. Depending on their role, they can work in community pharmacies, hospitals, pharmaceutical manufacturing, research, regulatory services, or public health.",
+
+    skills: [
+      "Scientific knowledge — understanding medicines, their effects, and how they work.",
+      "Accuracy — checking prescriptions, doses, labels, and medicine records carefully.",
+      "Analytical thinking — identifying possible interactions, risks, and medicine-related problems.",
+      "Communication — explaining medicine use and precautions in understandable language.",
+      "Ethical judgement — handling medicines and patient information responsibly.",
+      "Attention to detail — following procedures and maintaining accurate documentation.",
+      "Continuous learning — keeping up with medicines, evidence, and relevant regulations.",
+    ],
+
+    subjectsIntro:
+      "Pharmacy requires a strong science background. Confirm the current requirements of the particular university and approved pharmacy programme.",
+
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Biology",
+      "Chemistry",
+      "Physics",
+    ],
+
+    education: {
+      summary:
+        "A common route is to complete an approved pharmacy degree programme and satisfy the applicable professional training, examination, and registration requirements. The exact route and requirements should be confirmed with the university and the Pharmacy Council of Nigeria.",
+
+      routes: [
+        "Approved university pharmacy degree programme, followed by the applicable professional registration process.",
+        "Further recognised training in areas such as clinical pharmacy, pharmaceutical manufacturing, regulatory affairs, or medicine safety.",
+        "Additional study and research for those interested in pharmaceutical sciences, drug development, or academic careers.",
+      ],
+
+      admissionNote:
+        "Check the current JAMB brochure, your chosen institution's admission requirements, and Pharmacy Council of Nigeria guidance. Pharmacy commonly requires O'level credits in English Language, Mathematics, Biology, Chemistry, and Physics, with specified UTME subjects. Confirm the exact requirements and current rules for professional training and registration. A related science degree does not automatically qualify someone to practise as a pharmacist.",
+    },
+
+    opportunitiesIntro:
+      "Pharmacists can work in medicine supply, clinical care, manufacturing, research, regulation, and other parts of the pharmaceutical sector.",
+
+    opportunities: [
+      "Community pharmacist — supporting patients with the safe use of medicines.",
+      "Hospital pharmacist — helping healthcare teams manage medication treatment.",
+      "Clinical pharmacist — applying specialised medication knowledge to patient care.",
+      "Industrial pharmacist — contributing to medicine production and quality processes.",
+      "Regulatory affairs specialist — helping ensure that pharmaceutical products meet applicable requirements.",
+      "Pharmaceutical researcher — contributing to research into medicines and related products.",
+    ],
   },
   {
     id: "medical-laboratory-scientist",
@@ -789,6 +951,60 @@ window.CAREERS = [
       PR: 5,
       BE: 2,
     },
+    image: "../assets/images/careers/medical-laboratory-scientist.jpg",
+
+    intro:
+      "Medical laboratory scientists analyse patient specimens to help healthcare professionals detect diseases, assess health conditions, and monitor treatment.",
+
+    overview:
+      "Medical laboratory scientists perform and interpret laboratory investigations using samples such as blood, urine, and other clinical materials. Their work may involve clinical chemistry, haematology, microbiology, immunology, or other laboratory disciplines. They follow validated procedures, operate specialised equipment, maintain quality standards, and report reliable findings that contribute to patient diagnosis and care. Accuracy and safe specimen handling are central to the profession.",
+
+    skills: [
+      "Scientific reasoning — understanding biological processes and laboratory findings.",
+      "Laboratory technique — handling specimens and carrying out tests correctly.",
+      "Accuracy — following procedures and recording results carefully.",
+      "Analytical thinking — recognising unusual findings and investigating possible errors.",
+      "Equipment handling — operating and maintaining laboratory instruments appropriately.",
+      "Quality assurance — checking that methods and results meet established standards.",
+      "Biosafety — following infection prevention and specimen-handling procedures.",
+    ],
+
+    subjectsIntro:
+      "This career requires a solid foundation in biology, chemistry, and other sciences relevant to laboratory medicine.",
+
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Biology",
+      "Chemistry",
+      "Physics",
+    ],
+
+    education: {
+      summary:
+        "A common route is to complete an approved Medical Laboratory Science programme and satisfy the applicable clinical training, professional examination, and registration requirements. The specific programme and pathway should be verified with the institution and the Medical Laboratory Science Council of Nigeria.",
+
+      routes: [
+        "Approved university programme in Medical Laboratory Science, followed by the applicable professional registration process.",
+        "Further recognised training in areas such as haematology, medical microbiology, clinical chemistry, or laboratory quality management.",
+        "Research or postgraduate study in biomedical laboratory sciences and related disciplines.",
+      ],
+
+      admissionNote:
+        "Check the current JAMB brochure, the chosen institution's requirements, and Medical Laboratory Science Council of Nigeria (MLSCN) guidance. Programmes commonly require O'level credits in English Language, Mathematics, Biology, Chemistry, and Physics, with specified UTME subjects. Confirm the exact entry requirements, approved programme status, clinical training, and registration rules. Other laboratory science degrees do not automatically qualify a graduate to practise as a medical laboratory scientist.",
+    },
+
+    opportunitiesIntro:
+      "Qualified medical laboratory scientists can work in diagnostic laboratories, hospitals, research institutions, public health, and laboratory quality services.",
+
+    opportunities: [
+      "Clinical chemistry scientist — analysing substances in patient specimens.",
+      "Medical microbiology scientist — investigating microorganisms associated with disease.",
+      "Haematology scientist — analysing blood and related disorders.",
+      "Blood transfusion laboratory scientist — supporting laboratory testing for safe transfusion.",
+      "Public health laboratory scientist — contributing to disease surveillance and laboratory investigations.",
+      "Laboratory quality officer — supporting quality assurance, documentation, and reliable testing procedures.",
+    ],
   },
   {
     id: "physiotherapist",
@@ -806,6 +1022,60 @@ window.CAREERS = [
       PR: 5,
       BE: 2,
     },
+    image: "../assets/images/careers/physiotherapist.jpg",
+
+    intro:
+      "Physiotherapists help people improve movement, manage physical limitations, recover function, and participate more fully in daily life.",
+
+    overview:
+      "Physiotherapists assess movement, strength, balance, pain, and physical function to develop suitable rehabilitation plans. They may guide patients through therapeutic exercises, movement training, and other evidence-based interventions following injury, illness, surgery, or disability. They also help people understand their conditions and work towards realistic functional goals. The profession combines scientific knowledge, hands-on assessment, communication, and encouragement throughout recovery.",
+
+    skills: [
+      "Human biology — understanding muscles, bones, joints, and movement.",
+      "Assessment — observing movement and identifying functional limitations.",
+      "Problem-solving — adapting rehabilitation plans to individual needs.",
+      "Communication — explaining exercises and helping patients understand their progress.",
+      "Empathy — supporting people who may experience pain, frustration, or limited mobility.",
+      "Practical competence — applying appropriate therapeutic techniques within professional training.",
+      "Motivation and patience — helping patients work consistently towards recovery goals.",
+    ],
+
+    subjectsIntro:
+      "Biology, Physics, and other sciences provide useful foundations for understanding the human body and movement.",
+
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Biology",
+      "Chemistry",
+      "Physics",
+    ],
+
+    education: {
+      summary:
+        "A common route is to complete a recognised Physiotherapy programme with the required clinical placements and practical training. Graduates must meet the applicable professional registration requirements before practising independently within the profession.",
+
+      routes: [
+        "Recognised university degree in Physiotherapy, followed by the applicable professional registration requirements.",
+        "Further recognised clinical training in areas such as neurological, musculoskeletal, paediatric, or sports rehabilitation.",
+        "Postgraduate study or research in rehabilitation science, human movement, or related areas.",
+      ],
+
+      admissionNote:
+        "Consult the current JAMB brochure, your institution's admission requirements, and the Medical Rehabilitation Therapists (Registration) Board of Nigeria (MRTB) guidance. Physiotherapy programmes commonly require relevant O'level science credits, including English Language, Mathematics, Biology, Chemistry, and Physics, with specified UTME subjects. Confirm the precise requirements, approved programme status, clinical training, and professional registration rules.",
+    },
+
+    opportunitiesIntro:
+      "Physiotherapists can work in hospitals, rehabilitation centres, sports settings, community services, and other environments where movement and physical function matter.",
+
+    opportunities: [
+      "Musculoskeletal physiotherapist — helping people manage joint, muscle, and movement problems.",
+      "Neurological physiotherapist — supporting rehabilitation for people with neurological conditions.",
+      "Sports physiotherapist — helping athletes recover from injuries and improve physical function.",
+      "Paediatric physiotherapist — supporting movement and development in children.",
+      "Rehabilitation physiotherapist — helping patients rebuild function after injury, illness, or surgery.",
+      "Community physiotherapist — supporting mobility and rehabilitation in community settings.",
+    ],
   },
   {
     id: "radiographer",
@@ -823,6 +1093,60 @@ window.CAREERS = [
       PR: 5,
       BE: 2,
     },
+    image: "../assets/images/careers/radiographer.jpg",
+
+    intro:
+      "Radiographers use medical imaging equipment to produce images that help healthcare teams investigate injuries and diseases.",
+
+    overview:
+      "Radiographers work with imaging technologies and patients to produce diagnostic images safely and accurately. Depending on their training and specialisation, they may work with X-rays, computed tomography (CT), magnetic resonance imaging (MRI), or other imaging methods. Their responsibilities include preparing patients, positioning them appropriately, operating equipment, following radiation safety procedures where applicable, and ensuring image quality. Radiographers are distinct from radiologists, who are medical doctors specialising in interpreting medical images and related clinical work.",
+
+    skills: [
+      "Scientific knowledge — understanding anatomy, physiology, and imaging principles.",
+      "Technical competence — operating imaging equipment according to training and procedures.",
+      "Attention to detail — positioning patients and checking image quality carefully.",
+      "Patient communication — explaining procedures and helping patients feel informed.",
+      "Safety awareness — following radiation protection and other applicable safety measures.",
+      "Problem-solving — adjusting imaging approaches appropriately when difficulties arise.",
+      "Teamwork — coordinating with patients and other healthcare professionals.",
+    ],
+
+    subjectsIntro:
+      "Radiography combines scientific knowledge with practical medical technology, so a strong science background is useful.",
+
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Biology",
+      "Chemistry",
+      "Physics",
+    ],
+
+    education: {
+      summary:
+        "A common route is to complete a recognised Radiography programme with appropriate clinical training. Graduates must satisfy the relevant professional registration and practice requirements. Further education may lead to specialised imaging roles.",
+
+      routes: [
+        "Recognised university degree in Radiography, followed by the applicable professional registration process.",
+        "Further recognised training in areas such as CT, MRI, mammography, or other imaging specialisations.",
+        "Postgraduate study, research, or academic work in medical imaging and related fields.",
+      ],
+
+      admissionNote:
+        "Check the current JAMB brochure, your chosen institution's requirements, and Radiographers Registration Board of Nigeria (RRBN) guidance. Radiography programmes commonly require O'level credits in English Language, Mathematics, Biology, Chemistry, and Physics, alongside specified UTME subjects. Verify the precise requirements, approved programme status, clinical training, and professional registration rules. Radiography and radiology are related but distinct career paths.",
+    },
+
+    opportunitiesIntro:
+      "Radiographers can work in hospitals, diagnostic imaging centres, specialist clinics, and other settings that provide medical imaging services.",
+
+    opportunities: [
+      "Diagnostic radiographer — producing medical images for clinical investigations.",
+      "CT radiographer — working with computed tomography imaging systems.",
+      "MRI radiographer — performing magnetic resonance imaging examinations.",
+      "Mammography specialist — undertaking specialised breast imaging after the required training.",
+      "Medical imaging applications specialist — supporting the use of imaging equipment and related technology.",
+      "Radiography educator or researcher — contributing to professional education or imaging research with appropriate further qualifications.",
+    ],
   },
 
   // 4. SCIENCE, AGRICULTURE & ENVIRONMENT
