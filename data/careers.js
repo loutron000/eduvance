@@ -1463,6 +1463,48 @@ window.CAREERS = [
       PR: 2,
       BE: 4,
     },
+    image: "../assets/images/careers/accountant.jpg",
+    intro:
+      "Help individuals and organisations understand their money, track performance and make informed financial decisions.",
+    overview:
+      "Accountants record, organise and interpret financial information. They help businesses understand income, expenses, assets and liabilities, prepare financial reports, manage budgets and meet relevant reporting requirements. Depending on their role, accountants may focus on auditing, taxation, management accounting or financial reporting.",
+    skills: [
+      "Numerical accuracy and attention to detail",
+      "Analytical thinking and problem-solving",
+      "Organisation and record-keeping",
+      "Ethical judgement and confidentiality",
+      "Communication and spreadsheet skills",
+    ],
+    subjectsIntro:
+      "Accounting can suit students who enjoy working with numbers, organising information, understanding businesses and checking details carefully.",
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Economics",
+      "Financial Accounting",
+      "Commerce or a relevant business subject",
+    ],
+    education: {
+      summary:
+        "A common route is a degree in Accounting or a related programme, followed where appropriate by professional accounting qualifications.",
+      routes: [
+        "Build a foundation in mathematics, financial accounting and business subjects at secondary-school level.",
+        "Apply for an Accounting degree or another recognised route that meets your goals and entry requirements.",
+        "Practise using spreadsheets, bookkeeping tools and financial reporting methods.",
+        "Explore professional qualifications and supervised experience through recognised accounting bodies.",
+      ],
+      admissionNote:
+        "O'Level and UTME subject requirements vary by institution. Professional qualification and membership requirements also differ, so verify the current JAMB brochure, your institution's rules and the relevant professional body's guidance.",
+    },
+    opportunitiesIntro:
+      "Accountants work across many sectors because organisations need reliable financial records and reporting.",
+    opportunities: [
+      "Accounting and audit firms",
+      "Banks, insurance companies and other financial institutions",
+      "Private companies and public-sector organisations",
+      "Tax, budgeting and financial reporting roles",
+      "Self-employment and accounting services, subject to applicable requirements",
+    ],
   },
   {
     id: "economist",
@@ -1480,6 +1522,48 @@ window.CAREERS = [
       PR: 1,
       BE: 4,
     },
+    image: "../assets/images/careers/economist.jpg",
+    intro:
+      "Study how people, businesses and governments make choices when resources are limited.",
+    overview:
+      "Economists examine how markets work, why prices change, how people respond to incentives and how public policies affect society. They use economic theories, statistics and data to understand issues such as inflation, employment, trade, poverty and economic growth. Their work can support research, planning and decision-making.",
+    skills: [
+      "Logical and analytical reasoning",
+      "Mathematics, statistics and data interpretation",
+      "Research and critical thinking",
+      "Clear writing and presentation",
+      "Understanding markets, incentives and public policy",
+    ],
+    subjectsIntro:
+      "Economics may appeal to students who like understanding why prices rise, how businesses compete, how government decisions affect people and how societies use limited resources.",
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Economics",
+      "Government or Geography",
+      "A relevant social-science or business subject",
+    ],
+    education: {
+      summary:
+        "A typical route is a degree in Economics or a related field, with quantitative and research skills becoming increasingly important in many roles.",
+      routes: [
+        "Develop a strong foundation in mathematics, economics and written communication.",
+        "Apply for an Economics degree or an appropriate related programme.",
+        "Learn statistics, spreadsheet analysis and, where useful, tools such as Python or R.",
+        "Consider postgraduate study for specialised economic research, policy analysis or academic careers.",
+      ],
+      admissionNote:
+        "Required secondary-school subjects and UTME combinations vary by institution. Check the current JAMB brochure and the entry requirements of your chosen programme.",
+    },
+    opportunitiesIntro:
+      "Economics graduates can apply their analytical skills to research, policy, finance, business and development work. Specific economist positions may require additional training or experience.",
+    opportunities: [
+      "Economic and policy research",
+      "Government planning and public-sector analysis",
+      "Banking, finance and market research",
+      "Consulting and business analysis",
+      "Development organisations and academic research",
+    ],
   },
   {
     id: "banking-finance-professional",
@@ -1497,6 +1581,48 @@ window.CAREERS = [
       PR: 2,
       BE: 5,
     },
+    image: "../assets/images/careers/banking-finance-professional.jpg",
+    intro:
+      "Help people and organisations manage money, assess financial choices and access financial services.",
+    overview:
+      "Banking and finance professionals work with financial products, customer accounts, lending, investments, payments and risk. Their responsibilities depend on the role: some advise customers, some analyse financial information, and others help organisations manage funds or evaluate financial opportunities. Accuracy, trust and responsible decision-making are central to the field.",
+    skills: [
+      "Numerical and analytical thinking",
+      "Customer service and clear communication",
+      "Digital literacy and spreadsheet skills",
+      "Ethical judgement and attention to detail",
+      "Commercial awareness and problem-solving",
+    ],
+    subjectsIntro:
+      "This field may suit students interested in money, business, customer relationships, financial technology and how organisations make financial decisions.",
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Economics",
+      "Financial Accounting or Commerce",
+      "A relevant business or social-science subject",
+    ],
+    education: {
+      summary:
+        "Relevant degrees may include Banking and Finance, Finance, Economics, Accounting or other accepted business-related programmes.",
+      routes: [
+        "Build a foundation in mathematics, economics and business studies.",
+        "Choose a recognised degree or other suitable qualification for your intended role.",
+        "Develop spreadsheet, financial analysis, communication and customer-service skills.",
+        "Explore relevant professional certifications or specialist training as your career develops.",
+      ],
+      admissionNote:
+        "Admission requirements depend on the course and institution. Some finance roles may also have employer-specific or professional requirements; check these before choosing a route.",
+    },
+    opportunitiesIntro:
+      "Career options span traditional financial institutions and newer digital financial services.",
+    opportunities: [
+      "Commercial and microfinance banks",
+      "Fintech and digital payment companies",
+      "Insurance and investment-related organisations",
+      "Credit analysis, risk support and financial operations",
+      "Customer relationship management and business banking",
+    ],
   },
   {
     id: "marketing-specialist",
@@ -1514,6 +1640,48 @@ window.CAREERS = [
       PR: 2,
       BE: 5,
     },
+    image: "../assets/images/careers/marketing-specialist.jpg",
+    intro:
+      "Understand what customers need and communicate why a product, service or idea matters.",
+    overview:
+      "Marketing specialists help organisations reach the right audiences and build demand for their products or services. Their work can include researching customers, planning campaigns, developing brand messages, managing social media, analysing campaign results and coordinating promotional activities. Modern marketing often combines creativity with data and digital tools.",
+    skills: [
+      "Creative thinking and storytelling",
+      "Writing, presentation and persuasion",
+      "Understanding customers and markets",
+      "Digital tools and campaign analytics",
+      "Planning, teamwork and problem-solving",
+    ],
+    subjectsIntro:
+      "Marketing may suit students who enjoy communication, creative projects, business ideas, understanding people and using digital platforms to reach an audience.",
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Economics",
+      "Commerce or Financial Accounting",
+      "A relevant arts, social-science or business subject",
+    ],
+    education: {
+      summary:
+        "Possible routes include Marketing, Business Administration, Mass Communication or another relevant programme, depending on the type of marketing you want to pursue.",
+      routes: [
+        "Build strong communication and business foundations at secondary-school level.",
+        "Choose an appropriate degree, diploma or other recognised training route.",
+        "Practise writing campaign messages, researching audiences and creating sample projects.",
+        "Build a portfolio through supervised projects, internships, volunteering or personal practice.",
+      ],
+      admissionNote:
+        "Subject combinations differ by programme and institution. Check the current JAMB brochure and the entry requirements for your preferred course.",
+    },
+    opportunitiesIntro:
+      "Marketing specialists work in organisations of many sizes, including businesses that depend on digital customer acquisition and brand awareness.",
+    opportunities: [
+      "Digital marketing and social media management",
+      "Brand management and advertising",
+      "Market research and customer insights",
+      "Sales support and business development",
+      "Agency work, freelance services and marketing entrepreneurship",
+    ],
   },
   {
     id: "entrepreneur",
@@ -1531,6 +1699,49 @@ window.CAREERS = [
       PR: 4,
       BE: 5,
     },
+    image: "../assets/images/careers/entrepreneur.jpg",
+    intro:
+      "Turn a useful idea into a product or service that solves a real problem and creates value.",
+    overview:
+      "Entrepreneurs identify opportunities, understand customer needs and organise the resources needed to run a business. They may develop products, offer services, manage money, market their work, hire people and adapt when circumstances change. Entrepreneurship involves uncertainty, so research, testing and responsible financial planning matter as much as ambition.",
+    skills: [
+      "Identifying problems and useful opportunities",
+      "Creative thinking and practical problem-solving",
+      "Communication, negotiation and networking",
+      "Financial planning and resource management",
+      "Leadership, adaptability and decision-making",
+    ],
+    subjectsIntro:
+      "Entrepreneurship may appeal to students who enjoy creating things, solving everyday problems, organising people and exploring how a business can become sustainable.",
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Economics",
+      "Commerce or Financial Accounting",
+      "A subject related to the business area you want to explore",
+    ],
+    education: {
+      summary:
+        "There is no single degree required to become an entrepreneur. Business education can help, but industry knowledge, practical experience and customer understanding are also valuable.",
+      routes: [
+        "Build foundational skills in communication, mathematics and business concepts.",
+        "Study Entrepreneurship, Business Administration or a subject related to your intended industry if it fits your goals.",
+        "Identify a real problem, research potential customers and test a small, affordable solution.",
+        "Learn bookkeeping, pricing, marketing and basic legal responsibilities before expanding.",
+        "Seek mentorship, practical experience and reputable business-development programmes.",
+      ],
+      admissionNote:
+        "If you choose a university course, confirm its specific admission requirements in the current JAMB brochure. Business registration, tax and sector-specific obligations depend on the type and scale of business you operate.",
+    },
+    opportunitiesIntro:
+      "Entrepreneurship can be pursued in almost any sector. Outcomes depend on customer demand, execution, resources and the ability to adapt; owning a business does not guarantee income or success.",
+    opportunities: [
+      "Starting a small business or service",
+      "Building a technology or digital-services venture",
+      "Agriculture, food production and agribusiness",
+      "Creative, retail and professional services",
+      "Growing an existing family business or developing a social enterprise",
+    ],
   },
 
   // 6. LAW, SOCIETY, EDUCATION & PEOPLE
