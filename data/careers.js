@@ -1166,6 +1166,48 @@ window.CAREERS = [
       PR: 4,
       BE: 2,
     },
+    image: "../assets/images/careers/microbiologist.jpg",
+    intro:
+      "Explore the microscopic organisms that affect human health, food, agriculture and the environment.",
+    overview:
+      "Microbiologists study microorganisms such as bacteria, fungi, viruses and other microscopic life. They investigate how these organisms grow, spread and interact with their surroundings. Their work can support disease research, food safety, industrial production and environmental protection.",
+    skills: [
+      "Laboratory techniques and careful sample handling",
+      "Observation and scientific reasoning",
+      "Data recording and interpretation",
+      "Attention to detail and laboratory safety",
+      "Patience and structured problem-solving",
+    ],
+    subjectsIntro:
+      "Microbiology suits students who enjoy biology, chemistry and investigating how living things work at a small scale.",
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Biology",
+      "Chemistry",
+      "Physics",
+    ],
+    education: {
+      summary:
+        "A common route is a university degree in Microbiology or a closely related biological science.",
+      routes: [
+        "Study relevant science subjects at SS3 level and meet the entry requirements for your chosen institution.",
+        "Pursue a B.Sc. in Microbiology or a related programme.",
+        "Build practical laboratory experience through supervised projects, internships or research placements.",
+        "Consider postgraduate study for specialised research, teaching or advanced laboratory roles.",
+      ],
+      admissionNote:
+        "Subject combinations, UTME requirements and accepted qualifications vary by institution. Check the current JAMB brochure and the specific university's admission requirements before choosing your subjects.",
+    },
+    opportunitiesIntro:
+      "Microbiology graduates may work in laboratories, research, quality assurance and industries that monitor microorganisms.",
+    opportunities: [
+      "Medical and diagnostic laboratories, where permitted by relevant qualifications and regulations",
+      "Food and beverage quality-control laboratories",
+      "Pharmaceutical and biotechnology companies",
+      "Public health and environmental laboratories",
+      "Research institutions and science education",
+    ],
   },
   {
     id: "biochemist",
@@ -1183,6 +1225,48 @@ window.CAREERS = [
       PR: 3,
       BE: 2,
     },
+    image: "../assets/images/careers/biochemist.jpg",
+    intro:
+      "Discover the chemical processes that keep living organisms functioning.",
+    overview:
+      "Biochemists study the molecules and chemical reactions involved in life, including proteins, enzymes, DNA and metabolism. They use scientific experiments and data to investigate biological processes and contribute to research in health, agriculture, food production and biotechnology.",
+    skills: [
+      "Analytical and scientific thinking",
+      "Understanding chemical and biological processes",
+      "Laboratory experimentation",
+      "Interpreting research data",
+      "Accuracy and documentation",
+    ],
+    subjectsIntro:
+      "Biochemistry is a strong option for students interested in both biology and chemistry, especially the science behind how cells and organisms function.",
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Biology",
+      "Chemistry",
+      "Physics",
+    ],
+    education: {
+      summary:
+        "The usual route is a university degree in Biochemistry or a related life-science programme.",
+      routes: [
+        "Build a strong foundation in biology, chemistry and mathematics at secondary-school level.",
+        "Apply for a B.Sc. in Biochemistry or an institution-approved related course.",
+        "Develop laboratory, research and data-analysis skills during your degree.",
+        "Explore postgraduate specialisation in areas such as molecular biology, biotechnology or biomedical research.",
+      ],
+      admissionNote:
+        "Confirm the required O'Level subjects, UTME subject combination and programme-specific conditions in the current JAMB brochure and with your chosen institution.",
+    },
+    opportunitiesIntro:
+      "Biochemistry can lead to work involving biological research, laboratory analysis and industrial quality control.",
+    opportunities: [
+      "Biotechnology and life-science research",
+      "Food and beverage production and quality assurance",
+      "Pharmaceutical and related industries",
+      "Academic and scientific research",
+      "Laboratory and analytical roles appropriate to your qualifications",
+    ],
   },
   {
     id: "chemist",
@@ -1200,6 +1284,48 @@ window.CAREERS = [
       PR: 4,
       BE: 3,
     },
+    image: "../assets/images/careers/chemist.jpg",
+    intro:
+      "Understand the substances around us and learn how to analyse, improve and create materials.",
+    overview:
+      "Chemists study the composition, properties and reactions of substances. They may analyse samples, develop products, test materials or investigate chemical processes. Their work supports sectors such as manufacturing, energy, food production, pharmaceuticals and environmental monitoring.",
+    skills: [
+      "Logical and quantitative reasoning",
+      "Laboratory measurement and experimentation",
+      "Understanding chemical reactions",
+      "Safe handling of laboratory materials",
+      "Clear recording and interpretation of results",
+    ],
+    subjectsIntro:
+      "Chemistry is well suited to students who enjoy experiments, calculations, understanding materials and solving problems through evidence.",
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Chemistry",
+      "Physics",
+      "Biology",
+    ],
+    education: {
+      summary:
+        "A common pathway is a university degree in Chemistry or an appropriate applied-chemistry programme.",
+      routes: [
+        "Build strong foundations in chemistry, mathematics and physics.",
+        "Apply for a B.Sc. in Chemistry or a relevant programme that meets your interests.",
+        "Gain practical experience with laboratory instruments, analysis and safety procedures.",
+        "Specialise later in areas such as analytical, industrial, environmental or materials chemistry.",
+      ],
+      admissionNote:
+        "Required subjects and accepted combinations depend on the institution and course. Check the current JAMB brochure and your chosen institution's admission guidance.",
+    },
+    opportunitiesIntro:
+      "Chemists can work in laboratories, manufacturing, research and industries that test or develop chemical products.",
+    opportunities: [
+      "Industrial and analytical laboratories",
+      "Manufacturing and product development",
+      "Food, paint, plastics and materials industries",
+      "Environmental testing and monitoring",
+      "Research, quality assurance and science education",
+    ],
   },
   {
     id: "agricultural-scientist",
@@ -1217,6 +1343,48 @@ window.CAREERS = [
       PR: 5,
       BE: 4,
     },
+    image: "../assets/images/careers/agricultural-scientist.jpg",
+    intro:
+      "Use science and practical knowledge to improve farming, food production and agricultural livelihoods.",
+    overview:
+      "Agricultural scientists investigate how crops, livestock, soil, water and farming systems can be improved. Depending on their specialisation, they may research crop varieties, soil fertility, animal production, pests, farm management or sustainable agricultural methods. Their work can help farmers improve productivity while managing resources responsibly.",
+    skills: [
+      "Scientific observation and experimentation",
+      "Practical problem-solving in agricultural settings",
+      "Understanding crops, soil and farming systems",
+      "Communication with farmers and communities",
+      "Planning, record-keeping and data interpretation",
+    ],
+    subjectsIntro:
+      "Agricultural science suits students interested in biology, the natural environment, practical work and improving how food is produced.",
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Biology or Agricultural Science",
+      "Chemistry",
+      "Physics",
+    ],
+    education: {
+      summary:
+        "Possible routes include degrees in Agricultural Science, Crop Science, Soil Science, Animal Science or other agricultural specialisations.",
+      routes: [
+        "Study relevant science subjects and Agricultural Science where available.",
+        "Choose a university programme that matches your interest, such as crop production, soil management or animal production.",
+        "Gain practical experience through farms, fieldwork, laboratories or agricultural projects.",
+        "Explore further training or postgraduate study for research, extension work or specialised roles.",
+      ],
+      admissionNote:
+        "Agricultural programmes can have different subject requirements. Confirm the exact O'Level and UTME combinations for your chosen course in the current JAMB brochure and with the institution.",
+    },
+    opportunitiesIntro:
+      "Agricultural scientists contribute to food production, research, agribusiness and support services for farmers.",
+    opportunities: [
+      "Agricultural research institutes and universities",
+      "Government and private agricultural extension services",
+      "Farms, plantations and food-production companies",
+      "Seed, fertiliser and agricultural-input businesses",
+      "Agribusiness, farm consulting and agricultural entrepreneurship",
+    ],
   },
   {
     id: "environmental-scientist",
@@ -1234,6 +1402,48 @@ window.CAREERS = [
       PR: 4,
       BE: 3,
     },
+    image: "../assets/images/careers/environmental-scientist.jpg",
+    intro:
+      "Investigate environmental problems and help protect the air, water, land and communities around us.",
+    overview:
+      "Environmental scientists study the natural environment and how human activities affect it. They may collect and analyse water or soil samples, monitor pollution, assess environmental risks and support conservation or waste-management projects. Their work combines scientific investigation with practical recommendations for communities, businesses and public agencies.",
+    skills: [
+      "Environmental observation and field sampling",
+      "Scientific analysis and data interpretation",
+      "Problem-solving and risk assessment",
+      "Report writing and communication",
+      "Understanding ecosystems and human environmental impacts",
+    ],
+    subjectsIntro:
+      "Environmental science is a good fit for students interested in biology, chemistry, geography, fieldwork and finding practical solutions to environmental challenges.",
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Biology",
+      "Chemistry",
+      "Geography or Physics",
+    ],
+    education: {
+      summary:
+        "Relevant routes may include Environmental Science, Environmental Management or another closely related environmental programme.",
+      routes: [
+        "Build a foundation in science and subjects that help you understand the physical environment.",
+        "Apply for an institution-approved environmental science or related degree.",
+        "Develop skills in field sampling, laboratory analysis, mapping and environmental reporting.",
+        "Consider specialisation in pollution monitoring, conservation, waste management or environmental assessment.",
+      ],
+      admissionNote:
+        "Accepted subjects and admission requirements differ between courses and institutions. Check the current JAMB brochure and the specific programme's requirements before applying.",
+    },
+    opportunitiesIntro:
+      "Environmental scientists may support organisations that monitor pollution, manage natural resources and assess environmental impacts.",
+    opportunities: [
+      "Environmental consulting and assessment organisations",
+      "Environmental monitoring and testing laboratories",
+      "Government environmental agencies and local authorities",
+      "Conservation and sustainability organisations",
+      "Waste management, industry and environmental research",
+    ],
   },
 
   // 5. BUSINESS, FINANCE & ENTERPRISE
