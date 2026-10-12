@@ -99,7 +99,7 @@ window.CAREERS = [
       PR: 3,
       BE: 3,
     },
-    image: "../assets/images/careers/cybersecurity-analyst.jpeg",
+    image: "../assets/images/careers/cybersecurity-analyst.jpg",
 
     intro:
       "Cybersecurity analysts help protect computer systems, networks, and digital information from attacks and unauthorised access.",
@@ -1744,7 +1744,7 @@ window.CAREERS = [
     ],
   },
 
-  // 6. LAW, SOCIETY, EDUCATION & PEOPLE
+  // 6. LAW, SOCIETY, EDUCATION & PEOPLEF
   {
     id: "lawyer",
     name: "Lawyer",
@@ -1761,6 +1761,48 @@ window.CAREERS = [
       PR: 2,
       BE: 4,
     },
+    image: "../assets/images/careers/lawyer.jpg",
+    intro:
+      "Understand the law, protect people's rights and help individuals or organisations resolve legal issues.",
+    overview:
+      "Lawyers interpret laws, research legal questions, advise clients and help resolve disputes. Depending on their specialisation, they may work on criminal cases, contracts, family matters, business transactions, human rights or public policy. The profession requires careful reasoning, strong communication and a commitment to ethical practice.",
+    skills: [
+      "Critical thinking and logical reasoning",
+      "Reading, research and interpretation",
+      "Clear writing, speaking and argument",
+      "Negotiation and conflict resolution",
+      "Ethical judgement and attention to detail",
+    ],
+    subjectsIntro:
+      "Law may suit students who enjoy reading, discussing complex issues, building arguments from evidence and understanding how rules affect society.",
+    subjects: [
+      "English Language",
+      "Literature in English",
+      "Government",
+      "Christian Religious Studies or Islamic Religious Studies",
+      "Economics or another accepted arts or social-science subject",
+    ],
+    education: {
+      summary:
+        "In Nigeria, becoming a legal practitioner generally involves obtaining an accepted law degree and completing the required professional training and qualification process.",
+      routes: [
+        "Meet the O'Level and UTME requirements for an approved university law programme.",
+        "Complete the required law degree.",
+        "Complete the applicable professional training and qualification process through the Nigerian Law School.",
+        "Meet the current requirements for enrolment and practice before working as a qualified legal practitioner.",
+      ],
+      admissionNote:
+        "Law admission requirements can be specific and may change. Check the current JAMB brochure, your chosen university's rules and the Council of Legal Education or Nigerian Law School guidance for the applicable qualification pathway.",
+    },
+    opportunitiesIntro:
+      "Legal training can lead to practice, advisory work, public service, research and roles that require strong analytical and communication skills.",
+    opportunities: [
+      "Law firms and private legal practice, after meeting qualification requirements",
+      "Corporate legal departments and compliance teams",
+      "Government agencies and public service",
+      "Human rights and public-interest organisations",
+      "Legal research, policy and academic work",
+    ],
   },
   {
     id: "teacher",
@@ -1778,6 +1820,48 @@ window.CAREERS = [
       PR: 2,
       BE: 2,
     },
+    image: "../assets/images/careers/teacher.jpg",
+    intro:
+      "Help learners understand new ideas, develop useful skills and grow in confidence.",
+    overview:
+      "Teachers and educators plan lessons, explain concepts, assess learning and support students with different abilities and needs. They may specialise in a subject, age group or learning setting. Effective teaching combines subject knowledge with communication, patience, organisation and the ability to adapt when students need a different explanation.",
+    skills: [
+      "Clear explanation and communication",
+      "Patience, empathy and active listening",
+      "Lesson planning and organisation",
+      "Creativity and adapting to learners",
+      "Assessment, feedback and classroom management",
+    ],
+    subjectsIntro:
+      "Teaching may suit students who enjoy explaining ideas, helping others learn, organising activities and making difficult topics easier to understand.",
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "A subject related to the area you want to teach",
+      "Biology, Physics, Chemistry or other relevant subjects, depending on your specialisation",
+      "Relevant arts, social-science or vocational subjects, depending on your intended teaching area",
+    ],
+    education: {
+      summary:
+        "Common routes include a Bachelor of Education or a relevant subject degree combined with the required teacher-training qualification.",
+      routes: [
+        "Identify the age group or subject you would like to teach.",
+        "Choose an appropriate education degree or subject degree with a recognised teacher-training route.",
+        "Develop practical skills through supervised teaching practice.",
+        "Check applicable teacher registration and certification requirements before seeking eligible teaching roles.",
+      ],
+      admissionNote:
+        "Entry subjects depend on the teaching specialisation and institution. Check the current JAMB brochure, your institution's requirements and the Teachers Registration Council of Nigeria (TRCN) guidance for relevant professional requirements.",
+    },
+    opportunitiesIntro:
+      "Educators work in formal schools and other settings where people need structured learning and skills development.",
+    opportunities: [
+      "Primary and secondary schools",
+      "Private schools and approved learning centres",
+      "Vocational and skills-training programmes",
+      "Educational content and curriculum development",
+      "Tutoring, educational technology and learning support",
+    ],
   },
   {
     id: "psychologist-counsellor",
@@ -1795,6 +1879,48 @@ window.CAREERS = [
       PR: 2,
       BE: 2,
     },
+    image: "../assets/images/careers/psychologist-counsellor.jpg",
+    intro:
+      "Help people understand challenges, build coping skills and make informed decisions about their lives.",
+    overview:
+      "Psychology examines human behaviour, emotions, thinking and development. Counselling focuses on helping people work through concerns, decisions and personal challenges. The two fields overlap but are not identical: professional responsibilities, training and permitted practice depend on the role and applicable requirements. Both require listening carefully, respecting confidentiality and recognising when specialist support is needed.",
+    skills: [
+      "Active listening and empathetic communication",
+      "Observation and critical thinking",
+      "Respect for privacy and professional boundaries",
+      "Understanding human behaviour and development",
+      "Accurate documentation and ethical judgement",
+    ],
+    subjectsIntro:
+      "This path may appeal to students who are curious about human behaviour, enjoy listening without rushing to judge and want to understand how people learn, cope and relate to others.",
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Biology",
+      "Government or Economics",
+      "A relevant arts or social-science subject",
+    ],
+    education: {
+      summary:
+        "Relevant academic routes include Psychology, Guidance and Counselling, or related programmes. The appropriate route depends on the specific professional role you want to pursue.",
+      routes: [
+        "Research the differences between psychology, guidance and counselling, and other helping professions.",
+        "Choose a recognised degree programme that aligns with your intended role.",
+        "Develop research, communication and ethical decision-making skills.",
+        "Complete any required postgraduate study, supervised practice, registration or professional training for the role you intend to enter.",
+      ],
+      admissionNote:
+        "Entry requirements vary by programme. Professional practice requirements can also differ substantially between roles, so check the current JAMB brochure, your institution's rules and the relevant Nigerian professional regulator or professional body before planning your route.",
+    },
+    opportunitiesIntro:
+      "Possible settings include education, community services, research and appropriately qualified support roles.",
+    opportunities: [
+      "Schools and student-support services",
+      "Community and social-support organisations",
+      "Research and human-behaviour studies",
+      "Organisational wellbeing and people-support roles",
+      "Specialist psychological or counselling services after meeting the applicable requirements",
+    ],
   },
   {
     id: "human-resources-professional",
@@ -1812,6 +1938,48 @@ window.CAREERS = [
       PR: 2,
       BE: 4,
     },
+    image: "../assets/images/careers/human-resources-professional.jpg",
+    intro:
+      "Help organisations recruit, support and develop the people who make their work possible.",
+    overview:
+      "Human resources professionals help manage the employee side of an organisation. Their work may include recruitment, onboarding, training, employee relations, performance processes, workplace policies and staff records. Good HR practice balances organisational needs with fairness, confidentiality and respect for employees.",
+    skills: [
+      "Communication and interpersonal skills",
+      "Organisation and record management",
+      "Conflict resolution and sound judgement",
+      "Planning, coordination and leadership",
+      "Digital literacy and handling confidential information",
+    ],
+    subjectsIntro:
+      "Human resources may suit students who enjoy working with people, organising activities, resolving disagreements and helping teams perform well.",
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Economics",
+      "Government or Commerce",
+      "A relevant business or social-science subject",
+    ],
+    education: {
+      summary:
+        "Relevant degrees may include Human Resource Management, Business Administration, Industrial Relations, Psychology or other related programmes accepted by employers.",
+      routes: [
+        "Build strong communication and business foundations.",
+        "Choose a relevant degree or recognised qualification that fits your interests.",
+        "Learn about recruitment, employee development, workplace policies and employment practices.",
+        "Gain experience through internships, administrative roles, people operations or relevant professional development.",
+      ],
+      admissionNote:
+        "Entry requirements vary by institution and course. Professional certifications may be useful for some roles but do not automatically replace an employer's or institution's requirements.",
+    },
+    opportunitiesIntro:
+      "HR professionals work wherever organisations recruit staff, develop teams and manage employee relationships.",
+    opportunities: [
+      "Recruitment and talent acquisition",
+      "Training and employee development",
+      "Human resources administration and operations",
+      "Employee relations and workplace support",
+      "People operations in companies, NGOs and public-sector organisations",
+    ],
   },
   {
     id: "social-worker",
@@ -1829,6 +1997,48 @@ window.CAREERS = [
       PR: 4,
       BE: 2,
     },
+    image: "../assets/images/careers/social-worker.jpg",
+    intro:
+      "Support individuals, families and communities facing social, economic or personal challenges.",
+    overview:
+      "Social workers help people access support, navigate difficult circumstances and improve their wellbeing. Depending on their setting, they may work with children, families, older people, people with disabilities or communities facing hardship. The role can involve assessment, advocacy, referrals, case coordination and collaboration with other support services.",
+    skills: [
+      "Empathy and respectful communication",
+      "Practical problem-solving and advocacy",
+      "Assessment and accurate record-keeping",
+      "Teamwork and coordination with support services",
+      "Professional boundaries and ethical judgement",
+    ],
+    subjectsIntro:
+      "Social work may appeal to students who care about community wellbeing, enjoy solving practical problems and want to help people access resources and support.",
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Government",
+      "Biology or Economics",
+      "A relevant arts or social-science subject",
+    ],
+    education: {
+      summary:
+        "A common route is a degree in Social Work or another recognised programme that meets the requirements for the role and setting you want to enter.",
+      routes: [
+        "Learn about the different areas of social work, including family support, community development and child welfare.",
+        "Apply for an appropriate recognised degree programme.",
+        "Build practical skills through supervised fieldwork, placements or community projects.",
+        "Check any applicable registration, professional standards and employer requirements before entering a regulated or specialist role.",
+      ],
+      admissionNote:
+        "Admission requirements vary by institution. Verify the current JAMB brochure and the requirements of your chosen programme, and confirm any applicable professional requirements for the specific role you intend to pursue.",
+    },
+    opportunitiesIntro:
+      "Social workers may contribute to community support, social services and programmes that help people access essential resources.",
+    opportunities: [
+      "Community development and social-support organisations",
+      "Child, family and youth support services",
+      "NGOs and humanitarian organisations",
+      "Public-sector social welfare services",
+      "Community outreach, advocacy and support programmes",
+    ],
   },
 
   // 7. CREATIVE, DESIGN & MEDIA
@@ -1848,6 +2058,49 @@ window.CAREERS = [
       PR: 4,
       BE: 3,
     },
+    image: "../assets/images/careers/graphic-designer.jpg",
+    intro:
+      "Turn ideas and messages into visual designs that help people understand, recognise and remember them.",
+    overview:
+      "Graphic designers communicate through visual elements such as typography, colour, images, layout and illustration. They create designs for brands, posters, advertisements, publications, social media and other communication materials. The work combines creativity with clear communication, attention to detail and an understanding of the audience.",
+    skills: [
+      "Visual creativity and composition",
+      "Typography, colour and layout",
+      "Image editing and design software",
+      "Understanding briefs and target audiences",
+      "Attention to detail and accepting feedback",
+    ],
+    subjectsIntro:
+      "Graphic design may suit students who enjoy drawing, visual storytelling, arranging images and text, or finding creative ways to communicate an idea.",
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Fine Art or Visual Arts, where available",
+      "A relevant creative or technical subject",
+      "Other subjects required by your chosen institution",
+    ],
+    education: {
+      summary:
+        "You can pursue graphic design through a relevant university or polytechnic programme, vocational training, or a combination of independent learning and practical portfolio development.",
+      routes: [
+        "Explore design fundamentals, including typography, layout, colour and visual communication.",
+        "Choose a relevant programme in graphic design, visual communication, fine arts or a related field if formal study fits your goals.",
+        "Practise with design tools and create projects such as posters, logos, social media graphics and brand concepts.",
+        "Build a portfolio that shows your process, design decisions and finished work.",
+        "Seek feedback, internships, freelance projects or entry-level opportunities to develop your experience.",
+      ],
+      admissionNote:
+        "Admission subjects and portfolio requirements vary by institution and programme. Check the current JAMB brochure and your chosen institution's entry requirements.",
+    },
+    opportunitiesIntro:
+      "Graphic designers work with businesses, organisations and individuals that need clear, engaging visual communication.",
+    opportunities: [
+      "Brand identity and logo design",
+      "Advertising and marketing design",
+      "Social media and digital content design",
+      "Publishing, print and packaging",
+      "Freelance design and creative agencies",
+    ],
   },
   {
     id: "ui-ux-designer",
@@ -1865,6 +2118,49 @@ window.CAREERS = [
       PR: 3,
       BE: 3,
     },
+    image: "../assets/images/careers/ui-ux-designer.jpg",
+    intro:
+      "Design websites and apps that are useful, understandable and enjoyable to use.",
+    overview:
+      "UI/UX designers help shape how people interact with digital products. User experience (UX) focuses on understanding users, identifying problems and making journeys easier. User interface (UI) focuses on the screens, controls, layouts and visual details people interact with. Designers often research users, create wireframes and prototypes, test ideas and work with developers and product teams.",
+    skills: [
+      "User-centred thinking and empathy",
+      "Problem-solving and logical reasoning",
+      "Interface design and prototyping",
+      "Research, observation and usability testing",
+      "Communication and collaboration with developers",
+    ],
+    subjectsIntro:
+      "UI/UX design may suit students who enjoy technology, creativity, solving practical problems and thinking about why some apps and websites feel easier to use than others.",
+    subjects: [
+      "English Language",
+      "Mathematics",
+      "Fine Art or Visual Arts, where available",
+      "Computer Studies or Information Technology, where available",
+      "Other subjects required by your chosen institution",
+    ],
+    education: {
+      summary:
+        "There is no single compulsory degree for every UI/UX role. Relevant routes include design, computer science, human-computer interaction or practical training supported by a strong portfolio.",
+      routes: [
+        "Learn the fundamentals of visual design, accessibility and user-centred design.",
+        "Practise user research, wireframing, interface design and prototyping with suitable tools.",
+        "Build projects that demonstrate the problem, your design decisions, testing and improvements.",
+        "Learn how to collaborate with developers and understand basic web and mobile design constraints.",
+        "Apply for internships, junior roles or supervised projects while continuing to improve your portfolio.",
+      ],
+      admissionNote:
+        "If you choose a formal degree or diploma, check the current JAMB brochure and the specific institution's requirements. Portfolio expectations vary by employer and programme.",
+    },
+    opportunitiesIntro:
+      "UI/UX designers contribute to digital products across technology, finance, education, healthcare, commerce and other sectors.",
+    opportunities: [
+      "UI design for websites and mobile applications",
+      "UX research and usability testing",
+      "Product design and prototyping",
+      "Design systems and accessibility work",
+      "Digital agencies, technology companies and freelance projects",
+    ],
   },
   {
     id: "mass-communication-media-professional",
@@ -1882,6 +2178,50 @@ window.CAREERS = [
       PR: 3,
       BE: 4,
     },
+    image:
+      "../assets/images/careers/mass-communication-media-professional.jpg",
+    intro:
+      "Inform, engage and influence audiences through journalism, broadcasting, public relations and digital media.",
+    overview:
+      "Media professionals research, create and distribute information for different audiences. Depending on their specialisation, they may report news, present programmes, produce interviews, manage public relations, develop media campaigns or create digital content. Responsible media work depends on accuracy, fair representation, clear communication and checking information before publishing.",
+    skills: [
+      "Writing, speaking and interviewing",
+      "Research and fact-checking",
+      "Storytelling and audience awareness",
+      "Media production and digital communication",
+      "Time management and ethical judgement",
+    ],
+    subjectsIntro:
+      "Mass communication may suit students who enjoy writing, public speaking, current affairs, storytelling, interviewing people or explaining events to an audience.",
+    subjects: [
+      "English Language",
+      "Literature in English",
+      "Government",
+      "Economics or Civic Education, where relevant",
+      "Other subjects accepted by your chosen institution",
+    ],
+    education: {
+      summary:
+        "Common routes include Mass Communication, Communication and Media Studies, Journalism, Broadcasting or Public Relations, depending on the intended career.",
+      routes: [
+        "Develop strong writing, reading, speaking and research skills.",
+        "Choose a relevant university or polytechnic programme that matches your area of interest.",
+        "Practise reporting, interviewing, audio or video production and digital publishing.",
+        "Build a portfolio of accurate, well-researched stories or media projects.",
+        "Seek internships, campus media experience or supervised placements to learn professional standards.",
+      ],
+      admissionNote:
+        "Admission requirements differ by institution and specialisation. Check the current JAMB brochure and the requirements of your chosen programme.",
+    },
+    opportunitiesIntro:
+      "Media training can lead to careers in news, broadcasting, communications, public relations and digital publishing.",
+    opportunities: [
+      "Journalism and news reporting",
+      "Radio, television and broadcasting",
+      "Public relations and corporate communications",
+      "Digital media and social media production",
+      "Media research, production and communications agencies",
+    ],
   },
   {
     id: "filmmaker-video-editor",
@@ -1899,6 +2239,49 @@ window.CAREERS = [
       PR: 4,
       BE: 4,
     },
+    image: "../assets/images/careers/filmmaker-video-editor.jpg",
+    intro:
+      "Use moving images, sound and storytelling to bring ideas, events and stories to life.",
+    overview:
+      "Filmmakers develop and produce video projects, from planning and filming to editing and delivery. Video editors organise footage, shape the narrative, refine pacing and work with sound, colour and visual effects. Depending on the project, the work may involve directing, camera operation, scripting, lighting, sound recording or post-production.",
+    skills: [
+      "Visual storytelling and creative planning",
+      "Video editing and post-production",
+      "Camera, lighting and sound fundamentals",
+      "Organisation and file management",
+      "Teamwork, time management and problem-solving",
+    ],
+    subjectsIntro:
+      "Filmmaking and video editing may appeal to students who enjoy movies, storytelling, visual creativity, technology and turning raw footage into a finished piece.",
+    subjects: [
+      "English Language",
+      "Literature in English",
+      "Fine Art or Visual Arts, where available",
+      "Computer Studies or Information Technology, where available",
+      "Other subjects required by your chosen institution",
+    ],
+    education: {
+      summary:
+        "Possible routes include film production, cinematography, media studies or related formal programmes, alongside practical learning and portfolio development.",
+      routes: [
+        "Learn basic storytelling, shot composition, lighting, sound and editing.",
+        "Practise with accessible editing software and create short projects of increasing complexity.",
+        "Study film, media production or a related programme if formal training fits your goals.",
+        "Build a showreel that demonstrates your strongest work and the role you performed on each project.",
+        "Gain experience through supervised productions, internships, collaborations or freelance work.",
+      ],
+      admissionNote:
+        "Course requirements vary by institution. Check the current JAMB brochure and programme guidance. Practical portfolios and showreels may be important to employers even where they are not formal admission requirements.",
+    },
+    opportunitiesIntro:
+      "Video professionals work across entertainment, advertising, education, events and online media.",
+    opportunities: [
+      "Film and television production",
+      "Video editing and post-production",
+      "Music videos, documentaries and short films",
+      "Commercials, event coverage and branded content",
+      "Online video, educational content and freelance production",
+    ],
   },
   {
     id: "writer-content-creator",
@@ -1916,5 +2299,48 @@ window.CAREERS = [
       PR: 2,
       BE: 4,
     },
+    image: "../assets/images/careers/writer-content-creator.jpg",
+    intro:
+      "Turn research, knowledge and ideas into stories and content that inform, entertain or help an audience.",
+    overview:
+      "Writers and content creators develop material for websites, blogs, social platforms, publications, businesses and other audiences. Their work may include articles, scripts, newsletters, educational content, video concepts or brand messaging. Strong creators understand their audience, research responsibly, revise their work and choose the right format for the message.",
+    skills: [
+      "Writing, editing and storytelling",
+      "Research and fact-checking",
+      "Understanding audiences and tone",
+      "Digital publishing and content tools",
+      "Creativity, consistency and meeting deadlines",
+    ],
+    subjectsIntro:
+      "This career may suit students who enjoy writing, explaining ideas, telling stories, researching topics or making digital content for other people.",
+    subjects: [
+      "English Language",
+      "Literature in English",
+      "Government or History, where available",
+      "Computer Studies or Information Technology, where available",
+      "Other subjects relevant to your chosen writing specialisation",
+    ],
+    education: {
+      summary:
+        "There is no single required degree for every writing or content-creation role. Relevant routes include English, Literature, Mass Communication, Creative Writing or a subject related to your intended niche.",
+      routes: [
+        "Build a strong foundation in reading, grammar, research and written communication.",
+        "Choose a relevant course or develop your skills through structured independent learning.",
+        "Practise different formats, such as articles, scripts, newsletters, educational posts or brand content.",
+        "Build a portfolio of original work and learn to revise it using feedback and evidence.",
+        "Gain experience through student publications, internships, personal projects or freelance assignments.",
+      ],
+      admissionNote:
+        "Formal programme requirements vary by institution. Check the current JAMB brochure and the requirements for your chosen course. Employers and clients may place more emphasis on writing samples, subject knowledge and reliability.",
+    },
+    opportunitiesIntro:
+      "Writers and content creators can work independently or contribute to organisations that need clear, engaging communication.",
+    opportunities: [
+      "Blogging, articles and online publications",
+      "Copywriting and brand content",
+      "Scriptwriting and storytelling",
+      "Educational content and technical writing, with suitable subject knowledge",
+      "Social media content, newsletters and freelance writing",
+    ],
   },
 ];
