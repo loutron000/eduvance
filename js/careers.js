@@ -34,8 +34,13 @@ if (!careers.length) {
                         href="career.html?id=${encodeURIComponent(career.id)}"
                         class="career-directory-card"
                     >
-                        <div class="career-directory-card-icon" aria-hidden="true">
-                            ${career.name.charAt(0)}
+                        <div class="career-directory-card-image">
+                            <img
+                                src="${career.image}"
+                                alt=""
+                                loading="lazy"
+                                onerror="this.parentElement.classList.add('career-image-missing'); this.remove();"
+                            />
                         </div>
 
                         <div class="career-directory-card-content">

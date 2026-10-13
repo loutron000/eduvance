@@ -10,6 +10,8 @@
 
     <link rel="stylesheet" href="../css/style.css" />
     <link rel="stylesheet" href="../css/valour.css" />
+
+    <script src="../js/theme.js"></script>
   </head>
 
   <body>
@@ -21,7 +23,13 @@
             class="navbar-brand"
             aria-label="Eduvance home"
           >
-            <img src="../assets/logo/logo.jpg" alt="" class="brand-logo" />
+            <img
+              src="../assets/logo/logo.jpg"
+              data-light-src="../assets/logo/logo.jpg"
+              data-dark-src="../assets/logo/logo_dark.jpg"
+              alt=""
+              class="brand-logo theme-logo"
+            />
 
             <span class="brand-wordmark" aria-hidden="true">
               <span class="brand-edu">EDU</span
@@ -34,6 +42,16 @@
             <a href="careers.html">Careers</a>
             <a href="login.html">Sign in</a>
 
+            <button
+              type="button"
+              class="theme-toggle"
+              aria-label="Switch to dark mode"
+              aria-pressed="false"
+            >
+              <span class="theme-toggle-icon" aria-hidden="true">☾</span>
+              <span class="theme-toggle-label">Dark mode</span>
+            </button>
+
             <a href="signup.html" class="btn btn-primary nav-cta">
               Get started
               <span aria-hidden="true">↗</span>
@@ -44,6 +62,16 @@
             <a href="how-it-works.html">How it works</a>
             <a href="careers.html">Careers</a>
             <a href="results.html">My results</a>
+
+            <button
+              type="button"
+              class="theme-toggle"
+              aria-label="Switch to dark mode"
+              aria-pressed="false"
+            >
+              <span class="theme-toggle-icon" aria-hidden="true">☾</span>
+              <span class="theme-toggle-label">Dark mode</span>
+            </button>
 
             <button type="button" class="btn nav-signout">Sign out</button>
           </div>
@@ -133,13 +161,16 @@
               </span>
             </div>
 
-            <div class="question-progress" aria-label="Assessment progress">
-              <div class="progress-bar">
-                <div class="progress-fill" id="progress-fill"></div>
-              </div>
+            <div
+              class="question-progress"
+              role="progressbar"
+              aria-label="Assessment progress"
+              aria-valuemin="0"
+              aria-valuemax="100"
+              aria-valuenow="0"
+            >
+              <div class="progress-fill" id="progress-fill"></div>
             </div>
-
-            <div class="question-category" id="question-category"></div>
 
             <div class="question-content">
               <h2 class="question-text" id="question-text"></h2>
@@ -171,11 +202,10 @@
               <button type="button" class="next-button" id="next-button">
                 Next →
               </button>
-              
             </div>
-             <p class="assessment-disclaimer">
-            <strong>This is guidance, not a verdict.</strong>
-          </p>
+            <p class="assessment-disclaimer">
+              <strong>This is guidance, not a verdict.</strong>
+            </p>
           </div>
         </section>
       </section>
@@ -184,7 +214,13 @@
     <footer class="site-footer">
       <div class="container footer-container">
         <a href="../index.html" class="footer-brand" aria-label="Eduvance home">
-          <img src="../assets/logo/logo.jpg" alt="" class="footer-logo" />
+          <img
+            src="../assets/logo/logo.jpg"
+            data-light-src="../assets/logo/logo.jpg"
+            data-dark-src="../assets/logo/logo_dark.jpg"
+            alt=""
+            class="footer-logo theme-logo"
+          />
 
           <span class="footer-wordmark" aria-hidden="true">
             <span class="brand-edu">EDU</span

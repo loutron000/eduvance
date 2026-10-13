@@ -12,6 +12,8 @@
 .auth-header .container {
   display: flex;
   align-items: center;
+  justify-content: space-between;
+  gap: 24px;
 }
 
 .auth-header .navbar-brand {
@@ -211,4 +213,11 @@
   .auth-heading h1 {
     font-size: 1.4rem;
   }
+}
+
+.auth-header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
 }
