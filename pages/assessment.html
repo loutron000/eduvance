@@ -133,13 +133,16 @@
               </span>
             </div>
 
-            <div class="question-progress" aria-label="Assessment progress">
-              <div class="progress-bar">
-                <div class="progress-fill" id="progress-fill"></div>
-              </div>
+            <div
+              class="question-progress"
+              role="progressbar"
+              aria-label="Assessment progress"
+              aria-valuemin="0"
+              aria-valuemax="100"
+              aria-valuenow="0"
+            >
+              <div class="progress-fill" id="progress-fill"></div>
             </div>
-
-            <div class="question-category" id="question-category"></div>
 
             <div class="question-content">
               <h2 class="question-text" id="question-text"></h2>
@@ -171,11 +174,10 @@
               <button type="button" class="next-button" id="next-button">
                 Next →
               </button>
-              
             </div>
-             <p class="assessment-disclaimer">
-            <strong>This is guidance, not a verdict.</strong>
-          </p>
+            <p class="assessment-disclaimer">
+              <strong>This is guidance, not a verdict.</strong>
+            </p>
           </div>
         </section>
       </section>

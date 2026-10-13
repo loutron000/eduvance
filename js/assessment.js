@@ -329,6 +329,10 @@ function renderQuestion() {
   questionPercentage.textContent = `${progress}%`;
   progressFill.style.width = `${progress}%`;
 
+  const progressBar = document.querySelector(".question-progress");
+
+  progressBar.setAttribute("aria-valuenow", progress);
+
   answerOptions.innerHTML = "";
 
   question.options.forEach((option) => {
@@ -451,7 +455,7 @@ function finishAssessment() {
 }
 
 if (!ACCOUNT_EMAIL) {
-    window.location.replace("login.html");
+  window.location.replace("login.html");
 } else if (initializeAttempt()) {
-    renderQuestion();
+  renderQuestion();
 }
