@@ -10,6 +10,8 @@
 
     <link rel="stylesheet" href="../css/style.css" />
     <link rel="stylesheet" href="../css/auth.css" />
+
+    <script src="../js/theme.js"></script>
   </head>
 
   <body class="auth-page">
@@ -21,13 +23,29 @@
           id="logoLink"
           aria-label="Eduvance home"
         >
-          <img src="../assets/logo/logo.jpg" alt="" class="brand-logo" />
+          <img
+            src="../assets/logo/logo.jpg"
+            data-light-src="../assets/logo/logo.jpg"
+            data-dark-src="../assets/logo/logo_dark.jpg"
+            alt=""
+            class="brand-logo theme-logo"
+          />
 
           <span class="brand-wordmark" aria-hidden="true">
             <span class="brand-edu">EDU</span
             ><span class="brand-vance">VANCE</span>
           </span>
         </a>
+
+        <button
+          type="button"
+          class="theme-toggle"
+          aria-label="Switch to dark mode"
+          aria-pressed="false"
+        >
+          <span class="theme-toggle-icon" aria-hidden="true">☾</span>
+          <span class="theme-toggle-label">Dark mode</span>
+        </button>
       </div>
     </header>
 
