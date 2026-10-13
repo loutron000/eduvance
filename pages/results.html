@@ -32,6 +32,7 @@
 
           <div class="navbar-links logged-out-nav hidden">
             <a href="how-it-works.html">How it works</a>
+            <a href="careers.html">Careers</a>
             <a href="login.html">Sign in</a>
 
             <a href="signup.html" class="btn btn-primary nav-cta">
@@ -42,6 +43,7 @@
 
           <div class="navbar-links logged-in-nav">
             <a href="how-it-works.html">How it works</a>
+            <a href="careers.html">Careers</a>
             <a href="results.html">My results</a>
 
             <button type="button" class="btn nav-signout">Sign out</button>
@@ -59,7 +61,212 @@
       </nav>
     </header>
 
-    
+    <main class="results-page">
+      <div class="container results-container">
+
+        <section
+          class="results-empty-state"
+          id="results-empty-state"
+          aria-labelledby="empty-title"
+          hidden
+        >
+          <div class="results-empty-icon" aria-hidden="true">✦</div>
+          <p class="results-eyebrow">YOUR EDUVANCE JOURNEY</p>
+          <h1 id="empty-title">Your next step starts with discovery.</h1>
+          <p class="results-lead" id="empty-message">
+            Complete your career assessment to discover pathways that may
+            fit your interests.
+          </p>
+          <a
+            class="btn btn-primary results-primary-button"
+            id="empty-action"
+            href="assessment.html"
+          >
+            Take the assessment <span aria-hidden="true">→</span>
+          </a>
+        </section>
+
+        <div class="results-content" id="results-content" hidden>
+
+          <section class="results-intro">
+            <p class="results-eyebrow">YOUR CAREER RESULTS</p>
+            <h1>Your future has more than one good direction.</h1>
+            <p class="results-lead">
+              Your answers reveal interests worth exploring. Use these
+              results as a starting point, not a limit on what you can become.
+            </p>
+            <p class="results-guidance">Guidance, not a verdict.</p>
+          </section>
+
+          <section
+            class="results-section"
+            aria-labelledby="strongest-match-heading"
+          >
+            <div class="results-section-heading">
+              <p class="results-eyebrow">A PLACE TO START</p>
+              <h2 id="strongest-match-heading">Your strongest career match</h2>
+              <p>
+                This career has the strongest weighted alignment with your
+                assessment scores.
+              </p>
+            </div>
+
+            <article class="results-featured-card" id="featured-career">
+              <div class="results-featured-image-wrap" id="featured-image-wrap" hidden>
+                <img id="featured-image" src="" alt="" />
+              </div>
+
+              <div class="results-featured-body">
+                <span class="results-match-label">STRONGEST MATCH</span>
+                <p class="results-career-family" id="featured-family"></p>
+                <h3 id="featured-name"></h3>
+                <p class="results-match-score" id="featured-score"></p>
+                <p class="results-career-intro" id="featured-intro"></p>
+                <a
+                  class="btn btn-primary"
+                  id="featured-link"
+                  href="careers.html"
+                >
+                  Explore this career <span aria-hidden="true">→</span>
+                </a>
+              </div>
+            </article>
+          </section>
+
+          <section
+            class="results-section"
+            aria-labelledby="pathways-heading"
+          >
+            <div class="results-section-heading">
+              <p class="results-eyebrow">KEEP AN OPEN MIND</p>
+              <h2 id="pathways-heading">Other pathways worth exploring</h2>
+              <p>
+                These five careers also align with aspects of your interest
+                profile. You don't have to choose just one direction.
+              </p>
+            </div>
+
+            <div class="results-career-grid" id="alternative-careers"></div>
+
+            <p class="results-note">
+              Recommendations are based on your assessment scores and the
+              career matrix, not a prediction of future success.
+            </p>
+          </section>
+
+          <section
+            class="results-section results-dimensions-section"
+            aria-labelledby="dimensions-heading"
+          >
+            <div class="results-section-heading">
+              <p class="results-eyebrow">UNDERSTANDING YOURSELF</p>
+              <h2 id="dimensions-heading">Your strongest dimensions</h2>
+              <p>
+                These dimensions show where your answers expressed the
+                strongest interests. They are not grades or intelligence scores.
+              </p>
+            </div>
+
+            <div class="results-dimensions-card">
+              <div class="results-top-dimensions" id="top-dimensions"></div>
+              <div class="results-all-dimensions" id="all-dimensions"></div>
+              <p class="results-note">
+                Each dimension is scored out of 30. A lower score doesn't
+                mean you cannot develop that interest or skill.
+              </p>
+            </div>
+          </section>
+
+          <section
+            class="results-section results-explanation-section"
+            aria-labelledby="explanation-heading"
+          >
+            <details class="results-explanation">
+              <summary id="explanation-heading">
+                <span>How your results work</span>
+                <span class="results-details-icon" aria-hidden="true">+</span>
+              </summary>
+
+              <div class="results-explanation-body">
+                <h3>Your interest profile</h3>
+                <p>
+                  Each answer contributes points to one of ten interest
+                  dimensions. Your scores help describe the interests you
+                  expressed through your answers.
+                </p>
+
+                <h3>Career alignment</h3>
+                <p>
+                  Each career has a set of dimension weights. We compare your
+                  scores with those weights to calculate a weighted interest
+                  alignment score, then rank careers across the full career list.
+                </p>
+
+                <h3>What the scores mean</h3>
+                <p>
+                  Alignment scores are a way to organise possible pathways,
+                  not percentages of your chance of succeeding. They do not
+                  measure your intelligence, guarantee career success, or
+                  determine whether you qualify for admission.
+                </p>
+
+                <h3>Your next step</h3>
+                <p>
+                  Explore careers that interest you, learn about their skills
+                  and educational routes, and check current requirements with
+                  the relevant institutions before making academic decisions.
+                </p>
+              </div>
+            </details>
+          </section>
+
+          <section class="results-next-steps" aria-labelledby="next-steps-heading">
+            <p class="results-eyebrow">YOUR JOURNEY CONTINUES</p>
+            <h2 id="next-steps-heading">Keep exploring your possibilities.</h2>
+            <p>
+              Your results are a starting point. Discover other careers,
+              compare your options, and learn what each pathway involves.
+            </p>
+
+            <div class="results-next-actions">
+              <a class="btn btn-primary" href="careers.html">
+                Explore all careers <span aria-hidden="true">→</span>
+              </a>
+              <a
+                class="btn results-secondary-button"
+                href="assessment.html?retake=1"
+                id="retake-link"
+              >
+                Retake assessment
+              </a>
+            </div>
+          </section>
+        </div>
+
+        <section
+          class="results-empty-state"
+          id="results-error-state"
+          aria-labelledby="error-title"
+          hidden
+        >
+          <div class="results-empty-icon" aria-hidden="true">!</div>
+          <p class="results-eyebrow">LET'S GET YOU BACK ON TRACK</p>
+          <h1 id="error-title">We couldn't load your results.</h1>
+          <p class="results-lead" id="error-message">
+            Your saved results could not be verified. Please try again or
+            start a fresh assessment.
+          </p>
+          <a
+            class="btn btn-primary results-primary-button"
+            id="error-action"
+            href="assessment.html?retake=1"
+          >
+            Start a fresh assessment <span aria-hidden="true">→</span>
+          </a>
+        </section>
+
+      </div>
+    </main>
 
     <footer class="site-footer">
       <div class="container footer-container">
@@ -87,8 +294,10 @@
       </div>
     </footer>
 
+    <script src="../data/careers.js"></script>
+    <script src="../js/results.js"></script>
     <script src="../js/main.js"></script>
     <script src="../js/auth.js"></script>
-    <script src="../js/results.js"></script>
+    
   </body>
 </html>
