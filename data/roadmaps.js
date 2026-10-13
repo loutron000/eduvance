@@ -1445,19 +1445,19 @@ const roadmaps = {
           {
             title: "Study human biology",
             description:
-              "Explore cells, tissues, organs, body systems, and how they work together to maintain life."
+              "Explore cells, tissues, organs, body systems, and how they work together to maintain life.",
           },
           {
             title: "Strengthen chemistry and physics",
             description:
-              "Learn basic chemical reactions, solutions, pressure, energy, and other concepts relevant to human biology."
+              "Learn basic chemical reactions, solutions, pressure, energy, and other concepts relevant to human biology.",
           },
           {
             title: "Practise scientific reasoning",
             description:
-              "Use reliable educational sources to investigate a health-related question and distinguish evidence from assumptions."
-          }
-        ]
+              "Use reliable educational sources to investigate a health-related question and distinguish evidence from assumptions.",
+          },
+        ],
       },
       {
         title: "Understand the Human Body",
@@ -1467,19 +1467,19 @@ const roadmaps = {
           {
             title: "Learn the major body systems",
             description:
-              "Study the circulatory, respiratory, digestive, nervous, skeletal, muscular, and other major systems."
+              "Study the circulatory, respiratory, digestive, nervous, skeletal, muscular, and other major systems.",
           },
           {
             title: "Explore how systems interact",
             description:
-              "Choose an everyday activity, such as running, and explain how multiple body systems work together."
+              "Choose an everyday activity, such as running, and explain how multiple body systems work together.",
           },
           {
             title: "Learn health and disease basics",
             description:
-              "Explore how infections, genetics, nutrition, and environmental factors can affect health."
-          }
-        ]
+              "Explore how infections, genetics, nutrition, and environmental factors can affect health.",
+          },
+        ],
       },
       {
         title: "Discover Medical Practice",
@@ -1489,19 +1489,19 @@ const roadmaps = {
           {
             title: "Explore clinical reasoning",
             description:
-              "Use fictional educational cases to understand how symptoms, medical history, examination, and tests contribute to clinical decisions."
+              "Use fictional educational cases to understand how symptoms, medical history, examination, and tests contribute to clinical decisions.",
           },
           {
             title: "Learn about medical ethics",
             description:
-              "Explore confidentiality, informed consent, respect, patient autonomy, and professional responsibility."
+              "Explore confidentiality, informed consent, respect, patient autonomy, and professional responsibility.",
           },
           {
             title: "Understand public health",
             description:
-              "Investigate how vaccination, sanitation, health education, and disease prevention support communities."
-          }
-        ]
+              "Investigate how vaccination, sanitation, health education, and disease prevention support communities.",
+          },
+        ],
       },
       {
         title: "Explore Medical Education and Training",
@@ -1511,19 +1511,19 @@ const roadmaps = {
           {
             title: "Research Nigerian medical programmes",
             description:
-              "Compare recognised medical schools and verify current JAMB, O'level, admission, and programme requirements."
+              "Compare recognised medical schools and verify current JAMB, O'level, admission, and programme requirements.",
           },
           {
             title: "Understand clinical training",
             description:
-              "Learn about medical school learning, supervised clinical rotations, and the transition into internship and professional registration."
+              "Learn about medical school learning, supervised clinical rotations, and the transition into internship and professional registration.",
           },
           {
             title: "Explore medical specialities",
             description:
-              "Research fields such as paediatrics, surgery, internal medicine, obstetrics and gynaecology, and community medicine."
-          }
-        ]
+              "Research fields such as paediatrics, surgery, internal medicine, obstetrics and gynaecology, and community medicine.",
+          },
+        ],
       },
       {
         title: "Prepare for a Career in Medicine",
@@ -1533,50 +1533,50 @@ const roadmaps = {
           {
             title: "Create a science study plan",
             description:
-              "Set a consistent schedule for biology, chemistry, physics, and English, with time for revision and practice questions."
+              "Set a consistent schedule for biology, chemistry, physics, and English, with time for revision and practice questions.",
           },
           {
             title: "Practise clear communication",
             description:
-              "Summarise a health topic in simple language and consider how a healthcare professional should communicate respectfully."
+              "Summarise a health topic in simple language and consider how a healthcare professional should communicate respectfully.",
           },
           {
             title: "Reflect on the responsibilities",
             description:
-              "Consider the emotional demands, ethical responsibilities, teamwork, and lifelong learning involved in medical practice."
-          }
-        ]
-      }
+              "Consider the emotional demands, ethical responsibilities, teamwork, and lifelong learning involved in medical practice.",
+          },
+        ],
+      },
     ],
     resources: [
       {
         title: "Khan Academy",
         description:
           "Study biology, chemistry, and human anatomy and physiology foundations.",
-        url: "https://www.khanacademy.org/"
+        url: "https://www.khanacademy.org/",
       },
       {
         title: "World Health Organization",
         description:
           "Explore reliable information about health, diseases, prevention, and public health.",
-        url: "https://www.who.int/"
+        url: "https://www.who.int/",
       },
       {
         title: "Medical and Dental Council of Nigeria",
         description:
           "Check information about medical education, registration, and professional regulation in Nigeria.",
-        url: "https://mdcn.gov.ng/"
+        url: "https://mdcn.gov.ng/",
       },
       {
         title: "JAMB",
         description:
           "Consult official information and current admission materials when researching medical programmes.",
-        url: "https://www.jamb.gov.ng/"
-      }
-    ]
+        url: "https://www.jamb.gov.ng/",
+      },
+    ],
   },
 
-  "nurse": {
+  nurse: {
     stages: [
       {
         title: "Build Your Biology and Health Foundation",
@@ -1586,19 +1586,19 @@ const roadmaps = {
           {
             title: "Study human body systems",
             description:
-              "Explore the heart, lungs, digestive system, brain, muscles, and other major body systems."
+              "Explore the heart, lungs, digestive system, brain, muscles, and other major body systems.",
           },
           {
             title: "Understand infection and prevention",
             description:
-              "Learn how microorganisms spread and why hand hygiene, sanitation, vaccination, and infection prevention matter."
+              "Learn how microorganisms spread and why hand hygiene, sanitation, vaccination, and infection prevention matter.",
           },
           {
             title: "Develop communication skills",
             description:
-              "Practise listening carefully, explaining information clearly, and communicating respectfully with people of different backgrounds."
-          }
-        ]
+              "Practise listening carefully, explaining information clearly, and communicating respectfully with people of different backgrounds.",
+          },
+        ],
       },
       {
         title: "Understand Nursing and Patient Care",
@@ -1608,19 +1608,19 @@ const roadmaps = {
           {
             title: "Explore the nursing role",
             description:
-              "Learn about patient observation, health education, care planning, advocacy, and collaboration with other professionals."
+              "Learn about patient observation, health education, care planning, advocacy, and collaboration with other professionals.",
           },
           {
             title: "Learn basic vital-sign concepts",
             description:
-              "Study what temperature, pulse, breathing rate, blood pressure, and oxygen saturation indicate in general terms."
+              "Study what temperature, pulse, breathing rate, blood pressure, and oxygen saturation indicate in general terms.",
           },
           {
             title: "Understand dignity and confidentiality",
             description:
-              "Explore privacy, consent, respect, safeguarding, and professional boundaries in patient care."
-          }
-        ]
+              "Explore privacy, consent, respect, safeguarding, and professional boundaries in patient care.",
+          },
+        ],
       },
       {
         title: "Explore Safe Care and Clinical Reasoning",
@@ -1630,19 +1630,19 @@ const roadmaps = {
           {
             title: "Study patient safety",
             description:
-              "Learn why accurate documentation, identity checks, infection control, and clear communication are important."
+              "Learn why accurate documentation, identity checks, infection control, and clear communication are important.",
           },
           {
             title: "Explore health scenarios",
             description:
-              "Use fictional educational cases to identify relevant observations and understand when a trained professional must be involved."
+              "Use fictional educational cases to identify relevant observations and understand when a trained professional must be involved.",
           },
           {
             title: "Learn about emergency response",
             description:
-              "Explore the purpose of first aid and how to seek emergency assistance. Practise clinical procedures only through appropriate supervised training."
-          }
-        ]
+              "Explore the purpose of first aid and how to seek emergency assistance. Practise clinical procedures only through appropriate supervised training.",
+          },
+        ],
       },
       {
         title: "Research Nursing Education",
@@ -1652,19 +1652,19 @@ const roadmaps = {
           {
             title: "Compare nursing programmes",
             description:
-              "Research recognised nursing schools and university programmes, checking current admission criteria and entry requirements."
+              "Research recognised nursing schools and university programmes, checking current admission criteria and entry requirements.",
           },
           {
             title: "Understand supervised clinical practice",
             description:
-              "Learn why practical placements and supervised skills training are essential components of nursing education."
+              "Learn why practical placements and supervised skills training are essential components of nursing education.",
           },
           {
             title: "Explore nursing specialities",
             description:
-              "Investigate areas such as paediatric, community, mental health, emergency, and maternal health nursing."
-          }
-        ]
+              "Investigate areas such as paediatric, community, mental health, emergency, and maternal health nursing.",
+          },
+        ],
       },
       {
         title: "Prepare for the Profession",
@@ -1674,50 +1674,50 @@ const roadmaps = {
           {
             title: "Plan your science revision",
             description:
-              "Create a weekly study schedule for relevant science subjects, English, and examination practice."
+              "Create a weekly study schedule for relevant science subjects, English, and examination practice.",
           },
           {
             title: "Practise explaining health information",
             description:
-              "Summarise a reliable health resource in simple language while avoiding unsupported medical claims."
+              "Summarise a reliable health resource in simple language while avoiding unsupported medical claims.",
           },
           {
             title: "Reflect on nursing responsibilities",
             description:
-              "Consider teamwork, shift work, emotional resilience, patient advocacy, and lifelong professional development."
-          }
-        ]
-      }
+              "Consider teamwork, shift work, emotional resilience, patient advocacy, and lifelong professional development.",
+          },
+        ],
+      },
     ],
     resources: [
       {
         title: "World Health Organization",
         description:
           "Explore evidence-based public health information and global nursing priorities.",
-        url: "https://www.who.int/"
+        url: "https://www.who.int/",
       },
       {
         title: "Khan Academy",
         description:
           "Review biology, anatomy, physiology, and related science foundations.",
-        url: "https://www.khanacademy.org/"
+        url: "https://www.khanacademy.org/",
       },
       {
         title: "Nursing and Midwifery Council of Nigeria",
         description:
           "Consult the official regulator for information about nursing education and professional registration.",
-        url: "https://www.nmcn.gov.ng/"
+        url: "https://www.nmcn.gov.ng/",
       },
       {
         title: "UNICEF",
         description:
           "Learn about child health, maternal health, nutrition, and community wellbeing.",
-        url: "https://www.unicef.org/"
-      }
-    ]
+        url: "https://www.unicef.org/",
+      },
+    ],
   },
 
-  "pharmacist": {
+  pharmacist: {
     stages: [
       {
         title: "Build Your Chemistry and Biology Foundation",
@@ -1727,19 +1727,19 @@ const roadmaps = {
           {
             title: "Strengthen chemistry",
             description:
-              "Study atoms, molecules, chemical reactions, solutions, acids and bases, and introductory organic chemistry."
+              "Study atoms, molecules, chemical reactions, solutions, acids and bases, and introductory organic chemistry.",
           },
           {
             title: "Explore human biology",
             description:
-              "Learn about body systems, cells, enzymes, and the basic processes that affect how the body responds to substances."
+              "Learn about body systems, cells, enzymes, and the basic processes that affect how the body responds to substances.",
           },
           {
             title: "Practise accurate calculations",
             description:
-              "Build confidence with fractions, ratios, percentages, unit conversions, and scientific notation."
-          }
-        ]
+              "Build confidence with fractions, ratios, percentages, unit conversions, and scientific notation.",
+          },
+        ],
       },
       {
         title: "Understand Medicines",
@@ -1749,19 +1749,19 @@ const roadmaps = {
           {
             title: "Learn medicine terminology",
             description:
-              "Understand the difference between active ingredients, dosage forms, routes of administration, and brand and generic names."
+              "Understand the difference between active ingredients, dosage forms, routes of administration, and brand and generic names.",
           },
           {
             title: "Explore pharmacology basics",
             description:
-              "Study introductory concepts such as how medicines affect the body and how the body processes them."
+              "Study introductory concepts such as how medicines affect the body and how the body processes them.",
           },
           {
             title: "Understand medicine safety",
             description:
-              "Learn why correct use, side effects, interactions, storage, and professional guidance matter."
-          }
-        ]
+              "Learn why correct use, side effects, interactions, storage, and professional guidance matter.",
+          },
+        ],
       },
       {
         title: "Explore Pharmacy Practice",
@@ -1771,19 +1771,19 @@ const roadmaps = {
           {
             title: "Explore patient counselling",
             description:
-              "Study how pharmacists explain medicine instructions, precautions, storage, and when patients should seek further advice."
+              "Study how pharmacists explain medicine instructions, precautions, storage, and when patients should seek further advice.",
           },
           {
             title: "Understand medicine quality",
             description:
-              "Learn about medicine storage, quality assurance, expiry dates, and the risks of counterfeit or substandard products."
+              "Learn about medicine storage, quality assurance, expiry dates, and the risks of counterfeit or substandard products.",
           },
           {
             title: "Explore pharmacy settings",
             description:
-              "Compare community pharmacy, hospital pharmacy, pharmaceutical manufacturing, research, and regulatory work."
-          }
-        ]
+              "Compare community pharmacy, hospital pharmacy, pharmaceutical manufacturing, research, and regulatory work.",
+          },
+        ],
       },
       {
         title: "Learn About Research and Regulation",
@@ -1793,19 +1793,19 @@ const roadmaps = {
           {
             title: "Explore medicine development",
             description:
-              "Learn the broad stages of research, clinical evaluation, approval, manufacturing, and post-market safety monitoring."
+              "Learn the broad stages of research, clinical evaluation, approval, manufacturing, and post-market safety monitoring.",
           },
           {
             title: "Understand evidence-based decisions",
             description:
-              "Compare reliable medicine information with unsupported health claims and learn to check trustworthy sources."
+              "Compare reliable medicine information with unsupported health claims and learn to check trustworthy sources.",
           },
           {
             title: "Research Nigerian regulation",
             description:
-              "Explore the roles of the Pharmacy Council of Nigeria and NAFDAC in their respective areas of professional regulation and medicine oversight."
-          }
-        ]
+              "Explore the roles of the Pharmacy Council of Nigeria and NAFDAC in their respective areas of professional regulation and medicine oversight.",
+          },
+        ],
       },
       {
         title: "Plan Your Pharmacy Pathway",
@@ -1815,47 +1815,47 @@ const roadmaps = {
           {
             title: "Research accredited programmes",
             description:
-              "Compare recognised pharmacy programmes in Nigeria and verify current JAMB, O'level, and institutional requirements."
+              "Compare recognised pharmacy programmes in Nigeria and verify current JAMB, O'level, and institutional requirements.",
           },
           {
             title: "Understand professional progression",
             description:
-              "Investigate required training, registration, and other current requirements through official regulatory sources."
+              "Investigate required training, registration, and other current requirements through official regulatory sources.",
           },
           {
             title: "Create a science learning portfolio",
             description:
-              "Collect chemistry summaries, biology notes, medicine-safety research, and reflections on pharmacy specialities."
-          }
-        ]
-      }
+              "Collect chemistry summaries, biology notes, medicine-safety research, and reflections on pharmacy specialities.",
+          },
+        ],
+      },
     ],
     resources: [
       {
         title: "Khan Academy",
         description:
           "Strengthen chemistry, biology, and related scientific foundations.",
-        url: "https://www.khanacademy.org/"
+        url: "https://www.khanacademy.org/",
       },
       {
         title: "MedlinePlus",
         description:
           "Explore accessible, evidence-based information about medicines and health.",
-        url: "https://medlineplus.gov/"
+        url: "https://medlineplus.gov/",
       },
       {
         title: "Pharmacy Council of Nigeria",
         description:
           "Consult the official regulator for pharmacy education and professional practice information.",
-        url: "https://pcn.gov.ng/"
+        url: "https://pcn.gov.ng/",
       },
       {
         title: "NAFDAC",
         description:
           "Learn about medicine regulation, product safety, and public health protection in Nigeria.",
-        url: "https://nafdac.gov.ng/"
-      }
-    ]
+        url: "https://nafdac.gov.ng/",
+      },
+    ],
   },
 
   "medical-laboratory-scientist": {
@@ -1868,19 +1868,19 @@ const roadmaps = {
           {
             title: "Study cells and microorganisms",
             description:
-              "Explore cells, bacteria, viruses, fungi, and the roles microorganisms play in health and disease."
+              "Explore cells, bacteria, viruses, fungi, and the roles microorganisms play in health and disease.",
           },
           {
             title: "Understand basic chemistry",
             description:
-              "Review solutions, concentrations, chemical reactions, and the importance of accurate measurements."
+              "Review solutions, concentrations, chemical reactions, and the importance of accurate measurements.",
           },
           {
             title: "Practise scientific observation",
             description:
-              "Learn to record observations accurately, distinguish evidence from assumptions, and communicate results clearly."
-          }
-        ]
+              "Learn to record observations accurately, distinguish evidence from assumptions, and communicate results clearly.",
+          },
+        ],
       },
       {
         title: "Explore Laboratory Science",
@@ -1890,19 +1890,19 @@ const roadmaps = {
           {
             title: "Explore major laboratory disciplines",
             description:
-              "Learn about haematology, clinical chemistry, medical microbiology, histopathology, and immunology."
+              "Learn about haematology, clinical chemistry, medical microbiology, histopathology, and immunology.",
           },
           {
             title: "Understand specimen handling",
             description:
-              "Study why specimen identification, correct collection, transport, storage, and documentation affect test reliability."
+              "Study why specimen identification, correct collection, transport, storage, and documentation affect test reliability.",
           },
           {
             title: "Learn quality control concepts",
             description:
-              "Explore calibration, controls, reference ranges, repeat testing, and the importance of reliable results."
-          }
-        ]
+              "Explore calibration, controls, reference ranges, repeat testing, and the importance of reliable results.",
+          },
+        ],
       },
       {
         title: "Understand Laboratory Safety and Equipment",
@@ -1912,19 +1912,19 @@ const roadmaps = {
           {
             title: "Explore common laboratory instruments",
             description:
-              "Learn the purposes of microscopes, centrifuges, pipettes, and basic analytical instruments."
+              "Learn the purposes of microscopes, centrifuges, pipettes, and basic analytical instruments.",
           },
           {
             title: "Study laboratory safety",
             description:
-              "Understand protective equipment, hazard labels, waste handling, contamination prevention, and safe conduct."
+              "Understand protective equipment, hazard labels, waste handling, contamination prevention, and safe conduct.",
           },
           {
             title: "Practise interpreting sample results",
             description:
-              "Use fictional educational examples to understand units, reference intervals, quality limitations, and why results require professional interpretation."
-          }
-        ]
+              "Use fictional educational examples to understand units, reference intervals, quality limitations, and why results require professional interpretation.",
+          },
+        ],
       },
       {
         title: "Explore Diagnostics and Research",
@@ -1934,19 +1934,19 @@ const roadmaps = {
           {
             title: "Follow a fictional diagnostic case",
             description:
-              "Trace how a sample may be received, processed, tested, checked, and reported in a properly managed laboratory."
+              "Trace how a sample may be received, processed, tested, checked, and reported in a properly managed laboratory.",
           },
           {
             title: "Explore disease surveillance",
             description:
-              "Learn how laboratory data can help identify outbreaks and monitor infectious diseases."
+              "Learn how laboratory data can help identify outbreaks and monitor infectious diseases.",
           },
           {
             title: "Understand professional ethics",
             description:
-              "Study confidentiality, accurate reporting, quality assurance, and the importance of avoiding unsupported conclusions."
-          }
-        ]
+              "Study confidentiality, accurate reporting, quality assurance, and the importance of avoiding unsupported conclusions.",
+          },
+        ],
       },
       {
         title: "Research Your Education Pathway",
@@ -1956,50 +1956,50 @@ const roadmaps = {
           {
             title: "Compare recognised programmes",
             description:
-              "Research Medical Laboratory Science programmes in Nigeria and verify current admission requirements and accreditation."
+              "Research Medical Laboratory Science programmes in Nigeria and verify current admission requirements and accreditation.",
           },
           {
             title: "Explore career opportunities",
             description:
-              "Investigate diagnostic laboratories, hospitals, public health, research, quality assurance, and laboratory management."
+              "Investigate diagnostic laboratories, hospitals, public health, research, quality assurance, and laboratory management.",
           },
           {
             title: "Build a science portfolio",
             description:
-              "Collect laboratory concept notes, sample-result interpretation exercises, and reflections on laboratory safety and accuracy."
-          }
-        ]
-      }
+              "Collect laboratory concept notes, sample-result interpretation exercises, and reflections on laboratory safety and accuracy.",
+          },
+        ],
+      },
     ],
     resources: [
       {
         title: "Lab Tests Online",
         description:
           "Explore educational explanations of laboratory tests and their general purposes.",
-        url: "https://www.testing.com/"
+        url: "https://www.testing.com/",
       },
       {
         title: "Khan Academy",
         description:
           "Review biology, chemistry, and other science foundations relevant to laboratory work.",
-        url: "https://www.khanacademy.org/"
+        url: "https://www.khanacademy.org/",
       },
       {
         title: "World Health Organization",
         description:
           "Explore public health laboratory guidance, disease information, and laboratory quality resources.",
-        url: "https://www.who.int/"
+        url: "https://www.who.int/",
       },
       {
         title: "Medical Laboratory Science Council of Nigeria",
         description:
           "Consult the official professional regulator for education and practice information.",
-        url: "https://web.mlscn.gov.ng/"
-      }
-    ]
+        url: "https://web.mlscn.gov.ng/",
+      },
+    ],
   },
 
-  "physiotherapist": {
+  physiotherapist: {
     stages: [
       {
         title: "Understand the Human Body and Movement",
@@ -2009,19 +2009,19 @@ const roadmaps = {
           {
             title: "Explore bones and joints",
             description:
-              "Learn about the skeleton, joint types, and how bones provide support and enable movement."
+              "Learn about the skeleton, joint types, and how bones provide support and enable movement.",
           },
           {
             title: "Study muscles and nerves",
             description:
-              "Explore how muscles contract and how the nervous system helps coordinate movement."
+              "Explore how muscles contract and how the nervous system helps coordinate movement.",
           },
           {
             title: "Understand forces and balance",
             description:
-              "Use everyday examples to explore gravity, leverage, stability, posture, and movement."
-          }
-        ]
+              "Use everyday examples to explore gravity, leverage, stability, posture, and movement.",
+          },
+        ],
       },
       {
         title: "Explore Physiotherapy",
@@ -2031,19 +2031,19 @@ const roadmaps = {
           {
             title: "Discover areas of practice",
             description:
-              "Explore musculoskeletal, neurological, paediatric, cardiorespiratory, and sports physiotherapy."
+              "Explore musculoskeletal, neurological, paediatric, cardiorespiratory, and sports physiotherapy.",
           },
           {
             title: "Understand rehabilitation",
             description:
-              "Learn how rehabilitation plans may support recovery, mobility, strength, balance, and daily activities."
+              "Learn how rehabilitation plans may support recovery, mobility, strength, balance, and daily activities.",
           },
           {
             title: "Explore person-centred care",
             description:
-              "Understand why treatment goals should consider an individual's needs, abilities, preferences, and professional assessment."
-          }
-        ]
+              "Understand why treatment goals should consider an individual's needs, abilities, preferences, and professional assessment.",
+          },
+        ],
       },
       {
         title: "Learn About Assessment and Exercise",
@@ -2053,19 +2053,19 @@ const roadmaps = {
           {
             title: "Explore movement observation",
             description:
-              "Study how posture, walking, joint movement, and balance can be observed in educational examples."
+              "Study how posture, walking, joint movement, and balance can be observed in educational examples.",
           },
           {
             title: "Understand exercise principles",
             description:
-              "Learn introductory ideas about gradual progression, repetition, rest, and adapting activities to individual needs."
+              "Learn introductory ideas about gradual progression, repetition, rest, and adapting activities to individual needs.",
           },
           {
             title: "Study safe practice",
             description:
-              "Explore why qualified assessment, consent, precautions, and supervision are important before providing treatment."
-          }
-        ]
+              "Explore why qualified assessment, consent, precautions, and supervision are important before providing treatment.",
+          },
+        ],
       },
       {
         title: "Explore Rehabilitation in Real Life",
@@ -2075,19 +2075,19 @@ const roadmaps = {
           {
             title: "Review fictional case studies",
             description:
-              "Consider how rehabilitation goals might differ for someone recovering from an injury versus someone managing a long-term movement condition."
+              "Consider how rehabilitation goals might differ for someone recovering from an injury versus someone managing a long-term movement condition.",
           },
           {
             title: "Explore assistive equipment",
             description:
-              "Learn the general purposes of mobility aids and how appropriate assessment helps determine their use."
+              "Learn the general purposes of mobility aids and how appropriate assessment helps determine their use.",
           },
           {
             title: "Understand teamwork",
             description:
-              "Explore how physiotherapists collaborate with doctors, nurses, occupational therapists, and families."
-          }
-        ]
+              "Explore how physiotherapists collaborate with doctors, nurses, occupational therapists, and families.",
+          },
+        ],
       },
       {
         title: "Plan Your Physiotherapy Pathway",
@@ -2097,50 +2097,51 @@ const roadmaps = {
           {
             title: "Research recognised programmes",
             description:
-              "Compare physiotherapy programmes in Nigeria and verify current entry requirements and accreditation."
+              "Compare physiotherapy programmes in Nigeria and verify current entry requirements and accreditation.",
           },
           {
             title: "Understand supervised clinical education",
             description:
-              "Learn why practical placements and supervised patient-care experience are essential."
+              "Learn why practical placements and supervised patient-care experience are essential.",
           },
           {
             title: "Build a learning portfolio",
             description:
-              "Collect anatomy notes, movement diagrams, rehabilitation research summaries, and reflections on patient-centred care."
-          }
-        ]
-      }
+              "Collect anatomy notes, movement diagrams, rehabilitation research summaries, and reflections on patient-centred care.",
+          },
+        ],
+      },
     ],
     resources: [
       {
         title: "Physiopedia",
         description:
           "Explore educational material about rehabilitation, movement, and physiotherapy practice.",
-        url: "https://www.physio-pedia.com/"
+        url: "https://www.physio-pedia.com/",
       },
       {
         title: "Khan Academy",
         description:
           "Study biology, anatomy, physiology, and related science foundations.",
-        url: "https://www.khanacademy.org/"
+        url: "https://www.khanacademy.org/",
       },
       {
         title: "World Physiotherapy",
         description:
           "Learn about the physiotherapy profession and its role in health and rehabilitation.",
-        url: "https://world.physio/"
+        url: "https://world.physio/",
       },
       {
-        title: "Medical Rehabilitation Therapists Registration Board of Nigeria",
+        title:
+          "Medical Rehabilitation Therapists Registration Board of Nigeria",
         description:
           "Consult the professional regulator for physiotherapy and other regulated rehabilitation professions.",
-        url: "https://mrtb.gov.ng/"
-      }
-    ]
+        url: "https://mrtb.gov.ng/",
+      },
+    ],
   },
 
-  "radiographer": {
+  radiographer: {
     stages: [
       {
         title: "Build Your Physics and Biology Foundation",
@@ -2150,19 +2151,19 @@ const roadmaps = {
           {
             title: "Study basic human anatomy",
             description:
-              "Explore bones, organs, body systems, and anatomical positions used when describing the human body."
+              "Explore bones, organs, body systems, and anatomical positions used when describing the human body.",
           },
           {
             title: "Understand waves and radiation",
             description:
-              "Learn introductory physics concepts related to waves, electromagnetic radiation, energy, and how X-rays differ from visible light."
+              "Learn introductory physics concepts related to waves, electromagnetic radiation, energy, and how X-rays differ from visible light.",
           },
           {
             title: "Strengthen scientific mathematics",
             description:
-              "Practise unit conversions, ratios, graphs, and interpreting measurements."
-          }
-        ]
+              "Practise unit conversions, ratios, graphs, and interpreting measurements.",
+          },
+        ],
       },
       {
         title: "Explore Medical Imaging",
@@ -2172,19 +2173,19 @@ const roadmaps = {
           {
             title: "Learn about X-ray imaging",
             description:
-              "Explore how X-rays interact with different tissues and why bones often appear differently from soft tissues in an image."
+              "Explore how X-rays interact with different tissues and why bones often appear differently from soft tissues in an image.",
           },
           {
             title: "Compare imaging techniques",
             description:
-              "Learn the basic differences between X-ray, CT, MRI, and ultrasound, including which methods use ionising radiation."
+              "Learn the basic differences between X-ray, CT, MRI, and ultrasound, including which methods use ionising radiation.",
           },
           {
             title: "Understand image quality",
             description:
-              "Explore how positioning, movement, contrast, and equipment settings can affect diagnostic images."
-          }
-        ]
+              "Explore how positioning, movement, contrast, and equipment settings can affect diagnostic images.",
+          },
+        ],
       },
       {
         title: "Understand Imaging Safety",
@@ -2194,19 +2195,19 @@ const roadmaps = {
           {
             title: "Study radiation protection",
             description:
-              "Explore justification, optimisation, exposure reduction, shielding policies where appropriate, and professional safety procedures."
+              "Explore justification, optimisation, exposure reduction, shielding policies where appropriate, and professional safety procedures.",
           },
           {
             title: "Learn patient identification and preparation",
             description:
-              "Understand why confirming identity, explaining procedures, checking relevant information, and respecting patient dignity matter."
+              "Understand why confirming identity, explaining procedures, checking relevant information, and respecting patient dignity matter.",
           },
           {
             title: "Explore equipment quality assurance",
             description:
-              "Learn why imaging equipment needs regular checks, maintenance, and quality-control procedures."
-          }
-        ]
+              "Learn why imaging equipment needs regular checks, maintenance, and quality-control procedures.",
+          },
+        ],
       },
       {
         title: "Discover Imaging Practice",
@@ -2216,19 +2217,19 @@ const roadmaps = {
           {
             title: "Explore positioning concepts",
             description:
-              "Use diagrams or educational resources to understand how positioning influences the anatomy visible in an image."
+              "Use diagrams or educational resources to understand how positioning influences the anatomy visible in an image.",
           },
           {
             title: "Learn about image interpretation roles",
             description:
-              "Understand the different responsibilities of radiographers and radiologists in producing images and interpreting diagnostic findings."
+              "Understand the different responsibilities of radiographers and radiologists in producing images and interpreting diagnostic findings.",
           },
           {
             title: "Explore specialisations",
             description:
-              "Research areas such as CT, MRI, mammography, ultrasound where appropriately qualified, and interventional imaging."
-          }
-        ]
+              "Research areas such as CT, MRI, mammography, ultrasound where appropriately qualified, and interventional imaging.",
+          },
+        ],
       },
       {
         title: "Research Your Radiography Pathway",
@@ -2238,51 +2239,51 @@ const roadmaps = {
           {
             title: "Research recognised programmes",
             description:
-              "Compare Radiography programmes in Nigeria and verify current admission requirements and accreditation."
+              "Compare Radiography programmes in Nigeria and verify current admission requirements and accreditation.",
           },
           {
             title: "Understand clinical placements",
             description:
-              "Learn why supervised experience in imaging departments is essential to safe professional practice."
+              "Learn why supervised experience in imaging departments is essential to safe professional practice.",
           },
           {
             title: "Build a learning portfolio",
             description:
-              "Collect anatomy diagrams, imaging-method comparisons, radiation-safety notes, and reflections on patient care."
-          }
-        ]
-      }
+              "Collect anatomy diagrams, imaging-method comparisons, radiation-safety notes, and reflections on patient care.",
+          },
+        ],
+      },
     ],
     resources: [
       {
         title: "RadiologyInfo",
         description:
           "Explore patient-friendly explanations of imaging examinations and medical imaging techniques.",
-        url: "https://www.radiologyinfo.org/"
+        url: "https://www.radiologyinfo.org/",
       },
       {
         title: "International Atomic Energy Agency",
         description:
           "Explore educational resources about radiation protection and safe medical uses of radiation.",
-        url: "https://www.iaea.org/"
+        url: "https://www.iaea.org/",
       },
       {
         title: "Radiopaedia",
         description:
           "Explore a medical imaging reference with educational cases and anatomy resources.",
-        url: "https://radiopaedia.org/"
+        url: "https://radiopaedia.org/",
       },
       {
         title: "Radiographers Registration Board of Nigeria",
         description:
           "Consult the relevant professional regulator for current radiography education and registration information.",
-        url: "https://rrbn.gov.ng/"
-      }
-    ]
+        url: "https://rrbn.gov.ng/",
+      },
+    ],
   },
-//Science & Environment
+  //Science & Environment
 
-  "microbiologist": {
+  microbiologist: {
     stages: [
       {
         title: "Build Your Biology and Chemistry Foundation",
@@ -2292,19 +2293,19 @@ const roadmaps = {
           {
             title: "Explore the microbial world",
             description:
-              "Learn about bacteria, viruses, fungi, protozoa, and the different environments in which microorganisms exist."
+              "Learn about bacteria, viruses, fungi, protozoa, and the different environments in which microorganisms exist.",
           },
           {
             title: "Study cells and life processes",
             description:
-              "Explore cell structures, reproduction, metabolism, and how organisms obtain energy."
+              "Explore cell structures, reproduction, metabolism, and how organisms obtain energy.",
           },
           {
             title: "Strengthen chemistry skills",
             description:
-              "Review atoms, molecules, chemical reactions, solutions, and the role of chemistry in biological systems."
-          }
-        ]
+              "Review atoms, molecules, chemical reactions, solutions, and the role of chemistry in biological systems.",
+          },
+        ],
       },
       {
         title: "Understand Microbiology Fundamentals",
@@ -2314,19 +2315,19 @@ const roadmaps = {
           {
             title: "Explore beneficial and harmful microbes",
             description:
-              "Learn about microorganisms involved in digestion, food production, decomposition, and infectious disease."
+              "Learn about microorganisms involved in digestion, food production, decomposition, and infectious disease.",
           },
           {
             title: "Understand infection and immunity",
             description:
-              "Study how some microbes cause disease and how the immune system helps the body respond."
+              "Study how some microbes cause disease and how the immune system helps the body respond.",
           },
           {
             title: "Explore microbial identification",
             description:
-              "Learn how trained scientists use observations, laboratory tests, and molecular methods to identify microorganisms."
-          }
-        ]
+              "Learn how trained scientists use observations, laboratory tests, and molecular methods to identify microorganisms.",
+          },
+        ],
       },
       {
         title: "Learn Laboratory Science and Safety",
@@ -2336,19 +2337,19 @@ const roadmaps = {
           {
             title: "Explore microscopy",
             description:
-              "Learn the basic parts of a microscope and how magnification and resolution affect what can be observed."
+              "Learn the basic parts of a microscope and how magnification and resolution affect what can be observed.",
           },
           {
             title: "Understand contamination control",
             description:
-              "Study aseptic principles, protective equipment, specimen handling, and why microbiological work requires appropriate facilities and supervision."
+              "Study aseptic principles, protective equipment, specimen handling, and why microbiological work requires appropriate facilities and supervision.",
           },
           {
             title: "Learn about scientific evidence",
             description:
-              "Explore controls, repeat observations, accurate records, and the difference between a hypothesis and a supported conclusion."
-          }
-        ]
+              "Explore controls, repeat observations, accurate records, and the difference between a hypothesis and a supported conclusion.",
+          },
+        ],
       },
       {
         title: "Explore Microbiology Applications",
@@ -2358,19 +2359,19 @@ const roadmaps = {
           {
             title: "Investigate food microbiology",
             description:
-              "Learn how microorganisms can spoil food and how fermentation is used in products such as yoghurt and bread."
+              "Learn how microorganisms can spoil food and how fermentation is used in products such as yoghurt and bread.",
           },
           {
             title: "Explore environmental microbiology",
             description:
-              "Study how microorganisms contribute to decomposition, nutrient cycling, wastewater treatment, and soil health."
+              "Study how microorganisms contribute to decomposition, nutrient cycling, wastewater treatment, and soil health.",
           },
           {
             title: "Review a scientific case study",
             description:
-              "Summarise a published example of how microbiologists investigate contamination, disease, or an industrial process."
-          }
-        ]
+              "Summarise a published example of how microbiologists investigate contamination, disease, or an industrial process.",
+          },
+        ],
       },
       {
         title: "Plan Your Microbiology Pathway",
@@ -2380,50 +2381,50 @@ const roadmaps = {
           {
             title: "Research university programmes",
             description:
-              "Compare Microbiology programmes in Nigeria and verify current admission requirements and programme recognition."
+              "Compare Microbiology programmes in Nigeria and verify current admission requirements and programme recognition.",
           },
           {
             title: "Explore career directions",
             description:
-              "Investigate opportunities in research, food quality, public health, pharmaceuticals, industrial microbiology, and environmental monitoring."
+              "Investigate opportunities in research, food quality, public health, pharmaceuticals, industrial microbiology, and environmental monitoring.",
           },
           {
             title: "Create a science portfolio",
             description:
-              "Collect research summaries, labelled diagrams, science notes, and reflections on microbiology applications."
-          }
-        ]
-      }
+              "Collect research summaries, labelled diagrams, science notes, and reflections on microbiology applications.",
+          },
+        ],
+      },
     ],
     resources: [
       {
         title: "Microbiology Society",
         description:
           "Explore accessible microbiology resources, activities, and explanations of the microbial world.",
-        url: "https://microbiologysociety.org/"
+        url: "https://microbiologysociety.org/",
       },
       {
         title: "Khan Academy",
         description:
           "Review biology, cell biology, and chemistry concepts relevant to microbiology.",
-        url: "https://www.khanacademy.org/"
+        url: "https://www.khanacademy.org/",
       },
       {
         title: "American Society for Microbiology",
         description:
           "Explore microbiology education, research topics, and scientific learning resources.",
-        url: "https://asm.org/"
+        url: "https://asm.org/",
       },
       {
         title: "World Health Organization",
         description:
           "Learn about infectious diseases, antimicrobial resistance, and public health.",
-        url: "https://www.who.int/"
-      }
-    ]
+        url: "https://www.who.int/",
+      },
+    ],
   },
 
-  "biochemist": {
+  biochemist: {
     stages: [
       {
         title: "Build Your Biology and Chemistry Foundation",
@@ -2433,19 +2434,19 @@ const roadmaps = {
           {
             title: "Strengthen chemistry fundamentals",
             description:
-              "Study chemical bonding, reactions, acids and bases, solutions, and introductory organic chemistry."
+              "Study chemical bonding, reactions, acids and bases, solutions, and introductory organic chemistry.",
           },
           {
             title: "Explore cell biology",
             description:
-              "Learn about cell structures, membranes, organelles, and how cells maintain their internal environment."
+              "Learn about cell structures, membranes, organelles, and how cells maintain their internal environment.",
           },
           {
             title: "Understand biological molecules",
             description:
-              "Explore proteins, carbohydrates, lipids, nucleic acids, and their roles in living systems."
-          }
-        ]
+              "Explore proteins, carbohydrates, lipids, nucleic acids, and their roles in living systems.",
+          },
+        ],
       },
       {
         title: "Understand Biochemistry",
@@ -2455,19 +2456,19 @@ const roadmaps = {
           {
             title: "Explore enzymes",
             description:
-              "Learn how enzymes help reactions occur and how temperature, pH, and concentration can affect their activity."
+              "Learn how enzymes help reactions occur and how temperature, pH, and concentration can affect their activity.",
           },
           {
             title: "Study metabolism",
             description:
-              "Explore how organisms process nutrients and transfer energy through pathways such as cellular respiration."
+              "Explore how organisms process nutrients and transfer energy through pathways such as cellular respiration.",
           },
           {
             title: "Learn about DNA and proteins",
             description:
-              "Understand the basic relationship between genetic information, protein production, and cellular function."
-          }
-        ]
+              "Understand the basic relationship between genetic information, protein production, and cellular function.",
+          },
+        ],
       },
       {
         title: "Explore Scientific Methods",
@@ -2477,19 +2478,19 @@ const roadmaps = {
           {
             title: "Practise interpreting graphs",
             description:
-              "Use sample datasets to explore how changes in temperature, pH, or concentration may relate to enzyme activity."
+              "Use sample datasets to explore how changes in temperature, pH, or concentration may relate to enzyme activity.",
           },
           {
             title: "Understand laboratory instruments",
             description:
-              "Learn the basic purposes of spectrophotometers, centrifuges, pipettes, and other scientific instruments."
+              "Learn the basic purposes of spectrophotometers, centrifuges, pipettes, and other scientific instruments.",
           },
           {
             title: "Study experimental design",
             description:
-              "Explore variables, controls, repeat measurements, uncertainty, and accurate recording of results."
-          }
-        ]
+              "Explore variables, controls, repeat measurements, uncertainty, and accurate recording of results.",
+          },
+        ],
       },
       {
         title: "Explore Biochemistry Applications",
@@ -2499,19 +2500,19 @@ const roadmaps = {
           {
             title: "Investigate nutrition",
             description:
-              "Explore how the body processes carbohydrates, proteins, fats, vitamins, and minerals."
+              "Explore how the body processes carbohydrates, proteins, fats, vitamins, and minerals.",
           },
           {
             title: "Learn about diagnostic biochemistry",
             description:
-              "Study how measurements of substances in biological samples can contribute to clinical investigations."
+              "Study how measurements of substances in biological samples can contribute to clinical investigations.",
           },
           {
             title: "Explore biotechnology",
             description:
-              "Research how enzymes, proteins, and biological processes are used in medicine, food production, and industry."
-          }
-        ]
+              "Research how enzymes, proteins, and biological processes are used in medicine, food production, and industry.",
+          },
+        ],
       },
       {
         title: "Plan Your Biochemistry Pathway",
@@ -2521,50 +2522,49 @@ const roadmaps = {
           {
             title: "Research degree programmes",
             description:
-              "Compare Biochemistry programmes in Nigeria and check current admission requirements at your chosen institutions."
+              "Compare Biochemistry programmes in Nigeria and check current admission requirements at your chosen institutions.",
           },
           {
             title: "Explore possible careers",
             description:
-              "Investigate research, biotechnology, pharmaceutical development, laboratory science, nutrition research, and quality assurance."
+              "Investigate research, biotechnology, pharmaceutical development, laboratory science, nutrition research, and quality assurance.",
           },
           {
             title: "Build a learning portfolio",
             description:
-              "Organise molecular diagrams, data interpretation exercises, research summaries, and reflections on biochemistry."
-          }
-        ]
-      }
+              "Organise molecular diagrams, data interpretation exercises, research summaries, and reflections on biochemistry.",
+          },
+        ],
+      },
     ],
     resources: [
       {
         title: "Khan Academy",
-        description:
-          "Study introductory biology, chemistry, and biomolecules.",
-        url: "https://www.khanacademy.org/"
+        description: "Study introductory biology, chemistry, and biomolecules.",
+        url: "https://www.khanacademy.org/",
       },
       {
         title: "RCSB Protein Data Bank",
         description:
           "Explore three-dimensional structures of proteins and other biological molecules.",
-        url: "https://www.rcsb.org/"
+        url: "https://www.rcsb.org/",
       },
       {
         title: "Nature Education",
         description:
           "Explore scientific explanations and educational material related to biology and molecular science.",
-        url: "https://www.nature.com/scitable/"
+        url: "https://www.nature.com/scitable/",
       },
       {
         title: "MIT OpenCourseWare",
         description:
           "Access open course materials in chemistry, biology, and related sciences.",
-        url: "https://ocw.mit.edu/"
-      }
-    ]
+        url: "https://ocw.mit.edu/",
+      },
+    ],
   },
 
-  "chemist": {
+  chemist: {
     stages: [
       {
         title: "Build Your Chemistry Foundation",
@@ -2574,19 +2574,19 @@ const roadmaps = {
           {
             title: "Understand atomic structure",
             description:
-              "Study protons, neutrons, electrons, elements, isotopes, and the organisation of the periodic table."
+              "Study protons, neutrons, electrons, elements, isotopes, and the organisation of the periodic table.",
           },
           {
             title: "Explore chemical bonding",
             description:
-              "Learn about ionic, covalent, and metallic bonding and how bonding influences material properties."
+              "Learn about ionic, covalent, and metallic bonding and how bonding influences material properties.",
           },
           {
             title: "Practise chemical calculations",
             description:
-              "Work on balancing equations, relative masses, moles, concentrations, and introductory stoichiometry."
-          }
-        ]
+              "Work on balancing equations, relative masses, moles, concentrations, and introductory stoichiometry.",
+          },
+        ],
       },
       {
         title: "Explore Major Areas of Chemistry",
@@ -2596,19 +2596,19 @@ const roadmaps = {
           {
             title: "Study organic chemistry",
             description:
-              "Explore carbon compounds, functional groups, and how molecular structure relates to properties."
+              "Explore carbon compounds, functional groups, and how molecular structure relates to properties.",
           },
           {
             title: "Understand physical chemistry",
             description:
-              "Learn introductory ideas about energy changes, reaction rates, equilibrium, and the behaviour of substances."
+              "Learn introductory ideas about energy changes, reaction rates, equilibrium, and the behaviour of substances.",
           },
           {
             title: "Explore analytical chemistry",
             description:
-              "Discover how scientists identify substances and measure their concentrations using different analytical methods."
-          }
-        ]
+              "Discover how scientists identify substances and measure their concentrations using different analytical methods.",
+          },
+        ],
       },
       {
         title: "Learn Scientific Investigation",
@@ -2618,19 +2618,19 @@ const roadmaps = {
           {
             title: "Practise interpreting data",
             description:
-              "Use sample tables and graphs to compare results, identify trends, and recognise unusual measurements."
+              "Use sample tables and graphs to compare results, identify trends, and recognise unusual measurements.",
           },
           {
             title: "Explore laboratory equipment",
             description:
-              "Learn the purpose of balances, measuring cylinders, pipettes, and other common laboratory equipment."
+              "Learn the purpose of balances, measuring cylinders, pipettes, and other common laboratory equipment.",
           },
           {
             title: "Understand chemical safety",
             description:
-              "Learn how hazard labels, safety data sheets, protective equipment, and proper waste handling reduce risks. Perform experiments only in suitable supervised settings."
-          }
-        ]
+              "Learn how hazard labels, safety data sheets, protective equipment, and proper waste handling reduce risks. Perform experiments only in suitable supervised settings.",
+          },
+        ],
       },
       {
         title: "Discover Chemistry in Everyday Life",
@@ -2640,19 +2640,19 @@ const roadmaps = {
           {
             title: "Explore water quality",
             description:
-              "Learn what pH, dissolved substances, and contamination indicators can tell us about water, and why appropriate testing matters."
+              "Learn what pH, dissolved substances, and contamination indicators can tell us about water, and why appropriate testing matters.",
           },
           {
             title: "Investigate materials",
             description:
-              "Compare the properties and uses of polymers, metals, ceramics, and other materials."
+              "Compare the properties and uses of polymers, metals, ceramics, and other materials.",
           },
           {
             title: "Research industrial chemistry",
             description:
-              "Explore how chemical processes contribute to pharmaceuticals, agriculture, food production, energy, and manufacturing."
-          }
-        ]
+              "Explore how chemical processes contribute to pharmaceuticals, agriculture, food production, energy, and manufacturing.",
+          },
+        ],
       },
       {
         title: "Plan Your Chemistry Career",
@@ -2662,47 +2662,47 @@ const roadmaps = {
           {
             title: "Research university programmes",
             description:
-              "Compare Chemistry programmes in Nigeria and verify the current admission requirements of selected institutions."
+              "Compare Chemistry programmes in Nigeria and verify the current admission requirements of selected institutions.",
           },
           {
             title: "Explore specialisations",
             description:
-              "Investigate analytical, industrial, environmental, materials, medicinal, and research chemistry."
+              "Investigate analytical, industrial, environmental, materials, medicinal, and research chemistry.",
           },
           {
             title: "Prepare a science portfolio",
             description:
-              "Collect worked calculations, labelled diagrams, data interpretation exercises, and summaries of chemistry applications."
-          }
-        ]
-      }
+              "Collect worked calculations, labelled diagrams, data interpretation exercises, and summaries of chemistry applications.",
+          },
+        ],
+      },
     ],
     resources: [
       {
         title: "Chemistry LibreTexts",
         description:
           "Explore open educational material across major areas of chemistry.",
-        url: "https://chem.libretexts.org/"
+        url: "https://chem.libretexts.org/",
       },
       {
         title: "Royal Society of Chemistry",
         description:
           "Discover chemistry explanations, learning activities, and resources for students.",
-        url: "https://www.rsc.org/"
+        url: "https://www.rsc.org/",
       },
       {
         title: "PhET Interactive Simulations",
         description:
           "Use interactive simulations to explore atoms, molecules, reactions, and other science concepts.",
-        url: "https://phet.colorado.edu/"
+        url: "https://phet.colorado.edu/",
       },
       {
         title: "Khan Academy",
         description:
           "Practise chemistry concepts and foundational calculations.",
-        url: "https://www.khanacademy.org/"
-      }
-    ]
+        url: "https://www.khanacademy.org/",
+      },
+    ],
   },
 
   "agricultural-scientist": {
@@ -2715,19 +2715,19 @@ const roadmaps = {
           {
             title: "Explore plant growth",
             description:
-              "Learn about seeds, roots, stems, leaves, photosynthesis, and the factors plants need to grow."
+              "Learn about seeds, roots, stems, leaves, photosynthesis, and the factors plants need to grow.",
           },
           {
             title: "Study soil fundamentals",
             description:
-              "Explore soil texture, nutrients, organic matter, drainage, and the role soil plays in supporting crops."
+              "Explore soil texture, nutrients, organic matter, drainage, and the role soil plays in supporting crops.",
           },
           {
             title: "Understand agricultural ecosystems",
             description:
-              "Learn how crops, livestock, insects, microorganisms, water, and weather interact on farms."
-          }
-        ]
+              "Learn how crops, livestock, insects, microorganisms, water, and weather interact on farms.",
+          },
+        ],
       },
       {
         title: "Learn Crop and Livestock Systems",
@@ -2737,19 +2737,19 @@ const roadmaps = {
           {
             title: "Explore crop production",
             description:
-              "Research how crop choice, planting time, spacing, water, and soil conditions influence growth."
+              "Research how crop choice, planting time, spacing, water, and soil conditions influence growth.",
           },
           {
             title: "Understand livestock management",
             description:
-              "Learn the basic roles of animal nutrition, housing, welfare, breeding, and disease prevention."
+              "Learn the basic roles of animal nutrition, housing, welfare, breeding, and disease prevention.",
           },
           {
             title: "Study pests and plant health",
             description:
-              "Explore common categories of crop pests and diseases and the principles of integrated pest management."
-          }
-        ]
+              "Explore common categories of crop pests and diseases and the principles of integrated pest management.",
+          },
+        ],
       },
       {
         title: "Explore Agricultural Research",
@@ -2759,19 +2759,19 @@ const roadmaps = {
           {
             title: "Keep a sample field record",
             description:
-              "Design a record sheet for planting dates, rainfall observations, crop growth, and other relevant measurements."
+              "Design a record sheet for planting dates, rainfall observations, crop growth, and other relevant measurements.",
           },
           {
             title: "Understand experimental comparisons",
             description:
-              "Use a fictional dataset to compare crop growth under different conditions and consider which factors may explain the differences."
+              "Use a fictional dataset to compare crop growth under different conditions and consider which factors may explain the differences.",
           },
           {
             title: "Explore weather and farm decisions",
             description:
-              "Learn how rainfall forecasts, temperature, and seasonal patterns can inform planting and farm planning without guaranteeing outcomes."
-          }
-        ]
+              "Learn how rainfall forecasts, temperature, and seasonal patterns can inform planting and farm planning without guaranteeing outcomes.",
+          },
+        ],
       },
       {
         title: "Discover Modern and Sustainable Agriculture",
@@ -2781,19 +2781,19 @@ const roadmaps = {
           {
             title: "Learn about precision agriculture",
             description:
-              "Explore how GPS, sensors, satellite imagery, and data can help farmers monitor crops and manage resources."
+              "Explore how GPS, sensors, satellite imagery, and data can help farmers monitor crops and manage resources.",
           },
           {
             title: "Investigate soil and water conservation",
             description:
-              "Research crop rotation, mulching, erosion control, water-efficient irrigation, and other conservation practices."
+              "Research crop rotation, mulching, erosion control, water-efficient irrigation, and other conservation practices.",
           },
           {
             title: "Explore agricultural value chains",
             description:
-              "Trace how crops or livestock products move from production through storage, processing, transport, and markets."
-          }
-        ]
+              "Trace how crops or livestock products move from production through storage, processing, transport, and markets.",
+          },
+        ],
       },
       {
         title: "Plan Your Agricultural Science Pathway",
@@ -2803,47 +2803,47 @@ const roadmaps = {
           {
             title: "Research relevant programmes",
             description:
-              "Compare Agricultural Science and related degree programmes in Nigeria and check current admission requirements."
+              "Compare Agricultural Science and related degree programmes in Nigeria and check current admission requirements.",
           },
           {
             title: "Explore specialisations",
             description:
-              "Investigate agronomy, soil science, crop protection, animal science, agricultural economics, and extension services."
+              "Investigate agronomy, soil science, crop protection, animal science, agricultural economics, and extension services.",
           },
           {
             title: "Build a project portfolio",
             description:
-              "Prepare a small research proposal or agricultural observation report with clear objectives, findings, and limitations."
-          }
-        ]
-      }
+              "Prepare a small research proposal or agricultural observation report with clear objectives, findings, and limitations.",
+          },
+        ],
+      },
     ],
     resources: [
       {
         title: "Food and Agriculture Organization",
         description:
           "Explore global resources on crop production, livestock, food systems, and sustainable agriculture.",
-        url: "https://www.fao.org/"
+        url: "https://www.fao.org/",
       },
       {
         title: "CGIAR",
         description:
           "Discover agricultural research addressing food security, climate resilience, and farming systems.",
-        url: "https://www.cgiar.org/"
+        url: "https://www.cgiar.org/",
       },
       {
         title: "IITA",
         description:
           "Explore agricultural research and innovations relevant to tropical farming and African food systems.",
-        url: "https://www.iita.org/"
+        url: "https://www.iita.org/",
       },
       {
         title: "NiMet",
         description:
           "Consult Nigeria's meteorological agency for weather and climate information relevant to agricultural planning.",
-        url: "https://nimet.gov.ng/"
-      }
-    ]
+        url: "https://nimet.gov.ng/",
+      },
+    ],
   },
 
   "environmental-scientist": {
@@ -2856,19 +2856,19 @@ const roadmaps = {
           {
             title: "Explore ecosystems",
             description:
-              "Study food chains, biodiversity, habitats, energy flow, and interactions between organisms and their environment."
+              "Study food chains, biodiversity, habitats, energy flow, and interactions between organisms and their environment.",
           },
           {
             title: "Learn about Earth's systems",
             description:
-              "Explore the water cycle, atmosphere, soil, rocks, and how these systems interact."
+              "Explore the water cycle, atmosphere, soil, rocks, and how these systems interact.",
           },
           {
             title: "Strengthen scientific reasoning",
             description:
-              "Practise reading graphs, comparing observations, and distinguishing measured evidence from assumptions."
-          }
-        ]
+              "Practise reading graphs, comparing observations, and distinguishing measured evidence from assumptions.",
+          },
+        ],
       },
       {
         title: "Understand Pollution and Environmental Change",
@@ -2878,19 +2878,19 @@ const roadmaps = {
           {
             title: "Study air and water pollution",
             description:
-              "Learn about common pollutants, their sources, their possible effects, and approaches to monitoring them."
+              "Learn about common pollutants, their sources, their possible effects, and approaches to monitoring them.",
           },
           {
             title: "Explore waste management",
             description:
-              "Compare waste reduction, reuse, recycling, composting, and safe disposal."
+              "Compare waste reduction, reuse, recycling, composting, and safe disposal.",
           },
           {
             title: "Understand climate change",
             description:
-              "Learn about greenhouse gases, observed climate trends, potential impacts, and adaptation and mitigation strategies."
-          }
-        ]
+              "Learn about greenhouse gases, observed climate trends, potential impacts, and adaptation and mitigation strategies.",
+          },
+        ],
       },
       {
         title: "Learn Environmental Monitoring",
@@ -2900,19 +2900,19 @@ const roadmaps = {
           {
             title: "Design a simple observation study",
             description:
-              "Plan a non-hazardous observation project, such as documenting litter types around a public area without handling dangerous waste."
+              "Plan a non-hazardous observation project, such as documenting litter types around a public area without handling dangerous waste.",
           },
           {
             title: "Explore environmental measurements",
             description:
-              "Learn what measurements such as temperature, rainfall, pH, and particulate matter can tell us about environmental conditions."
+              "Learn what measurements such as temperature, rainfall, pH, and particulate matter can tell us about environmental conditions.",
           },
           {
             title: "Practise data interpretation",
             description:
-              "Use a sample dataset to create a graph, identify trends, and explain limitations in the available evidence."
-          }
-        ]
+              "Use a sample dataset to create a graph, identify trends, and explain limitations in the available evidence.",
+          },
+        ],
       },
       {
         title: "Explore Conservation and Environmental Solutions",
@@ -2922,19 +2922,19 @@ const roadmaps = {
           {
             title: "Investigate local environmental challenges",
             description:
-              "Research a documented issue such as erosion, flooding, deforestation, or waste disposal in a Nigerian community."
+              "Research a documented issue such as erosion, flooding, deforestation, or waste disposal in a Nigerian community.",
           },
           {
             title: "Compare possible interventions",
             description:
-              "Evaluate potential solutions by considering environmental impact, cost, feasibility, and community needs."
+              "Evaluate potential solutions by considering environmental impact, cost, feasibility, and community needs.",
           },
           {
             title: "Prepare an evidence-based proposal",
             description:
-              "Write a short proposal outlining the problem, supporting evidence, suggested action, and how its effectiveness could be evaluated."
-          }
-        ]
+              "Write a short proposal outlining the problem, supporting evidence, suggested action, and how its effectiveness could be evaluated.",
+          },
+        ],
       },
       {
         title: "Plan Your Environmental Science Career",
@@ -2944,48 +2944,1961 @@ const roadmaps = {
           {
             title: "Research relevant programmes",
             description:
-              "Compare Environmental Science and related programmes in Nigeria and verify current entry requirements."
+              "Compare Environmental Science and related programmes in Nigeria and verify current entry requirements.",
           },
           {
             title: "Explore career pathways",
             description:
-              "Investigate conservation, environmental assessment, pollution monitoring, climate research, waste management, and sustainability."
+              "Investigate conservation, environmental assessment, pollution monitoring, climate research, waste management, and sustainability.",
           },
           {
             title: "Build an environmental portfolio",
             description:
-              "Collect research summaries, graphs, observation reports, and a proposal addressing a real environmental issue."
-          }
-        ]
-      }
+              "Collect research summaries, graphs, observation reports, and a proposal addressing a real environmental issue.",
+          },
+        ],
+      },
     ],
     resources: [
       {
         title: "United Nations Environment Programme",
         description:
           "Explore global information about pollution, ecosystems, climate change, and environmental solutions.",
-        url: "https://www.unep.org/"
+        url: "https://www.unep.org/",
       },
       {
         title: "NASA Climate",
         description:
           "Learn about climate science through explanations, data, and visual resources.",
-        url: "https://science.nasa.gov/climate-change/"
+        url: "https://science.nasa.gov/climate-change/",
       },
       {
         title: "Our World in Data",
         description:
           "Explore environmental datasets and visualisations on energy, emissions, land use, and related topics.",
-        url: "https://ourworldindata.org/"
+        url: "https://ourworldindata.org/",
       },
       {
         title: "Nigerian Meteorological Agency",
         description:
           "Explore official weather and climate information for Nigeria.",
-        url: "https://nimet.gov.ng/"
-      }
-    ]
+        url: "https://nimet.gov.ng/",
+      },
+    ],
   },
-//Business
+  //Business
 
+  accountant: {
+    stages: [
+      {
+        title: "Build Your Mathematics and Business Foundation",
+        description:
+          "Develop confidence with numbers and understand how organisations manage money.",
+        activities: [
+          {
+            title: "Practise everyday calculations",
+            description:
+              "Work with percentages, ratios, fractions, averages, and basic financial calculations.",
+          },
+          {
+            title: "Understand how businesses operate",
+            description:
+              "Explore revenue, expenses, profit, assets, liabilities, and why organisations keep financial records.",
+          },
+        ],
+      },
+      {
+        title: "Learn Accounting Fundamentals",
+        description:
+          "Discover how financial transactions are recorded and organised.",
+        activities: [
+          {
+            title: "Explore basic accounting concepts",
+            description:
+              "Learn about debits and credits, journals, ledgers, trial balances, and financial statements.",
+          },
+          {
+            title: "Practise simple bookkeeping",
+            description:
+              "Create a sample record of income and expenses for a small school club or imaginary business.",
+          },
+        ],
+      },
+      {
+        title: "Develop Spreadsheet and Analysis Skills",
+        description:
+          "Use digital tools to organise financial information and check calculations.",
+        activities: [
+          {
+            title: "Learn spreadsheet basics",
+            description:
+              "Practise formulas, SUM, AVERAGE, sorting, filtering, and simple tables in Excel or Google Sheets.",
+          },
+          {
+            title: "Prepare a basic financial summary",
+            description:
+              "Use fictional transactions to calculate total income, total expenses, and profit or loss.",
+          },
+        ],
+      },
+      {
+        title: "Understand Ethics and Financial Reporting",
+        description:
+          "Learn why accurate records, confidentiality, and honesty matter in accounting.",
+        activities: [
+          {
+            title: "Explore financial statements",
+            description:
+              "Study the purpose of an income statement, statement of financial position, and cash flow statement.",
+          },
+          {
+            title: "Discuss professional ethics",
+            description:
+              "Consider how accountants should respond to errors, misleading records, and requests to falsify figures.",
+          },
+        ],
+      },
+      {
+        title: "Explore Accounting Education and Careers",
+        description:
+          "Research the qualifications and practical experience needed to enter the profession.",
+        activities: [
+          {
+            title: "Research Nigerian study pathways",
+            description:
+              "Check university accounting programmes and current admission requirements through official sources.",
+          },
+          {
+            title: "Explore professional qualifications",
+            description:
+              "Learn about ICAN and ANAN, their entry routes, and the requirements that apply to your circumstances.",
+          },
+          {
+            title: "Build a sample portfolio",
+            description:
+              "Organise your practice spreadsheets and fictional financial reports into a small learning portfolio.",
+          },
+        ],
+      },
+    ],
+    resources: [
+      {
+        title: "AccountingCoach",
+        description:
+          "Accessible explanations of accounting concepts, bookkeeping, and financial statements.",
+        url: "https://www.accountingcoach.com/",
+      },
+      {
+        title: "Microsoft Excel Help",
+        description:
+          "Learn spreadsheet formulas, tables, and data organisation.",
+        url: "https://support.microsoft.com/excel",
+      },
+      {
+        title: "ICAN",
+        description:
+          "Check official information about the Institute of Chartered Accountants of Nigeria and its qualification pathways.",
+        url: "https://www.icanig.org/",
+      },
+      {
+        title: "ANAN",
+        description:
+          "Explore the Association of National Accountants of Nigeria and its professional development information.",
+        url: "https://anan.org.ng/",
+      },
+    ],
+  },
+
+  economist: {
+    stages: [
+      {
+        title: "Build Your Mathematics and Social Science Foundation",
+        description:
+          "Develop the quantitative and critical-thinking skills used to understand economies.",
+        activities: [
+          {
+            title: "Strengthen your mathematics",
+            description:
+              "Practise percentages, ratios, graphs, averages, and interpreting numerical information.",
+          },
+          {
+            title: "Explore economic questions",
+            description:
+              "Think about why prices change, how people make choices, and how communities allocate limited resources.",
+          },
+        ],
+      },
+      {
+        title: "Understand Microeconomics",
+        description:
+          "Study how individuals, households, and businesses make economic decisions.",
+        activities: [
+          {
+            title: "Explore supply and demand",
+            description:
+              "Use familiar examples such as food prices, transport fares, or phone data to understand price changes.",
+          },
+          {
+            title: "Learn core concepts",
+            description:
+              "Study scarcity, opportunity cost, incentives, competition, and the role of markets.",
+          },
+        ],
+      },
+      {
+        title: "Explore Macroeconomics",
+        description:
+          "Understand the wider economy and the indicators used to describe its performance.",
+        activities: [
+          {
+            title: "Learn key economic indicators",
+            description:
+              "Explore inflation, unemployment, economic growth, exchange rates, and interest rates.",
+          },
+          {
+            title: "Connect concepts to Nigeria",
+            description:
+              "Choose a current Nigerian economic issue and explain the possible effects on households and businesses.",
+          },
+        ],
+      },
+      {
+        title: "Develop Data and Research Skills",
+        description:
+          "Learn to investigate economic questions using evidence instead of assumptions.",
+        activities: [
+          {
+            title: "Practise reading datasets",
+            description:
+              "Use a public dataset to create a table or chart and identify meaningful patterns.",
+          },
+          {
+            title: "Write a short economic briefing",
+            description:
+              "Summarise one issue, present supporting evidence, and distinguish facts from your own interpretation.",
+          },
+        ],
+      },
+      {
+        title: "Plan Your Economics Pathway",
+        description:
+          "Explore university study and the different careers that use economic reasoning.",
+        activities: [
+          {
+            title: "Research Nigerian programmes",
+            description:
+              "Check economics degree options and current admission requirements from universities and JAMB.",
+          },
+          {
+            title: "Explore related careers",
+            description:
+              "Investigate policy research, banking, public service, market research, development work, and data analysis.",
+          },
+          {
+            title: "Build a mini research portfolio",
+            description:
+              "Keep your charts, source notes, and economic briefing together as evidence of your developing skills.",
+          },
+        ],
+      },
+    ],
+    resources: [
+      {
+        title: "CORE Econ",
+        description:
+          "Free learning materials that introduce economics through real-world problems.",
+        url: "https://www.core-econ.org/",
+      },
+      {
+        title: "Khan Academy Economics",
+        description:
+          "Beginner-friendly lessons covering microeconomics and macroeconomics.",
+        url: "https://www.khanacademy.org/economics-finance-domain",
+      },
+      {
+        title: "National Bureau of Statistics Nigeria",
+        description:
+          "Find official Nigerian statistics and reports for economic research.",
+        url: "https://www.nigerianstat.gov.ng/",
+      },
+      {
+        title: "Our World in Data",
+        description:
+          "Explore data visualisations and explanations about economies and development.",
+        url: "https://ourworldindata.org/",
+      },
+    ],
+  },
+
+  "banking-finance-professional": {
+    stages: [
+      {
+        title: "Understand Money and Financial Systems",
+        description:
+          "Learn how people, businesses, banks, and other institutions manage money.",
+        activities: [
+          {
+            title: "Explore personal finance",
+            description:
+              "Learn about budgeting, saving, interest, borrowing, and the importance of financial planning.",
+          },
+          {
+            title: "Discover how banks work",
+            description:
+              "Study deposits, payments, loans, customer accounts, and the role banks play in the economy.",
+          },
+        ],
+      },
+      {
+        title: "Build Numeracy and Analytical Skills",
+        description:
+          "Develop the accuracy needed to interpret financial information and compare options.",
+        activities: [
+          {
+            title: "Practise financial calculations",
+            description:
+              "Work through simple percentages, compound interest examples, ratios, and repayment calculations.",
+          },
+          {
+            title: "Use spreadsheets",
+            description:
+              "Create a fictional monthly budget and compare different saving or spending scenarios.",
+          },
+        ],
+      },
+      {
+        title: "Explore Financial Products and Risk",
+        description:
+          "Understand common financial services and why responsible risk management matters.",
+        activities: [
+          {
+            title: "Compare financial products",
+            description:
+              "Research the general purposes of savings accounts, loans, insurance, and investment products.",
+          },
+          {
+            title: "Learn about financial risk",
+            description:
+              "Explore credit risk, fraud prevention, identity protection, and why customers should verify financial providers.",
+          },
+        ],
+      },
+      {
+        title: "Develop Customer Service and Professional Ethics",
+        description:
+          "Build communication, confidentiality, and responsible decision-making skills.",
+        activities: [
+          {
+            title: "Practise explaining financial concepts",
+            description:
+              "Explain a basic banking concept in plain language to a classmate or family member.",
+          },
+          {
+            title: "Explore ethical scenarios",
+            description:
+              "Consider how a finance professional should handle private customer information, suspicious transactions, or mistakes.",
+          },
+        ],
+      },
+      {
+        title: "Explore Finance Education and Career Routes",
+        description:
+          "Research the qualifications, specialist areas, and entry-level experience relevant to finance.",
+        activities: [
+          {
+            title: "Research study options",
+            description:
+              "Explore banking and finance, economics, accounting, mathematics, and related programmes in Nigeria.",
+          },
+          {
+            title: "Investigate the Nigerian financial sector",
+            description:
+              "Learn about the roles of the Central Bank of Nigeria, NDIC, SEC, and other relevant institutions.",
+          },
+          {
+            title: "Create a sample finance project",
+            description:
+              "Prepare a fictional budget, savings comparison, or financial literacy guide using reliable sources.",
+          },
+        ],
+      },
+    ],
+    resources: [
+      {
+        title: "Central Bank of Nigeria",
+        description:
+          "Learn about Nigeria's central bank, monetary policy, and financial system.",
+        url: "https://www.cbn.gov.ng/",
+      },
+      {
+        title: "NDIC",
+        description:
+          "Explore deposit insurance and public information about the Nigerian banking system.",
+        url: "https://ndic.gov.ng/",
+      },
+      {
+        title: "SEC Nigeria",
+        description:
+          "Find official information about capital markets, investment regulation, and investor awareness.",
+        url: "https://sec.gov.ng/",
+      },
+      {
+        title: "Khan Academy Personal Finance",
+        description:
+          "Study foundational concepts in saving, borrowing, and managing money.",
+        url: "https://www.khanacademy.org/college-careers-more/personal-finance",
+      },
+    ],
+  },
+
+  "marketing-specialist": {
+    stages: [
+      {
+        title: "Understand People, Products, and Markets",
+        description:
+          "Explore why people choose certain products and how businesses communicate value.",
+        activities: [
+          {
+            title: "Observe everyday marketing",
+            description:
+              "Compare adverts for two similar products and identify the audience, message, and promised benefit.",
+          },
+          {
+            title: "Learn the marketing mix",
+            description:
+              "Explore product, price, place, and promotion, and how these influence a marketing strategy.",
+          },
+        ],
+      },
+      {
+        title: "Learn Audience Research and Positioning",
+        description:
+          "Understand how marketers research customer needs and differentiate a product.",
+        activities: [
+          {
+            title: "Create a simple audience profile",
+            description:
+              "Choose a fictional product and describe the needs, interests, and challenges of its intended audience.",
+          },
+          {
+            title: "Practise ethical research",
+            description:
+              "Write a short, respectful survey and learn to avoid misleading questions or collecting unnecessary personal information.",
+          },
+        ],
+      },
+      {
+        title: "Develop Content and Communication Skills",
+        description:
+          "Practise creating clear messages that match a brand and its audience.",
+        activities: [
+          {
+            title: "Write sample marketing content",
+            description:
+              "Create a headline, short product description, and social media post for a fictional local business.",
+          },
+          {
+            title: "Explore visual communication",
+            description:
+              "Study how layout, imagery, colour, and typography affect the clarity of a campaign.",
+          },
+        ],
+      },
+      {
+        title: "Explore Digital Marketing and Measurement",
+        description:
+          "Learn how online campaigns reach audiences and how results can be evaluated.",
+        activities: [
+          {
+            title: "Study digital channels",
+            description:
+              "Explore search engines, social media, email, websites, and content marketing at a beginner level.",
+          },
+          {
+            title: "Learn basic campaign metrics",
+            description:
+              "Understand reach, impressions, clicks, conversion rate, and engagement without treating any single metric as the whole story.",
+          },
+          {
+            title: "Review a sample campaign",
+            description:
+              "Set a clear goal for a fictional campaign and suggest how you would measure whether it worked.",
+          },
+        ],
+      },
+      {
+        title: "Build a Marketing Portfolio",
+        description:
+          "Bring your research and creative work together while exploring study and career opportunities.",
+        activities: [
+          {
+            title: "Create a mini campaign",
+            description:
+              "Develop an audience profile, key message, content samples, and simple measurement plan for a fictional business.",
+          },
+          {
+            title: "Research education pathways",
+            description:
+              "Explore marketing, business administration, communications, and related Nigerian study programmes.",
+          },
+          {
+            title: "Explore professional roles",
+            description:
+              "Compare digital marketing, brand management, market research, advertising, and communications roles.",
+          },
+        ],
+      },
+    ],
+    resources: [
+      {
+        title: "Google Skillshop",
+        description:
+          "Explore training resources for Google's advertising and analytics tools.",
+        url: "https://skillshop.withgoogle.com/",
+      },
+      {
+        title: "HubSpot Academy",
+        description:
+          "Find beginner-friendly lessons in content marketing, digital marketing, and customer relationships.",
+        url: "https://academy.hubspot.com/",
+      },
+      {
+        title: "Meta Blueprint",
+        description:
+          "Explore educational resources about marketing across Meta platforms.",
+        url: "https://www.facebook.com/business/learn",
+      },
+      {
+        title: "Think with Google",
+        description:
+          "Read research and insights about consumer behaviour and digital marketing.",
+        url: "https://www.thinkwithgoogle.com/",
+      },
+    ],
+  },
+
+  entrepreneur: {
+    stages: [
+      {
+        title: "Learn to Spot Real Problems",
+        description:
+          "Start with people's needs instead of assuming every idea is a viable business.",
+        activities: [
+          {
+            title: "Observe everyday challenges",
+            description:
+              "List problems students, families, or small businesses experience and identify who is affected.",
+          },
+          {
+            title: "Choose one problem to investigate",
+            description:
+              "Describe who experiences it, how they currently manage it, and why a better solution might help.",
+          },
+        ],
+      },
+      {
+        title: "Research Customers and Test Your Idea",
+        description:
+          "Check whether the problem matters to potential customers before investing significant money.",
+        activities: [
+          {
+            title: "Talk to potential users",
+            description:
+              "Ask a few people open-ended questions about the problem, without pressuring them to praise your idea.",
+          },
+          {
+            title: "Study alternatives",
+            description:
+              "Look at existing products or services and identify what customers may still find difficult.",
+          },
+          {
+            title: "Define your value proposition",
+            description:
+              "Write one or two sentences explaining who your idea serves, what problem it addresses, and why it may be useful.",
+          },
+        ],
+      },
+      {
+        title: "Plan a Simple Business Model",
+        description:
+          "Understand how a business creates value, reaches customers, and covers its costs.",
+        activities: [
+          {
+            title: "Draft a business model",
+            description:
+              "Identify customer groups, the offer, distribution channels, key costs, and possible sources of revenue.",
+          },
+          {
+            title: "Create a basic budget",
+            description:
+              "Estimate startup costs, recurring expenses, selling price, and the number of sales needed to cover costs.",
+          },
+        ],
+      },
+      {
+        title: "Build and Test a Small Prototype",
+        description:
+          "Turn your idea into something people can react to without taking unnecessary financial risks.",
+        activities: [
+          {
+            title: "Make a minimum viable version",
+            description:
+              "Create a simple mock-up, sample service, demo website, or description that demonstrates the core idea.",
+          },
+          {
+            title: "Collect feedback and improve",
+            description:
+              "Ask potential users what is confusing, useful, or missing, then document what you would change.",
+          },
+          {
+            title: "Learn basic marketing",
+            description:
+              "Draft a clear message explaining the offer, intended customer, and benefit without making exaggerated claims.",
+          },
+        ],
+      },
+      {
+        title: "Understand Responsible Business Practice",
+        description:
+          "Explore the practical responsibilities involved in operating a business sustainably and legally.",
+        activities: [
+          {
+            title: "Learn about customer trust",
+            description:
+              "Study honest advertising, data privacy, transparent pricing, and responsible handling of complaints.",
+          },
+          {
+            title: "Research Nigerian business requirements",
+            description:
+              "Explore CAC registration information and identify which tax, licensing, or regulatory rules might apply to a real business.",
+          },
+          {
+            title: "Present your business concept",
+            description:
+              "Prepare a short pitch covering the problem, customer, solution, evidence, business model, costs, and next steps.",
+          },
+        ],
+      },
+    ],
+    resources: [
+      {
+        title: "Tony Elumelu Foundation",
+        description:
+          "Explore entrepreneurship programmes, learning resources, and information for African entrepreneurs.",
+        url: "https://www.tonyelumelufoundation.org/",
+      },
+      {
+        title: "SMEDAN",
+        description:
+          "Find Nigerian small-business development information and support resources.",
+        url: "https://smedan.gov.ng/",
+      },
+      {
+        title: "Corporate Affairs Commission",
+        description:
+          "Check official information about business-name and company registration in Nigeria.",
+        url: "https://www.cac.gov.ng/",
+      },
+      {
+        title: "Y Combinator Startup Library",
+        description:
+          "Learn about customer discovery, building products, and testing early-stage business ideas.",
+        url: "https://www.ycombinator.com/library",
+      },
+    ],
+  },
+  //Law, Education & Social
+
+  lawyer: {
+    stages: [
+      {
+        title: "Develop Your Reading and Reasoning Skills",
+        description:
+          "Build the communication, comprehension, and critical-thinking skills that legal study requires.",
+        activities: [
+          {
+            title: "Practise close reading",
+            description:
+              "Read an article or short argument and identify its main claim, supporting evidence, and assumptions.",
+          },
+          {
+            title: "Learn to construct arguments",
+            description:
+              "Choose a school or community issue and write a balanced argument supported by evidence.",
+          },
+        ],
+      },
+      {
+        title: "Understand the Purpose of Law",
+        description:
+          "Explore how laws establish rights, responsibilities, and processes for resolving disputes.",
+        activities: [
+          {
+            title: "Explore areas of law",
+            description:
+              "Learn the basic differences between criminal, civil, constitutional, commercial, and family law.",
+          },
+          {
+            title: "Discover Nigeria's legal system",
+            description:
+              "Research the roles of courts, legislatures, lawyers, and the Constitution of Nigeria.",
+          },
+        ],
+      },
+      {
+        title: "Build Research and Legal Writing Skills",
+        description:
+          "Learn how to find reliable information and communicate a reasoned position clearly.",
+        activities: [
+          {
+            title: "Practise source evaluation",
+            description:
+              "Compare a news report with an official legal or government source and identify what each can establish.",
+          },
+          {
+            title: "Write a case summary",
+            description:
+              "Using a publicly available educational case summary, identify the issue, relevant facts, decision, and reasoning.",
+          },
+        ],
+      },
+      {
+        title: "Explore Legal Ethics and Practice",
+        description:
+          "Understand the responsibilities involved in handling legal matters and representing others.",
+        activities: [
+          {
+            title: "Discuss ethical scenarios",
+            description:
+              "Consider confidentiality, honesty, conflicts of interest, and the importance of fair treatment.",
+          },
+          {
+            title: "Explore legal career settings",
+            description:
+              "Research work in law firms, public service, business, human rights, policy, and legal research.",
+          },
+        ],
+      },
+      {
+        title: "Plan Your Nigerian Legal Education Pathway",
+        description:
+          "Research the current requirements for studying law and qualifying to practise in Nigeria.",
+        activities: [
+          {
+            title: "Check admission requirements",
+            description:
+              "Review current JAMB, WAEC, and university requirements for law using official sources.",
+          },
+          {
+            title: "Understand professional qualification",
+            description:
+              "Research the recognised legal education and professional training route, including the Nigerian Law School and applicable current requirements.",
+          },
+          {
+            title: "Build a learning portfolio",
+            description:
+              "Collect your argument essays, research notes, and case summaries to demonstrate your developing skills.",
+          },
+        ],
+      },
+    ],
+    resources: [
+      {
+        title: "Nigerian Constitution",
+        description:
+          "Explore the constitutional framework underpinning Nigeria's government and fundamental rights.",
+        url: "https://nigerialii.org/",
+      },
+      {
+        title: "Nigerian Law School",
+        description:
+          "Check official information about professional legal education and training.",
+        url: "https://www.nigerianlawschool.edu.ng/",
+      },
+      {
+        title: "Nigerian Bar Association",
+        description:
+          "Explore the legal profession and professional information in Nigeria.",
+        url: "https://nigerianbar.org.ng/",
+      },
+      {
+        title: "JAMB",
+        description:
+          "Verify current admission information and requirements for law programmes.",
+        url: "https://www.jamb.gov.ng/",
+      },
+    ],
+  },
+
+  teacher: {
+    stages: [
+      {
+        title: "Understand How People Learn",
+        description:
+          "Explore how learners develop knowledge, practise skills, and build understanding at different speeds.",
+        activities: [
+          {
+            title: "Reflect on effective teaching",
+            description:
+              "Think of a topic someone explained well to you and identify what made the explanation easy to understand.",
+          },
+          {
+            title: "Explore learning differences",
+            description:
+              "Learn why learners may need different examples, explanations, practice opportunities, or levels of support.",
+          },
+        ],
+      },
+      {
+        title: "Build Subject Knowledge",
+        description:
+          "Develop a strong understanding of the subject you may want to teach.",
+        activities: [
+          {
+            title: "Choose a subject area",
+            description:
+              "Identify a subject you enjoy and review the topics expected at the secondary-school level.",
+          },
+          {
+            title: "Practise explaining concepts",
+            description:
+              "Choose a difficult concept and explain it using simple language, examples, and a short summary.",
+          },
+        ],
+      },
+      {
+        title: "Learn Lesson Planning",
+        description:
+          "Discover how teachers organise lessons around clear objectives and meaningful activities.",
+        activities: [
+          {
+            title: "Write a simple lesson plan",
+            description:
+              "Include a learning objective, introduction, explanation, learner activity, and a way to check understanding.",
+          },
+          {
+            title: "Create learning materials",
+            description:
+              "Prepare a short worksheet, diagram, or presentation that supports the lesson.",
+          },
+        ],
+      },
+      {
+        title: "Practise Communication and Assessment",
+        description:
+          "Develop skills for explaining ideas, checking progress, and giving constructive feedback.",
+        activities: [
+          {
+            title: "Deliver a mini-lesson",
+            description:
+              "Teach a short topic to a willing classmate or small group and ask what was clear or confusing.",
+          },
+          {
+            title: "Design a quick assessment",
+            description:
+              "Create a few questions that check whether learners can apply the concept rather than only repeat definitions.",
+          },
+          {
+            title: "Explore inclusive teaching",
+            description:
+              "Learn about respectful classroom management, accessibility, and supporting learners with different needs.",
+          },
+        ],
+      },
+      {
+        title: "Explore Teacher Training and Career Options",
+        description:
+          "Research the qualifications and professional expectations for teaching in Nigeria.",
+        activities: [
+          {
+            title: "Research education pathways",
+            description:
+              "Explore relevant degree programmes, education courses, and NCE pathways where applicable.",
+          },
+          {
+            title: "Check professional requirements",
+            description:
+              "Consult the Teachers Registration Council of Nigeria and relevant institutions for current requirements.",
+          },
+          {
+            title: "Build a teaching portfolio",
+            description:
+              "Save sample lesson plans, worksheets, and reflections on what you learned from teaching practice.",
+          },
+        ],
+      },
+    ],
+    resources: [
+      {
+        title: "Teachers Registration Council of Nigeria",
+        description:
+          "Find official information about teacher registration and professional standards.",
+        url: "https://trcn.gov.ng/",
+      },
+      {
+        title: "UNESCO Education",
+        description:
+          "Explore educational initiatives, learning challenges, and teaching-related resources.",
+        url: "https://www.unesco.org/en/education",
+      },
+      {
+        title: "Khan Academy",
+        description:
+          "Explore subject lessons that can inspire explanations, examples, and practice activities.",
+        url: "https://www.khanacademy.org/",
+      },
+      {
+        title: "CAST Universal Design for Learning",
+        description:
+          "Learn about designing learning experiences that support different learner needs.",
+        url: "https://udlguidelines.cast.org/",
+      },
+    ],
+  },
+
+  "psychologist-counsellor": {
+    stages: [
+      {
+        title: "Explore Human Behaviour and Development",
+        description:
+          "Begin learning how people think, feel, learn, and behave in different situations.",
+        activities: [
+          {
+            title: "Study introductory psychology",
+            description:
+              "Explore memory, motivation, emotion, learning, personality, and social behaviour.",
+          },
+          {
+            title: "Observe behaviour thoughtfully",
+            description:
+              "Reflect on how situations and environments influence behaviour without jumping to conclusions about people.",
+          },
+        ],
+      },
+      {
+        title: "Build Communication and Listening Skills",
+        description:
+          "Learn how empathy, respectful questions, and careful listening support constructive conversations.",
+        activities: [
+          {
+            title: "Practise active listening",
+            description:
+              "In an ordinary conversation, practise listening without interrupting and summarise what the other person said.",
+          },
+          {
+            title: "Learn about boundaries",
+            description:
+              "Explore confidentiality, consent, personal boundaries, and when a concern should be referred to a qualified adult or professional.",
+          },
+        ],
+      },
+      {
+        title: "Understand Research and Evidence",
+        description:
+          "Learn why psychology relies on careful research rather than stereotypes or assumptions.",
+        activities: [
+          {
+            title: "Explore research methods",
+            description:
+              "Learn the basic differences between surveys, interviews, observations, and experiments.",
+          },
+          {
+            title: "Evaluate a psychology claim",
+            description:
+              "Choose a popular claim about behaviour and look for reliable evidence that supports or challenges it.",
+          },
+        ],
+      },
+      {
+        title: "Explore Counselling and Psychological Practice",
+        description:
+          "Understand the different roles of psychologists and counsellors and the training these roles require.",
+        activities: [
+          {
+            title: "Compare professional roles",
+            description:
+              "Research the differences between psychology, counselling, psychiatry, and related support professions.",
+          },
+          {
+            title: "Learn about ethical practice",
+            description:
+              "Explore informed consent, confidentiality limits, professional boundaries, and safeguarding.",
+          },
+          {
+            title: "Understand referral",
+            description:
+              "Learn why serious or complex mental-health concerns require support from appropriately qualified professionals.",
+          },
+        ],
+      },
+      {
+        title: "Plan Your Education and Professional Pathway",
+        description:
+          "Research recognised programmes and the applicable professional requirements in Nigeria.",
+        activities: [
+          {
+            title: "Explore relevant courses",
+            description:
+              "Research psychology, guidance and counselling, and related university programmes.",
+          },
+          {
+            title: "Verify professional requirements",
+            description:
+              "Check current requirements with relevant Nigerian institutions and professional regulators before choosing a route.",
+          },
+          {
+            title: "Create a learning portfolio",
+            description:
+              "Collect your research summaries, reflections, and notes on ethical practice.",
+          },
+        ],
+      },
+    ],
+    resources: [
+      {
+        title: "American Psychological Association",
+        description:
+          "Explore introductory psychology topics, research, and explanations of human behaviour.",
+        url: "https://www.apa.org/",
+      },
+      {
+        title: "OpenStax Psychology",
+        description:
+          "Access a free introductory psychology textbook for structured learning.",
+        url: "https://openstax.org/details/books/psychology-2e",
+      },
+      {
+        title: "British Psychological Society",
+        description:
+          "Explore psychology as a discipline and learn about professional practice.",
+        url: "https://www.bps.org.uk/",
+      },
+      {
+        title: "WHO Mental Health",
+        description:
+          "Learn about mental health, wellbeing, and public-health approaches.",
+        url: "https://www.who.int/health-topics/mental-health",
+      },
+    ],
+  },
+
+  "human-resources-professional": {
+    stages: [
+      {
+        title: "Understand People and Organisations",
+        description:
+          "Explore how workplaces function and how organisations coordinate people toward shared goals.",
+        activities: [
+          {
+            title: "Explore organisational roles",
+            description:
+              "Choose a familiar organisation and map the different roles that help it operate.",
+          },
+          {
+            title: "Learn basic management concepts",
+            description:
+              "Study teamwork, leadership, motivation, communication, and workplace culture.",
+          },
+        ],
+      },
+      {
+        title: "Learn Human Resources Fundamentals",
+        description:
+          "Discover how organisations recruit, support, develop, and manage employees.",
+        activities: [
+          {
+            title: "Explore the employee lifecycle",
+            description:
+              "Learn about recruitment, onboarding, training, performance reviews, and employee development.",
+          },
+          {
+            title: "Understand workplace policies",
+            description:
+              "Explore why organisations use clear policies for attendance, conduct, leave, and grievance handling.",
+          },
+        ],
+      },
+      {
+        title: "Develop Communication and Organisation Skills",
+        description:
+          "Practise the careful communication and record-keeping needed in people-focused roles.",
+        activities: [
+          {
+            title: "Draft a job description",
+            description:
+              "Write a fictional job description with responsibilities, essential skills, and clear selection criteria.",
+          },
+          {
+            title: "Practise interview planning",
+            description:
+              "Prepare fair, role-related interview questions and learn to avoid irrelevant or discriminatory questions.",
+          },
+          {
+            title: "Use spreadsheets responsibly",
+            description:
+              "Create a fictional staff-training schedule or leave tracker using sample data only.",
+          },
+        ],
+      },
+      {
+        title: "Explore Employment Ethics and Workplace Practice",
+        description:
+          "Understand fairness, privacy, inclusion, and the responsibilities involved in managing employee information.",
+        activities: [
+          {
+            title: "Discuss workplace scenarios",
+            description:
+              "Consider how a professional should handle complaints, conflict, confidential records, and possible unfair treatment.",
+          },
+          {
+            title: "Research employment rights",
+            description:
+              "Explore Nigerian labour and employment information using current official sources.",
+          },
+        ],
+      },
+      {
+        title: "Plan Your HR Career Pathway",
+        description:
+          "Research relevant education, professional development, and entry-level experience.",
+        activities: [
+          {
+            title: "Explore study options",
+            description:
+              "Research human resource management, industrial relations, business administration, psychology, and related courses.",
+          },
+          {
+            title: "Investigate professional development",
+            description:
+              "Explore the Chartered Institute of Personnel Management of Nigeria and its current membership and qualification routes.",
+          },
+          {
+            title: "Build a sample portfolio",
+            description:
+              "Organise your fictional job description, interview guide, and training schedule into a small portfolio.",
+          },
+        ],
+      },
+    ],
+    resources: [
+      {
+        title: "CIPM Nigeria",
+        description:
+          "Explore professional development and information about human resource management in Nigeria.",
+        url: "https://cipmnigeria.org/",
+      },
+      {
+        title: "International Labour Organization",
+        description:
+          "Learn about decent work, employment standards, and workplace issues.",
+        url: "https://www.ilo.org/",
+      },
+      {
+        title: "SHRM",
+        description:
+          "Explore human resources concepts, workplace practices, and professional insights.",
+        url: "https://www.shrm.org/",
+      },
+      {
+        title: "Microsoft Excel Help",
+        description:
+          "Learn spreadsheet skills useful for organising schedules and analysing sample workforce data.",
+        url: "https://support.microsoft.com/excel",
+      },
+    ],
+  },
+
+  "social-worker": {
+    stages: [
+      {
+        title: "Understand Communities and Social Issues",
+        description:
+          "Explore how family, education, income, health, and community conditions affect people's lives.",
+        activities: [
+          {
+            title: "Explore community needs",
+            description:
+              "Choose a social issue and investigate its possible causes, who it affects, and what support already exists.",
+          },
+          {
+            title: "Learn about social systems",
+            description:
+              "Study how families, schools, community organisations, public services, and government programmes interact.",
+          },
+        ],
+      },
+      {
+        title: "Develop Empathy and Communication",
+        description:
+          "Build respectful listening and communication skills while recognising individual dignity.",
+        activities: [
+          {
+            title: "Practise respectful listening",
+            description:
+              "Learn to listen without blaming people or making assumptions about their circumstances.",
+          },
+          {
+            title: "Understand boundaries and privacy",
+            description:
+              "Explore confidentiality, consent, safeguarding, and why sensitive information should not be shared casually.",
+          },
+        ],
+      },
+      {
+        title: "Explore Support Services and Advocacy",
+        description:
+          "Discover how social workers and community organisations help people access services and support.",
+        activities: [
+          {
+            title: "Map local support systems",
+            description:
+              "Research publicly listed community services and organisations that support children, families, older people, or people with disabilities.",
+          },
+          {
+            title: "Learn about advocacy",
+            description:
+              "Explore how professionals help people understand their options and access appropriate services.",
+          },
+        ],
+      },
+      {
+        title: "Understand Ethics and Evidence-Based Practice",
+        description:
+          "Learn why social support requires professionalism, safety, and respect for people's choices.",
+        activities: [
+          {
+            title: "Explore ethical scenarios",
+            description:
+              "Consider how to respond when someone needs help, when information is private, or when there may be a safeguarding concern.",
+          },
+          {
+            title: "Research a social issue",
+            description:
+              "Use credible reports to write a short summary of an issue, its possible causes, and existing support approaches.",
+          },
+          {
+            title: "Understand professional limits",
+            description:
+              "Learn why complex legal, medical, or mental-health needs should be referred to qualified professionals.",
+          },
+        ],
+      },
+      {
+        title: "Explore Education and Social Work Careers",
+        description:
+          "Research study options and the requirements for social-service roles in Nigeria.",
+        activities: [
+          {
+            title: "Research relevant programmes",
+            description:
+              "Explore social work, sociology, psychology, community development, and related courses.",
+          },
+          {
+            title: "Investigate Nigerian organisations",
+            description:
+              "Learn about relevant government social welfare services and reputable community organisations.",
+          },
+          {
+            title: "Build a research portfolio",
+            description:
+              "Collect your issue brief, service map, and reflections on ethics and community support.",
+          },
+        ],
+      },
+    ],
+    resources: [
+      {
+        title: "UNICEF Nigeria",
+        description:
+          "Explore information and programmes related to child welfare, education, and protection.",
+        url: "https://www.unicef.org/nigeria/",
+      },
+      {
+        title: "International Federation of Social Workers",
+        description:
+          "Learn about social work values, professional ethics, and the role of social workers.",
+        url: "https://www.ifsw.org/",
+      },
+      {
+        title: "National Human Rights Commission Nigeria",
+        description:
+          "Explore human rights information and the Commission's work in Nigeria.",
+        url: "https://nhrc.gov.ng/",
+      },
+      {
+        title: "World Health Organization",
+        description:
+          "Explore public-health and community wellbeing resources relevant to social support.",
+        url: "https://www.who.int/",
+      },
+    ],
+  },
+  //Creative & Media
+
+  "graphic-designer": {
+    stages: [
+      {
+        title: "Develop Your Visual Design Awareness",
+        description:
+          "Learn how visual choices communicate ideas and influence how people understand information.",
+        activities: [
+          {
+            title: "Study design fundamentals",
+            description:
+              "Explore colour, typography, contrast, alignment, spacing, hierarchy, and visual balance.",
+          },
+          {
+            title: "Analyse everyday designs",
+            description:
+              "Compare posters, flyers, book covers, and adverts. Identify what makes each design clear or confusing.",
+          },
+        ],
+      },
+      {
+        title: "Learn Design Tools",
+        description:
+          "Become familiar with tools used to create digital graphics and layouts.",
+        activities: [
+          {
+            title: "Explore a design application",
+            description:
+              "Practise with tools such as Canva, GIMP, or Inkscape, starting with the features available for free.",
+          },
+          {
+            title: "Recreate a simple layout",
+            description:
+              "Use your own text and shapes to practise recreating the structure of a poster without copying another designer's work for submission.",
+          },
+        ],
+      },
+      {
+        title: "Practise Branding and Visual Communication",
+        description:
+          "Learn to make design decisions based on a message and its intended audience.",
+        activities: [
+          {
+            title: "Create a fictional brand",
+            description:
+              "Choose a fictional school club or small business and develop a name, colour palette, and typography choices.",
+          },
+          {
+            title: "Design a poster",
+            description:
+              "Create a poster with a clear headline, supporting details, readable text, and a purposeful visual hierarchy.",
+          },
+        ],
+      },
+      {
+        title: "Build a Small Design Portfolio",
+        description:
+          "Show how your work responds to a communication goal and improves through feedback.",
+        activities: [
+          {
+            title: "Create three different pieces",
+            description:
+              "Produce a poster, a social media graphic, and a simple brand identity for fictional projects.",
+          },
+          {
+            title: "Explain your design decisions",
+            description:
+              "Write a short note for each piece explaining its audience, purpose, and visual choices.",
+          },
+          {
+            title: "Improve through feedback",
+            description:
+              "Ask others whether your designs are readable and effective, then make thoughtful revisions.",
+          },
+        ],
+      },
+      {
+        title: "Explore Design Careers and Opportunities",
+        description:
+          "Discover where graphic design is used and how designers develop professionally.",
+        activities: [
+          {
+            title: "Explore specialist areas",
+            description:
+              "Research branding, advertising, publication design, packaging, illustration, and digital graphics.",
+          },
+          {
+            title: "Learn about client work",
+            description:
+              "Practise writing a simple project brief with a goal, audience, deliverables, and deadline.",
+          },
+          {
+            title: "Publish your portfolio",
+            description:
+              "Organise your strongest work in a shareable portfolio and clearly label personal or practice projects.",
+          },
+        ],
+      },
+    ],
+    resources: [
+      {
+        title: "Canva Design School",
+        description:
+          "Explore design principles, visual communication, and beginner-friendly creative tutorials.",
+        url: "https://www.canva.com/designschool/",
+      },
+      {
+        title: "GIMP Documentation",
+        description:
+          "Learn image editing and graphic creation with a free, open-source application.",
+        url: "https://www.gimp.org/docs/",
+      },
+      {
+        title: "Inkscape Tutorials",
+        description:
+          "Learn vector illustration and scalable graphics using a free, open-source tool.",
+        url: "https://inkscape.org/learn/tutorials/",
+      },
+      {
+        title: "Adobe Color",
+        description:
+          "Explore colour relationships and experiment with colour palettes.",
+        url: "https://color.adobe.com/",
+      },
+    ],
+  },
+
+  "ui-ux-designer": {
+    stages: [
+      {
+        title: "Understand Users and Digital Products",
+        description:
+          "Learn how user interface and user experience design help people use digital products effectively.",
+        activities: [
+          {
+            title: "Compare familiar interfaces",
+            description:
+              "Compare two websites or apps and identify which makes common tasks easier and why.",
+          },
+          {
+            title: "Learn UI versus UX",
+            description:
+              "Explore the difference between interface appearance, user journeys, usability, and the overall experience.",
+          },
+        ],
+      },
+      {
+        title: "Learn User Research and Problem Definition",
+        description:
+          "Discover how designers investigate real user needs before deciding on a solution.",
+        activities: [
+          {
+            title: "Choose a small problem",
+            description:
+              "Identify a task students commonly struggle with, such as finding information or organising schoolwork.",
+          },
+          {
+            title: "Create a user journey",
+            description:
+              "Map the steps a person takes to complete the task and note where confusion or unnecessary effort occurs.",
+          },
+          {
+            title: "Practise ethical research",
+            description:
+              "Ask a few willing people about their experiences without collecting unnecessary personal information.",
+          },
+        ],
+      },
+      {
+        title: "Learn Wireframing and Prototyping",
+        description:
+          "Turn your understanding of a problem into a simple layout that can be tested.",
+        activities: [
+          {
+            title: "Sketch low-fidelity wireframes",
+            description:
+              "Draw basic screen layouts showing navigation, headings, actions, and content placement.",
+          },
+          {
+            title: "Build a clickable prototype",
+            description:
+              "Use a tool such as Figma to link screens and demonstrate a simple user journey.",
+          },
+          {
+            title: "Apply accessibility principles",
+            description:
+              "Check text readability, colour contrast, clear labels, and whether important actions are easy to find.",
+          },
+        ],
+      },
+      {
+        title: "Test, Evaluate, and Improve",
+        description:
+          "Learn to evaluate a design through observation and user feedback rather than personal preference alone.",
+        activities: [
+          {
+            title: "Prepare usability tasks",
+            description:
+              "Write a few simple tasks that let someone try your prototype without you explaining every step.",
+          },
+          {
+            title: "Observe and take notes",
+            description:
+              "Notice where users hesitate, misunderstand labels, or struggle to finish a task.",
+          },
+          {
+            title: "Refine your prototype",
+            description:
+              "Make improvements based on what you observed and explain why each change helps.",
+          },
+        ],
+      },
+      {
+        title: "Build a UX Portfolio and Explore Careers",
+        description:
+          "Present your design process and research the skills used in professional product teams.",
+        activities: [
+          {
+            title: "Write a case study",
+            description:
+              "Document the problem, research, user journey, wireframes, prototype, feedback, and design decisions.",
+          },
+          {
+            title: "Explore related roles",
+            description:
+              "Compare UX design, UI design, interaction design, UX research, and product design.",
+          },
+          {
+            title: "Explore the technical side",
+            description:
+              "Learn basic HTML and CSS concepts to understand how interface designs can be implemented.",
+          },
+        ],
+      },
+    ],
+    resources: [
+      {
+        title: "Figma Learn",
+        description:
+          "Explore interface design, prototyping, and collaborative design workflows.",
+        url: "https://help.figma.com/hc/en-us/categories/360002051613-Learn-design",
+      },
+      {
+        title: "Nielsen Norman Group",
+        description:
+          "Learn about usability, user research, interaction design, and UX principles.",
+        url: "https://www.nngroup.com/articles/",
+      },
+      {
+        title: "Laws of UX",
+        description:
+          "Explore psychology-informed principles that help explain common design decisions.",
+        url: "https://lawsofux.com/",
+      },
+      {
+        title: "W3C Web Accessibility Initiative",
+        description:
+          "Learn about digital accessibility and designing for people with different needs.",
+        url: "https://www.w3.org/WAI/",
+      },
+    ],
+  },
+
+  "mass-communication-media-professional": {
+    stages: [
+      {
+        title: "Understand Media and Communication",
+        description:
+          "Explore how information reaches audiences through journalism, broadcasting, public relations, and digital media.",
+        activities: [
+          {
+            title: "Compare media formats",
+            description:
+              "Study how a news story is presented in print, radio, television, and online.",
+          },
+          {
+            title: "Learn about audiences",
+            description:
+              "Explore how audience needs, context, language, and the communication channel affect a message.",
+          },
+        ],
+      },
+      {
+        title: "Develop Research and News Literacy",
+        description:
+          "Learn to find reliable information and distinguish verified facts from opinion and misinformation.",
+        activities: [
+          {
+            title: "Verify a news claim",
+            description:
+              "Compare a report with credible independent sources and look for original statements or documents.",
+          },
+          {
+            title: "Practise interview preparation",
+            description:
+              "Choose a public-interest topic and write open-ended questions for a hypothetical interview.",
+          },
+          {
+            title: "Understand media ethics",
+            description:
+              "Explore accuracy, fairness, privacy, attribution, corrections, and the potential harm caused by publishing unverified claims.",
+          },
+        ],
+      },
+      {
+        title: "Practise Writing and Storytelling",
+        description: "Learn to communicate clearly in different media formats.",
+        activities: [
+          {
+            title: "Write a short news report",
+            description:
+              "Use a fictional or verified public-interest event to practise a clear headline, lead, and supporting details.",
+          },
+          {
+            title: "Create a broadcast script",
+            description:
+              "Adapt the report into a concise script that sounds natural when read aloud.",
+          },
+          {
+            title: "Explore public relations",
+            description:
+              "Draft a simple press release for a fictional school event, clearly distinguishing facts from promotional language.",
+          },
+        ],
+      },
+      {
+        title: "Explore Digital Media Production",
+        description:
+          "Understand how media teams plan, produce, and distribute content across channels.",
+        activities: [
+          {
+            title: "Plan a short media piece",
+            description:
+              "Create a basic production brief with an audience, purpose, format, key message, and distribution channel.",
+          },
+          {
+            title: "Learn content analytics",
+            description:
+              "Explore audience reach, engagement, and feedback, while considering accuracy and quality alongside popularity.",
+          },
+          {
+            title: "Practise responsible publishing",
+            description:
+              "Check names, dates, permissions, image rights, and source attribution before sharing a sample piece.",
+          },
+        ],
+      },
+      {
+        title: "Build a Media Portfolio and Plan Your Pathway",
+        description:
+          "Explore media specialisations and research relevant education and professional opportunities.",
+        activities: [
+          {
+            title: "Create a portfolio",
+            description:
+              "Collect a news report, interview plan, broadcast script, and press release or digital media piece.",
+          },
+          {
+            title: "Explore career specialisations",
+            description:
+              "Research journalism, broadcasting, public relations, corporate communication, and digital content production.",
+          },
+          {
+            title: "Research Nigerian education options",
+            description:
+              "Explore mass communication and related programmes, and verify current admission requirements with JAMB and the institutions.",
+          },
+        ],
+      },
+    ],
+    resources: [
+      {
+        title: "BBC Academy",
+        description:
+          "Explore learning materials about journalism, production, and media skills.",
+        url: "https://www.bbc.co.uk/academy",
+      },
+      {
+        title: "Reuters Handbook of Journalism",
+        description:
+          "Learn about reporting standards, verification, accuracy, and editorial practice.",
+        url: "https://www.reutersagency.com/en/about/standards-values/",
+      },
+      {
+        title: "Poynter",
+        description:
+          "Explore journalism education, fact-checking, and media literacy resources.",
+        url: "https://www.poynter.org/",
+      },
+      {
+        title: "Nigerian Press Council",
+        description:
+          "Explore information related to responsible journalism and the Nigerian media environment.",
+        url: "https://presscouncil.gov.ng/",
+      },
+    ],
+  },
+
+  "filmmaker-video-editor": {
+    stages: [
+      {
+        title: "Learn Visual Storytelling",
+        description:
+          "Explore how images, sound, pacing, and story structure communicate meaning.",
+        activities: [
+          {
+            title: "Analyse a short film",
+            description:
+              "Choose a film or short video and note how framing, lighting, sound, and editing influence the story.",
+          },
+          {
+            title: "Learn basic story structure",
+            description:
+              "Practise outlining a beginning, middle, and end for a short scene or documentary idea.",
+          },
+        ],
+      },
+      {
+        title: "Understand Camera and Sound Basics",
+        description:
+          "Learn the fundamentals of capturing clear and useful footage.",
+        activities: [
+          {
+            title: "Practise shot types",
+            description:
+              "Use a phone camera to practise wide shots, medium shots, close-ups, and stable framing.",
+          },
+          {
+            title: "Explore lighting and sound",
+            description:
+              "Compare footage recorded in different lighting conditions and listen for background noise or unclear dialogue.",
+          },
+          {
+            title: "Plan a shot list",
+            description:
+              "Break a simple scene into the shots needed to tell the story clearly.",
+          },
+        ],
+      },
+      {
+        title: "Learn Video Editing",
+        description:
+          "Develop the skills needed to organise footage and assemble a coherent sequence.",
+        activities: [
+          {
+            title: "Explore an editing tool",
+            description:
+              "Practise with a suitable editor such as Kdenlive, Shotcut, or DaVinci Resolve, checking hardware requirements first.",
+          },
+          {
+            title: "Edit a short sequence",
+            description:
+              "Import footage, trim clips, arrange a timeline, adjust audio levels, and add simple titles.",
+          },
+          {
+            title: "Understand export settings",
+            description:
+              "Learn the basics of resolution, frame rate, file formats, and choosing settings for the intended platform.",
+          },
+        ],
+      },
+      {
+        title: "Create a Complete Short Project",
+        description:
+          "Apply planning, filming, editing, and storytelling to a manageable project.",
+        activities: [
+          {
+            title: "Write a short treatment",
+            description:
+              "Summarise the concept, audience, key message, and intended look of a one- to three-minute video.",
+          },
+          {
+            title: "Film and edit the project",
+            description:
+              "Capture your footage, organise your files, edit the sequence, and check the final sound and picture.",
+          },
+          {
+            title: "Respect rights and safety",
+            description:
+              "Obtain appropriate permission from people you film and use music, images, and footage you have rights to use.",
+          },
+        ],
+      },
+      {
+        title: "Build a Video Portfolio and Explore Careers",
+        description:
+          "Present your work and learn about different roles in film and video production.",
+        activities: [
+          {
+            title: "Prepare a showreel",
+            description:
+              "Select a few strong clips and label your contribution clearly, especially when collaborating with others.",
+          },
+          {
+            title: "Explore production roles",
+            description:
+              "Research directing, editing, cinematography, sound, production management, and documentary filmmaking.",
+          },
+          {
+            title: "Plan your learning route",
+            description:
+              "Explore film, theatre and media, communication, and practical production learning opportunities.",
+          },
+        ],
+      },
+    ],
+    resources: [
+      {
+        title: "Blackmagic Design Training",
+        description:
+          "Find official learning materials for DaVinci Resolve, including editing and colour workflows.",
+        url: "https://www.blackmagicdesign.com/products/davinciresolve/training",
+      },
+      {
+        title: "Kdenlive Documentation",
+        description: "Learn to edit video using a free, open-source editor.",
+        url: "https://docs.kdenlive.org/",
+      },
+      {
+        title: "Shotcut Tutorials",
+        description:
+          "Explore video-editing workflows with a free, cross-platform editor.",
+        url: "https://www.shotcut.org/tutorials/",
+      },
+      {
+        title: "StudioBinder",
+        description:
+          "Explore filmmaking guides covering storyboarding, shot lists, and production planning.",
+        url: "https://www.studiobinder.com/blog/",
+      },
+    ],
+  },
+
+  "writer-content-creator": {
+    stages: [
+      {
+        title: "Build Your Writing Foundation",
+        description:
+          "Develop the clarity, structure, and language skills needed to communicate ideas effectively.",
+        activities: [
+          {
+            title: "Practise different writing formats",
+            description:
+              "Write a short explanation, a personal reflection, and an informative article on topics you understand.",
+          },
+          {
+            title: "Learn editing fundamentals",
+            description:
+              "Revise your writing for clarity, grammar, structure, repetition, and unnecessary words.",
+          },
+        ],
+      },
+      {
+        title: "Discover Your Audience and Purpose",
+        description:
+          "Learn to adapt content to the needs of its readers or viewers.",
+        activities: [
+          {
+            title: "Choose a content niche",
+            description:
+              "Explore topics such as education, technology, culture, business, entertainment, or everyday learning.",
+          },
+          {
+            title: "Define your audience",
+            description:
+              "Describe who the content is for, what they need, and what they should understand after engaging with it.",
+          },
+          {
+            title: "Study strong examples",
+            description:
+              "Analyse a few credible creators or publications and identify how they structure information and maintain audience trust.",
+          },
+        ],
+      },
+      {
+        title: "Learn Research and Content Planning",
+        description:
+          "Build a reliable process for finding information and planning useful content.",
+        activities: [
+          {
+            title: "Practise source verification",
+            description:
+              "Check claims against trustworthy sources and record links or references so readers can verify important information.",
+          },
+          {
+            title: "Create a content outline",
+            description:
+              "Organise a topic into a headline, introduction, key sections, supporting evidence, and conclusion.",
+          },
+          {
+            title: "Build a content calendar",
+            description:
+              "Plan a small set of pieces with topics, formats, target audiences, and realistic deadlines.",
+          },
+        ],
+      },
+      {
+        title: "Explore Digital Publishing and Content Formats",
+        description:
+          "Learn how writing can be adapted for websites, newsletters, social platforms, and multimedia.",
+        activities: [
+          {
+            title: "Publish a sample article",
+            description:
+              "Write an informative piece with a clear headline, helpful subheadings, and useful references.",
+          },
+          {
+            title: "Repurpose your content",
+            description:
+              "Turn the article into a short social post, a brief script, or a simple carousel outline without changing the facts.",
+          },
+          {
+            title: "Understand basic analytics",
+            description:
+              "Explore views, reading time, clicks, and engagement while prioritising usefulness and accuracy over popularity alone.",
+          },
+        ],
+      },
+      {
+        title: "Build a Writing Portfolio and Explore Opportunities",
+        description:
+          "Organise your work and investigate different writing and content-related career routes.",
+        activities: [
+          {
+            title: "Create a portfolio",
+            description:
+              "Collect three to five polished samples and briefly explain the purpose and audience of each.",
+          },
+          {
+            title: "Explore specialist roles",
+            description:
+              "Research copywriting, technical writing, journalism, editing, scriptwriting, blogging, and content strategy.",
+          },
+          {
+            title: "Learn professional practice",
+            description:
+              "Explore attribution, copyright, consent, fact-checking, deadlines, and how to respond constructively to edits.",
+          },
+        ],
+      },
+    ],
+    resources: [
+      {
+        title: "Purdue OWL",
+        description: "Explore writing, grammar, research, and editing guides.",
+        url: "https://owl.purdue.edu/",
+      },
+      {
+        title: "Google Search Central",
+        description:
+          "Learn how search engines discover and understand useful web content.",
+        url: "https://developers.google.com/search/docs",
+      },
+      {
+        title: "Grammarly Handbook",
+        description:
+          "Review writing and grammar concepts to help strengthen your editing process.",
+        url: "https://www.grammarly.com/blog/",
+      },
+      {
+        title: "Creative Commons",
+        description:
+          "Understand copyright licences and how to use or share creative work responsibly.",
+        url: "https://creativecommons.org/share-your-work/cclicenses/",
+      },
+    ],
+  },
 };
