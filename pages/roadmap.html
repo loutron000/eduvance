@@ -4,12 +4,16 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <title>Eduvance - Roadmap</title>
+    <title>Career Roadmap | Eduvance</title>
+
+    <meta
+      name="description"
+      content="Explore a practical learning roadmap for your chosen career with EDUVANCE."
+    />
 
     <link rel="icon" href="../assets/icons/favicon.ico" sizes="any" />
 
     <link rel="stylesheet" href="../css/style.css" />
-    <link rel="stylesheet" href="../css/valour.css" />
     <link rel="stylesheet" href="../css/jojo.css" />
   </head>
 
@@ -61,7 +65,88 @@
       </nav>
     </header>
 
-    
+    <main class="roadmap-page">
+      <section class="roadmap-hero container">
+        <a href="careers.html" class="roadmap-back-link" id="roadmap-back-link">
+          &larr; Explore careers
+        </a>
+
+        <p class="section-eyebrow">YOUR CAREER ROADMAP</p>
+
+        <h1 id="roadmap-title">Your path to your chosen career</h1>
+
+        <p id="roadmap-intro" class="roadmap-intro">
+          Explore the knowledge, skills and practical activities that can help
+          you get started in this career.
+        </p>
+      </section>
+
+      <section
+        class="roadmap-content container"
+        aria-labelledby="stages-heading"
+      >
+        <div class="roadmap-section-header">
+          <p class="section-eyebrow">YOUR LEARNING JOURNEY</p>
+          <h2 id="stages-heading">Learning stages</h2>
+          <p>
+            Follow a learning path designed around your chosen career. Take your
+            time exploring each stage.
+          </p>
+        </div>
+
+        <div
+          id="roadmap-stages"
+          class="roadmap-stages"
+          aria-live="polite"
+        ></div>
+      </section>
+
+      <section
+        class="roadmap-resources-section"
+        aria-labelledby="resources-heading"
+      >
+        <div class="container">
+          <div class="roadmap-section-header">
+            <p class="section-eyebrow">KEEP LEARNING</p>
+            <h2 id="resources-heading">Learning resources</h2>
+            <p>
+              Discover useful materials and platforms to help you explore the
+              field and develop relevant skills.
+            </p>
+          </div>
+
+          <div
+            id="roadmap-resources"
+            class="roadmap-resources"
+            aria-live="polite"
+          ></div>
+        </div>
+      </section>
+
+      <section
+        id="roadmap-error"
+        class="roadmap-error container"
+        role="status"
+        hidden
+      >
+        <h2>Roadmap unavailable</h2>
+        <p id="roadmap-error-message">
+          We couldn't find a roadmap for this career.
+        </p>
+        <a href="careers.html" class="btn btn-primary"> Explore careers </a>
+      </section>
+
+      <section class="roadmap-closing container">
+        <h2>Your journey starts with curiosity.</h2>
+        <p>
+          You don't need to know everything today. Start learning, explore your
+          interests, and build your skills one step at a time.
+        </p>
+        <a href="careers.html" class="btn btn-primary">
+          Explore more careers
+        </a>
+      </section>
+    </main>
 
     <footer class="site-footer">
       <div class="container footer-container">
@@ -89,7 +174,10 @@
       </div>
     </footer>
 
+    <script src="../data/careers.js"></script>
+    <script src="../data/roadmaps.js"></script>
     <script src="../js/main.js"></script>
     <script src="../js/auth.js"></script>
+    <script src="../js/roadmap.js"></script>
   </body>
 </html>
