@@ -93,6 +93,24 @@
               </a>
             </div>
 
+            <div class="dashboard-assessment_in-progress" hidden>
+              <p class="dashboard-assessment_eyebrow">Career Assessment</p>
+
+              <h2>Pick up where you left off</h2>
+
+              <p>
+                Your progress is saved. Continue answering the questions
+                whenever you're ready.
+              </p>
+
+              <div class="dashboard-assessment_actions">
+                <a href="assessment.html" class="dashboard-assessment_button">
+                  Continue assessment
+                  <span aria-hidden="true">↗</span>
+                </a>
+              </div>
+            </div>
+
             <div class="dashboard-assessment_completed" hidden>
               <p class="dashboard-assessment_eyebrow">Career Assessment</p>
 
@@ -104,7 +122,7 @@
 
               <div class="dashboard-assessment_actions">
                 <a
-                  href="assessment.html"
+                  href="assessment.html?retake=1"
                   class="dashboard-assessment_secondary-button"
                 >
                   Retake the assessment
@@ -161,8 +179,8 @@
               <h2>Your next steps will take shape here</h2>
 
               <p class="dashboard-roadmap_description">
-                Once you've completed your assessment, you can explore a
-                roadmap for your strongest career recommendation.
+                Once you've completed your assessment, you can explore a roadmap
+                for your strongest career recommendation.
               </p>
             </div>
 
@@ -262,6 +280,7 @@
     </footer>
 
     <script src="../js/main.js"></script>
+    <script src="../data/careers.js"></script>
     <script src="../js/dashboard.js"></script>
     <script src="../js/auth.js"></script>
   </body>
