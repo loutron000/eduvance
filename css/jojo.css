@@ -3135,3 +3135,32 @@
     font-size: 0.94rem;
   }
 }
+
+:root[data-theme="dark"] .about-page .content-card {
+  background: var(--color-surface);
+  border-color: var(--color-border);
+}
+
+:root[data-theme="dark"] .about-page .content-card h3,
+:root[data-theme="dark"] .about-page .about-closing h2 {
+  color: var(--color-heading);
+}
+
+:root[data-theme="dark"] .about-page .page-header p,
+:root[data-theme="dark"] .about-page .card-content p,
+:root[data-theme="dark"] .about-page .about-closing p {
+  color: var(--color-text);
+}
+
+:root[data-theme="dark"] .about-page .about-closing {
+  background: var(--color-teal-tint);
+  border-color: var(--color-border);
+}
+
+:root[data-theme="dark"] .about-page .direction span {
+  color: var(--color-accent);
+}
+
+:root[data-theme="dark"] .about-page .page-header h1 {
+  color: var(--color-heading);
+}
